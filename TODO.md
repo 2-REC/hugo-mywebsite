@@ -127,4 +127,24 @@ TO DO:
                     - if no icon
                         - ignore entry/icon
 
-...
+====================
+
+PROJECTS:
+
+- [ ] Put names of companies & products in bold/italic?
+
+- [ ] PRO
+  - [ ] ADD COMPANIES & PROJECTS!
+  - [ ] AGC
+    - [ ] Add image to home page, and small image
+    - [ ] FINISH PROJECTS! (+images & icons)
+  - [ ] TME
+    - [ ] Add image to home page, and small image
+    - [ ] FINISH PROJECTS! (+images & icons)
+  - [ ] VR Context
+    - [ ] "export plugin"
+      - [ ] Add 3DSMAX icon
+      - [ ] Add images
+    - [ ] "human models"
+      - [ ] Add 3DSMAX icon
+
