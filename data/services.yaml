@@ -1,10 +1,24 @@
 ---
+title: "SERVICES"
+background_image: "ab.jpg"
+
 # List of services.
 # Optional "text", "icon_pack" & "list"
 services:
-- name: "Service 1"
+- name: "2D/3D Tools Conception"
+  icon: "fa-toolbox"
+  icon_pack: "fas"
+  list: [ "CAD", "AR & VR", "Image Analysis", "Video Streaming" ]
+- name: "Video Game Design"
+  icon: "fa-gamepad"
+  icon_pack: "fas"
+  list: [ "Unity", "Android, Web, Windows, etc.", "Prototyping" ]
+- name: "UX/UI Design"
+  icon: "fa-wpforms"
+  icon_pack: "fab"
+  list: [ "Web", "Embedded Applications", "Visual Assets" ]
+- name: "IT Consulting"
   icon: "fa-chalkboard-teacher"
   icon_pack: "fas"
-  text: "..."
-  list: [ "One thing", "Another thing", "And some more ..." ]
+  list: [ "Advise", "Tutoring/Coaching", "Management" ]
 ---
