@@ -3,9 +3,9 @@
 # GLOBAL SITE SETTINGS
 # Parameters used by HUGO to configure the site's global settings.
 
-baseurl = "https://example.org/"
+baseURL = "https://derekseverin.com/"
 languageCode = "en-us"
-title = "My HUGO Site"
+title = "Derek Severin Pro Website"
 theme = "myportfolio"
 
 
@@ -44,7 +44,7 @@ theme = "myportfolio"
     [params.navigation]
 
         # Brand (OPTIONAL - but required if want HOME button)
-        brand = "YOUR BRAND"
+        brand = "DS"
 
         # NAVIGATION MENU ENTRIES (OPTIONAL)
         # Add an entry for each section to add in the navigation menu.
