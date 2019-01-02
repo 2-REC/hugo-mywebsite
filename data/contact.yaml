@@ -1,2 +1,39 @@
 ---
+title: "CONTACT"
+background_image: "cong_ca_phe.jpg"
+photo: "me.jpg"
+description: "Need a tailor-made desktop or mobile application?
+
+Willing to create a new attractive website for your company or as a personal project?
+
+Don't hesitate to contact me to see how we can collaborate."
+
+email:
+  address: "severinderek@gmail.com"
+  link: true
+  icon: "fa-envelope"
+  icon-pack: "fas"
+
+social:
+- icon: "fa-linkedin"
+  icon_pack: "fab"
+  link: "//linkedin.com/in/derekseverin"
+
+# want Facebook?
+#- icon: "fa-facebook-square"
+#  icon_pack: "fab"
+#  link: ""
+
+- icon: "fa-github"
+  icon_pack: "fab"
+  link: "//github.com/2-REC"
+
+- icon: "fa-gitlab"
+  icon_pack: "fab"
+  link: "//gitlab.com/2-REC"
+
+# add: Unity, Google+, GooglePlay, ...
+# add? - pinterest?, instagram?...?
+# ...
+
 ---
