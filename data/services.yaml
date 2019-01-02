@@ -1,0 +1,10 @@
+---
+# List of services.
+# Optional "text", "icon_pack" & "list"
+services:
+- name: "Service 1"
+  icon: "fa-chalkboard-teacher"
+  icon_pack: "fas"
+  text: "..."
+  list: [ "One thing", "Another thing", "And some more ..." ]
+---
