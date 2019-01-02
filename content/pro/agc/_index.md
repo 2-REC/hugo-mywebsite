@@ -6,13 +6,13 @@ endDate: "2018-02-01"
 #image: "agc"
 #image_copyright: "AGC"
 #small_image: "agc"
-posts_title: "Projects"
+posts_title: "PROJECTS"
 ---
 
-Description:<br>
+<b>DESCRIPTION</b><br>
 ...<br>
 
-Responsibilities:<br>
+<b>RESPONSIBILITIES</b><br>
 - Project Manager on "EDI with Suppliers" to establish first EDI communications between AGC and its suppliers<br>
 - Coordination between development teams in Belgium, Spain and Brazil, and suppliers in UK, Italy and Poland to establish EDI communications with suppliers<br>
 - Requirements gathering and analysis from business partners<br>

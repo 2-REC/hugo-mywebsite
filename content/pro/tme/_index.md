@@ -6,13 +6,13 @@ endDate: "2017-09-01"
 image: "????"
 #image_copyright: "TME"
 small_image: "toyota.jpg"
-posts_title: "Projects"
+posts_title: "PROJECTS"
 ---
 
-Description:<br>
+<b>DESCRIPTION</b><br>
 ...<br>
 
-Responsibilities:<br>
+<b>RESPONSIBILITIES</b><br>
 - Technical Leader on the "Drawing Comparison Tool" project<br>
 - Requirements analysis and technical choices on implementation<br>
 - Management of a team of 4 developers<br>
