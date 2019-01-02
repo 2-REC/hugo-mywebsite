@@ -9,11 +9,11 @@ small_image: "vrcontext.jpg"
 posts_title: "Projects"
 ---
 
-?
 Description:<br>
-...
-(Acquired by SIEMENS in 2012)
+As my first professional experience, working at VR Context* helped me discover the working environment with its constrainrs and responsibilities.<br>
 
 Responsibilities:<br>
 - Development of a 3DSMAX export plugin<br>
 - Creation of animated 3D human character models to be used in real-time simulation software
+
+<b style="color: red;">*DISCLAIMER:</b> VR Context have now stopped their activities and been acquired by SIEMENS.<br>

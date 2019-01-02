@@ -1,8 +1,8 @@
 ---
 title: "3DSMAX Human Characters Modelisation"
 subtitle: "Creation of animated 3D human models."
-categories: [ "" ]
-tags: [ "3DSMAX", "Photoshop", "Visual Studio?" ]
+categories: [ "3D" ]
+tags: [ "3DSMAX", "Photoshop", "Visual Studio" ]
 resources:
 #logos:
 - src: "logos/1.jpeg"
@@ -30,5 +30,5 @@ Need for animated humans models to populate real-time simulations in the in-hous
 <b>ROLE:</b><br>
 As a 3D Modeler, I was responsible for creating realistic 3D human models to be used in real-time security simulations.
 
-<b style="color: red;">*DISCLAIMER:</b> The "WalkInside" software and all the images and logos on this page are property of SIEMENS.<br>
+<b style="color: red;">*DISCLAIMER:</b> The WalkInside software and all the images and logos on this page are property of SIEMENS.<br>
 VR Context have now stopped their activities.

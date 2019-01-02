@@ -1,20 +1,27 @@
-+++
-title = "3DSMAX WalkInside Exporter Plugin"
-subtitle = "Development of file export plugin."
-#small_image = "walkinside"?
-#? copyrights = [ "..." ]
-categories = [ "" ]
-tags = [ "3DSMAX", "MAXSCRIPT", "C++", "Visual Studio", "WalkInside?" ]
-+++
+---
+title: "3DSMAX WalkInside Exporter Plugin"
+subtitle: "Development of file export plugin."
+#small_image: "walkinside"?
+#? copyrights: [ "..." ]
+categories: [ "3D" ]
+tags: [ "3DSMAX", "MAXSCRIPT", "C++", "Visual Studio" ]
+resources:
+#logos:
+- src: "logos/1.jpeg"
+  title: "VR CONTEXT"
+- src: "logos/2.png"
+  title: "SIEMENS"
+- src: "logos/3.png"
+  title: "COMOS"
+---
 
-(icons = [ "walkinside?", "vrcontext" ])
-
-<b>CLIENT:</b> VR Context - Internal project.
+<b>CLIENT:</b> VR Context* - Internal project.
 
 <b>DESCRIPTION:</b><br>
-File export plugin required to use the models created in 3DSMAX in the company's real-time security simulation software WalkInside.
+File export plugin required to use the models created in 3DSMAX in the company's real-time security simulation software WalkInside*.
 
 <b>ROLE:</b><br>
-As a Tools Developer, I was in charge of writing the 3DSMAX plugin to export created 3D models to the in-house proprietary format of WalkInside.
+As a Tools Developer, I was in charge of writing the 3DSMAX plugin to export created 3D models to the in-house proprietary format of WalkInside*.
 
-(images: 3DSMAX, WalkInside)
+<b style="color: red;">*DISCLAIMER:</b> The WalkInside software and all the images and logos on this page are property of SIEMENS.<br>
+VR Context have now stopped their activities.
