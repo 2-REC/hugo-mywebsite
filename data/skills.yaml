@@ -1,3 +1,17 @@
 ---
-text: "This section lists all the tags and categories found in the different projects."
+title: "SKILLS"
+tags_label: "TECHNOLOGIES / TOOLS"
+categories_label: "FIELDS / INDUSTRIES"
+
+text: "Here is a non-exhaustive list of technologies and tools I have been using throughout the years, \
+as well as a list of fields and industries I have been working in.
+
+You can also get my resume as a downloadable PDF."
+
+download:
+  button_text: "RESUME"
+  # The file must be in "static/files"
+  filename: "DerekSeverin_CV_2018.pdf"
+  icon: "fa-download"
+  icon-pack: "fas"
 ---
