@@ -6,6 +6,7 @@ endDate: "2018-02-01"
 #image: "agc"
 #image_copyright: "AGC"
 #small_image: "agc"
+#small_url: "<URL>"
 posts_title: "PROJECTS"
 ---
 
