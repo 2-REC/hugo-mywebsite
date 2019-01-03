@@ -1,18 +1,24 @@
 ---
 title: "3DSMAX WalkInside Exporter Plugin"
 subtitle: "Development of file export plugin."
-#small_image: "walkinside"?
-#? copyrights: [ "..." ]
+#image: "<IMAGE_FILE>"
+#small_image: "walkinside?"
+#small_url: "<URL>"
 categories: [ "3D" ]
 tags: [ "3DSMAX", "MAXSCRIPT", "C++", "Visual Studio" ]
 resources:
-#logos:
+##For each "logo" image file:
 - src: "logos/1.jpeg"
   title: "VR CONTEXT"
 - src: "logos/2.png"
   title: "SIEMENS"
 - src: "logos/3.png"
   title: "COMOS"
+##For each "image" image file:
+#- src: "images/<IMAGE_FILE>"
+#  title: "<TOOLTIP>"
+#  params:
+#    copyright: "<TEXT>"
 ---
 
 <b>CLIENT:</b> VR Context* - Internal project.

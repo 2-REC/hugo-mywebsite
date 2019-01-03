@@ -1,6 +1,9 @@
 ---
 title: "3DSMAX Human Characters Modelisation"
 subtitle: "Creation of animated 3D human models."
+#image: "<IMAGE_FILE>"
+#small_image: "<IMAGE_FILE>"
+#small_url: "<URL>"
 categories: [ "3D" ]
 tags: [ "3DSMAX", "Photoshop", "Visual Studio" ]
 resources:

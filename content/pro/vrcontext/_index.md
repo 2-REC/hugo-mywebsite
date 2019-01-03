@@ -6,6 +6,7 @@ endDate: "2004-02-01"
 image: "walkinside.jpg"
 image_copyright: "SIEMENS"
 small_image: "vrcontext.jpg"
+#small_url: "<URL>" # no URL for VR Context (?)
 posts_title: "PROJECTS"
 ---
 
