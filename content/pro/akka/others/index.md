@@ -28,12 +28,12 @@ When not working for a client, I was assigned various small internal projects.
 Some projects to help other consultants develop new skills, and other projects to experiment and showcase the company's know-how.
 
 <b>ROLE:</b><br>
-- Make a presentation with a colleague about how to use business rules ideologies in image analysis systems
-- Prepare and participate in the annual AKKA Awards event in Berlin to showcase the Drawing Comparison Tool
-- Set up a Continuous Integration system to be used by the company's developers
-- Coaching junior developers or non-developers colleagues to prepare them for their future asignments
-- Help the HR team in setting up and building the company's Sharepoint website
-- Install and experiment Android OS on the PandaBoard and its associated touchscreen
+- Make a presentation with a colleague about how to use business rules ideologies in image analysis systems<br>
+- Prepare and participate in the annual AKKA Awards event in Berlin to showcase the Drawing Comparison Tool<br>
+- Set up a Continuous Integration system to be used by the company's developers<br>
+- Coaching junior developers or non-developers colleagues to prepare them for their future asignments<br>
+- Help the HR team in setting up and building the company's Sharepoint website<br>
+- Install and experiment Android OS on the PandaBoard and its associated touchscreen<br>
 
 
 IMAGES: ...
