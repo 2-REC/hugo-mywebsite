@@ -1,12 +1,29 @@
 TO DO:
 
 - [ ] GENERAL:
-  - [ ] Add README.md file
+  - [ ] Complete README.md file
+    => What to add?
   - [ ] Create and add "favicon.ico"
   - [ ] Determine and set sizes of all images
+    => Use responsove images?
+    LOOK AT:
+        <picture class="photo-wide orientation-landscape loaded">
+            <source media="(min-width: 1024px)" srcset="image_large.jpg, image_large_retina.jpg 2x">
+            <source media="(min-width: 640px) and (max-width: 1024px)" srcset="image_medium.jpg, image_medium_retina.jpg 2x">
+            ...
+        </picture>
+  - [ ] ? - Add additional taxonomy for the different tools/technos/languages?
+      => Need to define in "config.toml" (look at doc)
+      (Or set them as "tags"?)
   - [ ] Decide and set colours of theme (CSS)
+  - [ ] Set resources links using CDN (from hosting servers? eg Netlify?)
+    => As well as "local" as falldown alternative?
+  - [ ] Add a recommendations/references page (?)
+  - [ ] Decide which hosting platform & deploy
+      => Look at: https://gohugo.io/hosting-and-deployment/
   LATER:
     - [ ] Create Font Awesome (or other svg) icons (gears, retropad, windows, book?, DSP, ...)
+    - [ ] Add links to other websites... blogs, shops etc. (?)
 
 - [ ] HOME
   - [ ] Change image?
@@ -135,6 +152,9 @@ PROJECTS:
 
 - [ ] PRO
   - [ ] ADD COMPANIES & PROJECTS!
+  - [ ] Add clients when adequate (AIRBUS, SNCB, EMBRAER, etc.!!!)
+  - [ ] Check tags for each project
+  - [ ] Check categories for each project
   - [ ] AGC
     - [ ] Add image to home page, and small image
     - [ ] FINISH PROJECTS! (+images & icons)
