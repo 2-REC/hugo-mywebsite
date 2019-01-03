@@ -15,5 +15,5 @@ posts_title: "<POSTS_TYPE>"
 ---
 
 ?
-Description:
-...
+<b>DESCRIPTION</b><br>
+...<br>

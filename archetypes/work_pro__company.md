@@ -16,9 +16,9 @@ posts_title: "<POSTS_TYPE>"
 ---
 
 ?
-Description:<br>
-...
+<b>DESCRIPTION</b><br>
+...<br>
 
-Responsibilities:<br>
-- ...
-- ...
+<b>RESPONSIBILITIES</b><br>
+- ...<br>
+- ...<br>

@@ -15,7 +15,5 @@ tags: [ "" ]
 #    copyright: "<TEXT>"
 ---
 
-Description:
-...
-
-(images)
+<b>DESCRIPTION</b><br>
+...<br>
