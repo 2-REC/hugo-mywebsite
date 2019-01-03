@@ -1,8 +1,21 @@
 ---
 title: "Value Added Service (VAS)"
-logos: [ "ATOS", "JADE-I?", "AKKA" ]
-tags: [ ]
+subtitle: "<CATCH_PHRASE>"
+#image: "<IMAGE_FILE>"
+#small_image: "<IMAGE_FILE>"
+#small_url: "<URL>"
 categories: [ ]
+tags: [ ]
+#resources:
+##For each "logo" image file:
+# (logos: [ "ATOS", "JADE-I?", "AKKA" ])
+#- src: "logos/<IMAGE_FILE>"
+#  title: "<TOOLTIP>"
+##For each "image" image file:
+#- src: "images/<IMAGE_FILE>"
+#  title: "<TOOLTIP>"
+#  params:
+#    copyright: "<TEXT>"
 ---
 
 <b>CLIENT:</b> ATOS WORLDLINE, as AKKA Consultant

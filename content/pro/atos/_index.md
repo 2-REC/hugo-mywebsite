@@ -6,6 +6,7 @@ endDate: "2013-02-01"
 #image: "????"
 #image_copyright: "ATOS WORLDLINE?"
 #small_image: "atos.jpg"
+#small_url: "<URL>"
 posts_title: "PROJECTS"
 ---
 
