@@ -44,6 +44,7 @@ TO DO:
 - [ ] SKILLS
   - [ ] Make better texts?
   LATER:
+    => Replace the tags and categories blocks by the 2 skills table, with each keyword being a link to a taxonomy page.
     - [ ] Add the 2 HTML tables
     - [ ] Set tags and categories in tables (with links for taxonomies)
     - [ ] Generate tables dynamically from data files (instead of static html tables)
