@@ -26,3 +26,5 @@ Development of a tablet application to digitise and partly automate the process 
 <b>ROLE:</b><br>
 As part of the development team, I was mostly responsible for the implementation of the sheet management system, allowing to display and edit the sheets in the application, as well as being able to print them in a format identical to the original paper forms.
 I was also in charge of developing most of the UI for the tablet application.
+
+(images? IFAST logo, sheets (blurred/parts...?)? IFAST UI?

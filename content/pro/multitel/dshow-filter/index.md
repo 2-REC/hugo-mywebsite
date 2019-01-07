@@ -27,3 +27,9 @@ tags: [ "C", "C++", "DirectShow", "Visual Studio" ]
 As a Software Developer, I was responsible for the development and integration of a video surveillance DirectShow filter aimed at counting people crossing a defined area, using the in-house developed image analysis module "MvPeopleCounting".
 The module and part of the MVision framework had first to be ported to Windows.
 (REWRITE ONCE HAVE DONE "DESCRITPION")
+(entire project for me)
+- dev
+- integration & porting of MvPeopleCounting
+- tests
+- security module (keys...)
+- ...?

@@ -31,4 +31,4 @@ The target terminal nodes will include both physical, link and network routing l
 
 <b>ROLE:</b><br>
 As a Research Engineer, I was responsible for setting up an easily deployable wireless video streaming system, finding the most appropriate existing tools (and eventually modify them), configuring and testing them.
-Reusing tools developed in parallel for the WCAM project, I was able to demonstrate a simple and scalable solution using VLC and BetaPlayer on a PDA.
+Reusing tools developed in parallel for the [WCAM](/pro/multitel/wcam) project, I was able to demonstrate a simple and scalable solution using VLC and BetaPlayer on a PDA.

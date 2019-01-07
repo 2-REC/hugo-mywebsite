@@ -29,4 +29,5 @@ CARETAKER will model and account for two types of knowledge: on one side, the mu
 <a href="https://cordis.europa.eu/project/rcn/79380_en.html" target="_blank">Link to project</a>
 
 <b>ROLE:</b><br>
-As a Research Engineer, I was responsible for the development and integration of data exchange tools in C, C++ and Java into the internal development framework MVision.
+As a Research Engineer, I was responsible for the development and integration of data exchange tools in C, C++ and Java into the internal development framework MVision.<br>
+(agent system stuff?)

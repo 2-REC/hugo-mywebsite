@@ -1,6 +1,6 @@
 ---
-title: "Compilation & Deployment Scripts"
-subtitle: "<CATCH_PHRASE>"
+title: "Automation Scripts"
+subtitle: "Compilation & Deployment Scripts"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"

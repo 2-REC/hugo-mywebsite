@@ -40,3 +40,5 @@ tags:
 [ "JavaScript, Node.js, HTML, CSS, React, Redux, Bootstrap, PixiJS, REST, OpenCV, Git, Bitbucket, IntelliJ, SCRUM, MS Project, Jira, Clojure, MongoDB, Redis, Onyx, ActiveMQ", "BitBucket", "Sonar", "Linux"  ]
 categories:
 (Technical leader, project managment, team management, SCRUM, Agile, JavaScript, Node.js, HTML, CSS, React, Redux, PixiJS, OpenCV, front-end, back-end, ...)
+
+(add images... ? - 7 diffs presentation?)
