@@ -6,16 +6,29 @@ subtitle: "<CATCH_PHRASE>"
 #small_url: "<URL>"
 categories: [ ]
 tags: [ "C++", "Blender", "Gimp", "Ogre 3D", "OpenGL", "Visual Studio" ]
-#resources:
-##For each "logo" image file:
-# (logos = [ "MEDSYS, MULTITEL" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+resources:
+#logos:
+- src: "logos/medsys.png"
+  title: "..."
+- src: "logos/ogre.png"
+  title: "..."
+#images:
+- src: "images/remote.png"
+  title: "LapRemote"
+  params:
+    copyright: "MEDSYS"
+- src: "images/lapman_movements.png"
+  title: "LapMan"
+  params:
+    copyright: "MEDSYS"
+- src: "images/laptrainer_menu.png"
+  title: "LapTrainer main menu"
+  params:
+    copyright: "MEDSYS"
+- src: "images/laptrainer_3d.png"
+  title: "LapTrainer"
+  params:
+    copyright: "MEDSYS"
 ---
 
 <b>CLIENT:</b> Medsys, as a Multitel Research Engineer<br>
