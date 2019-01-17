@@ -4,7 +4,7 @@ subtitle: "<CATCH_PHRASE>"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ ]
+categories: [ "3D", "medical" ]
 tags: [ "C++", "Blender", "Gimp", "Ogre 3D", "OpenGL", "Visual Studio" ]
 resources:
 #logos:

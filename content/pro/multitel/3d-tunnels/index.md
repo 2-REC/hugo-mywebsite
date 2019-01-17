@@ -4,7 +4,7 @@ subtitle: "3D Modeling of City Tunnels"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "3D" ]
+categories: [ "3D", "security" ]
 tags: [ "Blender", "Gimp" ]
 resources:
 # (logos = [ "ANTWERP?, MULTITEL" ])

@@ -4,7 +4,7 @@ subtitle: "Creation of animated 3D human models."
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "3D" ]
+categories: [ "3D", "security" ]
 tags: [ "3DSMAX", "Photoshop", "Visual Studio" ]
 resources:
 #logos:
