@@ -6,11 +6,14 @@ subtitle: "Wireless Deployable Network System"
 #small_url: "<URL>"
 categories: [ "Video", "Streaming", "Security", "Codec", "Embedded", "..." ]
 tags: [ "C", "C++", "ffmpeg", "VLC", "HTTP", "UDP", "RTP", "PDA", "Windows CE", "..." ]
-#resources:
-##For each "logo" image file:
-# (logos = [ "widens", "multitel", "fp6", "ist" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
+resources:
+# add logos for: WIDENS, THALES
+- src: "logos/fp6.png"
+  title: "6th Framework Program"
+- src: "logos/eu.png"
+  title: "European Union"
+- src: "logos/ist.png"
+  title: "Information Society Technologies"
 ##For each "image" image file:
 #- src: "images/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"

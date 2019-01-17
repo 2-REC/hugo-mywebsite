@@ -4,9 +4,9 @@ subtitle: "Research Engineer"
 startDate: "2004-03-01"
 endDate: "2007-07-01"
 #image: "<IMAGE_FILE>"
-#image_copyright: "MULTITEL?"
-#small_image: "multitel.jpg"
-#small_url: "<URL>"
+#image_copyright: "MULTITEL"
+small_image: "multitel.png"
+small_url: "https://www.multitel.eu/"
 posts_title: "PROJECTS"
 ---
 

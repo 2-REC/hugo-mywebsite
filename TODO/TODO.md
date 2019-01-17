@@ -58,6 +58,7 @@ TO DO:
       LATER:
         - [ ] Add text and set it as non-scrolling.
     - [ ] PRO
+      - [ ] Remove "technos" logos (technos already in tags, and too many logos).
       LATER:
         - [ ] Add text and set it as vertical scrolling.
           - For scrolling text, look at:

@@ -1,16 +1,19 @@
 ---
 title: "WCAM Demo Video"
-subtitle: "Video to promote the WCAM project"
+subtitle: "Video to promote the FP6 WCAM project"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "Video", "3D", "Security", "Codec", "Embedded", "..." ]
-tags: [ "VLC", "Blender", "Photoshop", "video tools...?", "...?" ]
-#resources:
-##For each "logo" image file:
-# (logos = [ "wcam", "multitel", "fp6", "ist" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
+categories: [ "video", "3D", "security" ]
+tags: [ "3DSMAX", "Blender", "VLC", "Photoshop", "video tools...?" ]
+resources:
+# add logos for: WCAM, THALES
+- src: "logos/fp6.png"
+  title: "6th Framework Program"
+- src: "logos/eu.png"
+  title: "European Union"
+- src: "logos/ist.png"
+  title: "Information Society Technologies"
 ##For each "image" image file:
 #- src: "images/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"

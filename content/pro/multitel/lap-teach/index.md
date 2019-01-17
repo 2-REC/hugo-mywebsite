@@ -10,8 +10,6 @@ resources:
 #logos:
 - src: "logos/medsys.png"
   title: "..."
-- src: "logos/ogre.png"
-  title: "..."
 #images:
 - src: "images/lapman.png"
   title: "LapMan"

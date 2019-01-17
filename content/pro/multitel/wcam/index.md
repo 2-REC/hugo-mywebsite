@@ -6,11 +6,14 @@ subtitle: "Wireless Cameras and Audio-visual Seamless Networking"
 #small_url: "<URL>"
 categories: [ "Video", "Streaming", "Security", "Image Analysis", "Codec", "Embedded", "..." ]
 tags: [ "C", "ffmpeg", "VLC", "H264", "MJPEG2000", "MP2TS", "HTTP", "UDP", "RTP", "Visual Studio", "Linux", "Windows CE", "PDA" ]
-#resources:
-##For each "logo" image file:
-# (logos = [ "wcam", "multitel", "fp6", "ist" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
+resources:
+# add logos for: WCAM, THALES ...
+- src: "logos/fp6.png"
+  title: "6th Framework Program"
+- src: "logos/eu.png"
+  title: "European Union"
+- src: "logos/ist.png"
+  title: "Information Society Technologies"
 ##For each "image" image file:
 #- src: "images/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
