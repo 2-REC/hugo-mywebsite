@@ -24,6 +24,8 @@ resources:
   title: ""
 - src: "images/7.png"
   title: ""
+- src: "images/plan.jpg"
+  title: ""
 ---
 
 <b>CLIENT:</b> City of Antwerp, as a Multitel Research Engineer<br>
