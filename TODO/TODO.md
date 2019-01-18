@@ -154,6 +154,7 @@ TO DO:
 PROJECTS:
 
 - [ ] Put names of companies & products in bold/italic?
+- [ ] Make logos bigger!
 
 - [ ] PRO
   - [ ] ADD COMPANIES & PROJECTS!

@@ -8,17 +8,20 @@ categories: [ "security" ]
 tags: [ "C", "C++", "Java", "Visual Studio", "Eclipse" ]
 resources:
 # add logos for: CARETAKER, THALES
+- src: "logos/caretaker.png"
+  title: "CARETAKER"
 - src: "logos/fp6.png"
   title: "6th Framework Program"
 - src: "logos/eu.png"
   title: "European Union"
 - src: "logos/ist.png"
   title: "Information Society Technologies"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+- src: "images/events.png"
+  title: "Events system"
+- src: "images/cams.png"
+  title: "Surveillance cameras"
+- src: "images/diagram.png"
+  title: "CARETAKER project"
 ---
 
 <b>CLIENT:</b> European Commission, as a Multitel Research Engineer<br>
