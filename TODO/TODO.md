@@ -158,7 +158,8 @@ PROJECTS:
 - [ ] PRO
   - [ ] ADD COMPANIES & PROJECTS!
   - [ ] Add clients when adequate (AIRBUS, SNCB, EMBRAER, etc.!!!)
-  - [ ] Check tags for each project
+  - [ ] Check/Add tags for each project
+    eg: embedded, requirements gathering / business analysis, analysis, QA, QC, (porting?), etc.
   - [ ] Check categories for each project
   - [ ] AGC
     - [ ] Add image to home page, and small image
