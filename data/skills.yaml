@@ -11,7 +11,7 @@ You can also get my resume as a downloadable PDF."
 download:
   button_text: "RESUME"
   # The file must be in "static/files"
-  filename: "DerekSeverin_CV_2018.pdf"
+  filename: "DerekSeverin_CV.pdf"
   icon: "fa-download"
   icon-pack: "fas"
 ---
