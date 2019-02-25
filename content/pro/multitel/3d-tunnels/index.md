@@ -6,26 +6,21 @@ subtitle: "3D Modeling of City Tunnels"
 #small_url: "<URL>"
 categories: [ "3D", "security" ]
 tags: [ "Blender", "Gimp" ]
+images_copyright: "MULTITEL"
+images:
+- src: "1.png"
+- src: "2.png"
+- src: "3.png"
+- src: "4.png"
+- src: "5.png"
+- src: "6.png"
+- src: "7.png"
+- src: "plan.jpg"
+  title: "Plan"
 resources:
 # (logos = [ "ANTWERP?, MULTITEL" ])
 - src: "logos/antwerp.png"
   title: "City of Antwerp"
-- src: "images/1.png"
-  title: ""
-- src: "images/2.png"
-  title: ""
-- src: "images/3.png"
-  title: ""
-- src: "images/4.png"
-  title: ""
-- src: "images/5.png"
-  title: ""
-- src: "images/6.png"
-  title: ""
-- src: "images/7.png"
-  title: ""
-- src: "images/plan.jpg"
-  title: ""
 ---
 
 <b>CLIENT:</b> City of Antwerp, as a Multitel Research Engineer<br>
