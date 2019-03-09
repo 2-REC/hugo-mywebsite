@@ -20,8 +20,8 @@ tags: [ "EDI", "SAP", "Excel", "OneNote" ]
 
 <b>CLIENT:</b> AGC AUTOMOTIVE and VW, as AKKA Consultant<br>
 
-<b>DESCRIPTION:</b><br>
+<b>DESCRIPTION</b><br>
 In the context of VW Direct Deliveries integration in AGC's Supply Chain operations, many changes to the current processes and exchanged messages have to be made. The main task being the addition of the new VDA4987 Global DESADV EDI message.<br>
 
-<b>ROLE:</b><br>
+<b>ROLE</b><br>
 As a Functional Analyst, I was responsible for analysing the changes between the new and old processes, and evaluate the impacts on the current system, in order to submit the analyse to the business for approval.

@@ -10,7 +10,7 @@ endDate: "2018-02-01"
 posts_title: "PROJECTS"
 ---
 
-<b>JOB DESCRIPTION:</b> IT Consultant<br>
+<b>JOB DESCRIPTION</b><br>
 Contribute on software development projects at clients in different industries, making sure the objectives are reached and fulfilling clients' requirements.<br>
 Between missions, provide help on internal IT projects and assist on coaching and training new recruits.<br>
 

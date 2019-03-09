@@ -1,6 +1,6 @@
 ---
 title: "AGC"
-subtitle: "Business Analyst - As AKKA Consultant"
+subtitle: "Functional Analyst - As AKKA Consultant"
 startDate: "2017-08-01"
 endDate: "2018-02-01"
 #image: "agc"
@@ -10,7 +10,7 @@ endDate: "2018-02-01"
 posts_title: "PROJECTS"
 ---
 
-<b>JOB DESCRIPTION:</b> Functional Analyst, as AKKA Consultant<br>
+<b>JOB DESCRIPTION</b><br>
 - In the context of updating AGC's EDI systems with its suppliers:<br>
     - Based on business requirements and guidelines, write functional analysis in collaboration with the internal development teams<br>
     - Be the point of interaction between the business and technical teams<br>
