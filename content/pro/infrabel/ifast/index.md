@@ -4,8 +4,8 @@ subtitle: "<CATCH_PHRASE>"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "railway", "security", "tablet", "embedded", "..." ]
-tags: [ "Java", "JavaFX", "HTML5", "JavaScript", "CSS", "NetBeans", "CVS", "Oxygen", "JIRA", "Mantisse" ]
+categories: [ "Railway", "Security", "Embedded" ]
+tags: [ "Java", "JavaFX", "HTML5", "JavaScript", "CSS", "NetBeans", "CVS", "Oxygen", "JIRA", "Mantisse" "Jenkins", "Sonar", "Scrum" ]
 #resources:
 ##For each "logo" image file:
 # (logos = [ "ifast", "infrabel", "tuc-rail", "sncb", "akka"))
@@ -18,13 +18,14 @@ tags: [ "Java", "JavaFX", "HTML5", "JavaScript", "CSS", "NetBeans", "CVS", "Oxyg
 #    copyright: "<TEXT>"
 ---
 
-<b>CLIENT:</b> INFRABEL, as AKKA Consultant<br>
+<b>CLIENT:</b> INFRABEL, TUC-RAIL and SNCB, as AKKA Consultant<br>
 
 <b>DESCRIPTION:</b><br>
-Development of a tablet application to digitise and partly automate the process of railway shelter field-testing, greatly increasing the workers productivity.
+The IFAST application, part of the global Testing Tools Shelter (TTS) project, aims at assisting the testing of the PLP modules in the shelter in a digital semi-automatic manner.<br>
+Previously, the process was done by manually filling test sheets (NT22).<br>
+Thanks to the IFAST project, the testing and filling of the NT22 can now be done digitally, through the user interface of the IFAST-GUI on a tablet device. It takes as input an IFAST project file produced by the IFAST-Prep tool and gives as an output the filled in NT22 sheets.<br>
+The IFAST poject thus greatly eases and accelerates the process of PLP shelter testing. It also ensures no tests are forgotten and that the testing results are valid.<br>
 
 <b>ROLE:</b><br>
-As part of the development team, I was mostly responsible for the implementation of the sheet management system, allowing to display and edit the sheets in the application, as well as being able to print them in a format identical to the original paper forms.
-I was also in charge of developing most of the UI for the tablet application.
-
-(images? IFAST logo, sheets (blurred/parts...?)? IFAST UI?
+As part of the development team, I was mostly responsible for the implementation of the sheet management system, allowing to display and edit the sheets in the application, as well as being able to print them in a format identical to the original paper forms.<br>
+I was also in charge of developing most of the UI for the tablet application.<br>
