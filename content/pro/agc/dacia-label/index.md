@@ -4,8 +4,8 @@ subtitle: "<CATCH_PHRASE>"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "Automotive", "Consulting", "Network", "Data exchange", "Project management", "Team management" ]
-tags: [ "EDI", "VDA?", "SAP", "Excel", "WebEx?", "Skype?" ]
+categories: [ "Automotive", "Consulting", "Network", "Data Exchange", "Project Management", "Team Management" ]
+tags: [ "EDI", "SAP", "Excel", "OneNote" ]
 #resources:
 ##For each "logo" image file:
 # (logos: [ "dacia?", "agc", "akka" ])
@@ -18,7 +18,7 @@ tags: [ "EDI", "VDA?", "SAP", "Excel", "WebEx?", "Skype?" ]
 #    copyright: "<TEXT>"
 ---
 
-<b>CLIENT:</b> AGC, as AKKA Consultant<br>
+<b>CLIENT:</b> AGC AUTOMOTIVE and DACIA, as AKKA Consultant<br>
 
 <b>DESCRIPTION:</b><br>
 Following a change to the layout of the labels used at Dacia, consisting mostly in the addition of a QR code, the existing process used at AGC needs to be updated according to the new requirements.<br>
