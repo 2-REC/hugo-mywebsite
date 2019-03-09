@@ -4,8 +4,8 @@ subtitle: "<CATCH_PHRASE>"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "Automotive", "Consulting", "Network", "Data exchange", "Project management", "Team management" ]
-tags: [ "EDI", "VDA?", "SAP", "Excel", "WebEx?", "Skype?" ]
+categories: [ "Automotive", "Consulting", "Network", "Data Exchange", "Project Management", "Team Management" ]
+tags: [ "EDI", "SAP", "Excel", "OneNote" ]
 #resources:
 ##For each "logo" image file:
 # (logos: [ "vw", "agc", "akka" ])
@@ -18,7 +18,7 @@ tags: [ "EDI", "VDA?", "SAP", "Excel", "WebEx?", "Skype?" ]
 #    copyright: "<TEXT>"
 ---
 
-<b>CLIENT:</b> AGC, as AKKA Consultant<br>
+<b>CLIENT:</b> AGC AUTOMOTIVE and VW, as AKKA Consultant<br>
 
 <b>DESCRIPTION:</b><br>
 In the context of VW Direct Deliveries integration in AGC's Supply Chain operations, many changes to the current processes and exchanged messages have to be made. The main task being the addition of the new VDA4987 Global DESADV EDI message.<br>
