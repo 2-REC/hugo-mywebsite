@@ -4,8 +4,8 @@ subtitle: "<CATCH_PHRASE>"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "Automotive", "Consulting", "Network", "Data exchange", "Project management", "Team management" ]
-tags: [ "EDI", "VDA?", "EDIFACT?", "SAP", "Excel", "WebEx?", "Skype?" ]
+categories: [ "Automotive", "Consulting", "Network", "Data Exchange", "Project Management", "Team Management" ]
+tags: [ "EDI", "SAP", "Excel", "OneNote" ]
 #resources:
 ##For each "logo" image file:
 # (logos: [ "agc", "akka", ...? ])
@@ -18,7 +18,7 @@ tags: [ "EDI", "VDA?", "EDIFACT?", "SAP", "Excel", "WebEx?", "Skype?" ]
 #    copyright: "<TEXT>"
 ---
 
-<b>CLIENT:</b> AGC, as AKKA Consultant<br>
+<b>CLIENT:</b> AGC AUTOMOTIVE, as AKKA Consultant<br>
 
 <b>DESCRIPTION:</b><br>
 In order to ease and strengthen AGC's Supply Chain activities with its business partners, EDI was required between the company and its suppliers. The project thus consisted in setting up the first EDI communications with AGC's suppliers, starting with 3 selected suppliers from 4 different factories based in UK, Poland and Italy.<br>
