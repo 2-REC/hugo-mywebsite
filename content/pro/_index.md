@@ -6,13 +6,13 @@ sections_order_reverse: true
 posts_title: "Projects"
 ---
 
-Team Leader & Project Manager on several different projects,
-IT Consultant for various clients,
-Image Analysis Tools Developer for automotive & medical companies,
-CAD Tools Developer for an airspace manufacturer,
-Business Analyst in an automotive supply chain,
-Web Developer for an automotive design lab,
-Mobile Developer in railway security,
-Embedded Tools Developer in banking,
-Research Engineer & Video Tools Developer in video-surveillance,
-3d Modeler for real-time security simulations.
+Team Leader & Project Manager on several different projects,<br>
+IT Consultant for various clients,<br>
+Image Analysis Tools Developer for automotive & medical companies,<br>
+CAD Tools Developer for an airspace manufacturer,<br>
+Business Analyst in an automotive supply chain,<br>
+Web Developer for an automotive design lab,<br>
+Mobile Developer in railway security,<br>
+Embedded Tools Developer in banking,<br>
+Research Engineer & Video Tools Developer in video-surveillance,<br>
+3d Modeler for real-time security simulations.<br>
