@@ -1,21 +1,16 @@
 ---
 title: "VW Direct Deliveries"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+subtitle: "Study on impacts of implementing VW Direct Deliveries"
 categories: [ "Automotive", "Consulting", "Network", "Data Exchange", "Project Management", "Team Management" ]
 tags: [ "EDI", "SAP", "Excel", "OneNote" ]
-#resources:
-##For each "logo" image file:
-# (logos: [ "vw", "agc", "akka" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images:
+- src: "dd.png"
+  title: "Direct Deliveries"
+resources:
+- src: "logos/1-vw.jpg"
+  title: "VW"
+- src: "logos/2-sintel.jpg"
+  title: "Sintel"
 ---
 
 <b>CLIENT:</b> AGC AUTOMOTIVE and VW, as AKKA Consultant<br>

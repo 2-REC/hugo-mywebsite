@@ -3,10 +3,10 @@ title: "AGC"
 subtitle: "Functional Analyst - As AKKA Consultant"
 startDate: "2017-08-01"
 endDate: "2018-02-01"
-#image: "agc"
+image: "building.jpg"
 #image_copyright: "AGC"
-#small_image: "agc"
-#small_url: "<URL>"
+small_image: "agc.png"
+small_url: "http://www.agc-automotive.com"
 posts_title: "PROJECTS"
 ---
 

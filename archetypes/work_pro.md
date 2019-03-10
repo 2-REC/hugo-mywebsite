@@ -7,15 +7,15 @@ subtitle: "<CATCH_PHRASE>"
 #small_url: "<URL>"
 categories: [ "" ]
 tags: [ "" ]
+##For each "image" image file:
+#images:
+#- src: "<IMAGE_FILE>"
+#  title: "<LEGEND>"
+#  copyright: "<COPYRIGHT_TEXT>"
 #resources:
 ##For each "logo" image file:
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
 ---
 
 <b>CLIENT:</b> ...<br>

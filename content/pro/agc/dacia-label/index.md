@@ -1,24 +1,19 @@
 ---
 title: "Dacia Label Change"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+subtitle: "Update to Dacia Delivery label"
 categories: [ "Automotive", "Consulting", "Network", "Data Exchange", "Project Management", "Team Management" ]
 tags: [ "EDI", "SAP", "Excel", "OneNote" ]
-#resources:
-##For each "logo" image file:
-# (logos: [ "dacia?", "agc", "akka" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images:
+- src: "dacia-label.jpg"
+  title: "Dacia label"
+resources:
+- src: "logos/dacia.jpg"
+  title: "Dacia"
+- src: "logos/sintel.jpg"
+  title: "Sintel"
 ---
 
-<b>CLIENT:</b> AGC AUTOMOTIVE and DACIA, as AKKA Consultant<br>
+<b>CLIENT:</b> DACIA via AGC AUTOMOTIVE, as AKKA Consultant<br>
 
 <b>DESCRIPTION</b><br>
 Following a change to the layout of the labels used at Dacia, consisting mostly in the addition of a QR code, the existing process used at AGC needs to be updated according to the new requirements.<br>
