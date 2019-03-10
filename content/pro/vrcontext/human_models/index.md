@@ -1,28 +1,23 @@
 ---
 title: "3DSMAX Human Characters Modelisation"
-subtitle: "Creation of animated 3D human models."
+subtitle: "Creation of animated 3D human models"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "3D", "security" ]
+categories: [ "3D", "Security" ]
 tags: [ "3DSMAX", "Photoshop", "Visual Studio" ]
+images:
+- src: "1-walkinside.jpg"
+  title: "WalkInside"
+- src: "2-biped.jpg"
+  title: "3DSMAX Biped"
 resources:
-#logos:
 - src: "logos/1.jpeg"
   title: "VR CONTEXT"
 - src: "logos/2.png"
   title: "SIEMENS"
 - src: "logos/3.png"
   title: "COMOS"
-#images:
-- src: "images/AS_60168_COMOS_Visual_Walk_inside.jpg"
-  title: ""
-  params:
-    copyright: "SIEMENS"
-- src: "images/walkinside.jpg"
-  title: "WalkInside in action"
-  params:
-    copyright: "SIEMENS"
 ---
 
 <b>CLIENT:</b> VR Context* - Internal project<br>
