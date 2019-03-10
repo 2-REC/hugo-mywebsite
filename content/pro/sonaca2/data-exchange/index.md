@@ -4,8 +4,8 @@ subtitle: "<CATCH_PHRASE>"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ ]
-tags: [ "C++", "CAA", "shell scripting (UNIX)", "SQL", "CATIA V5", "VPM", "UNIX" ]
+categories: [ "TODO-sonaca2-data-exchange" ]
+tags: [ "C++", "CAA", "Shell Scripting", "SQL", "CATIA V5", "VPM", "UNIX" ]
 #resources:
 ##For each "logo" image file:
 #- src: "logos/<IMAGE_FILE>"
@@ -20,8 +20,8 @@ tags: [ "C++", "CAA", "shell scripting (UNIX)", "SQL", "CATIA V5", "VPM", "UNIX"
 <b>CLIENT:</b> SONACA, as AKKA consultant<br>
 
 <b>DESCRIPTION:</b><br>
-In order to deliver the designed parts to the customers, a set of tools and scripts were developed. Their purpose was to automate and validate the data exchange processes, making sure everything was transferred flawlessly while being transparent to the users.
+In order to deliver the designed parts to the customers, a set of tools and scripts were developed. Their purpose was to automate and validate the data exchange processes, making sure everything was transferred flawlessly while being transparent to the users.<br>
 
 <b>ROLE:</b><br>
-As a CAD Tools Developer, I was responsible for maintaining and debugging the tools, making sure the exchange processes were working correctly following a change on the customers? side or after a system update on our side.
-Additionally, with a colleague (VPM specialist), we had to develop data conversion tools allowing files to be exchanged between customers using different PLM systems, such as Dassault Systemes ENOVIA or Siemens Teamcenter.
+As a CAD Tools Developer, I was responsible for maintaining and debugging the tools, making sure the exchange processes were working correctly following changes on the customers side or after a system update.<br>
+Additionally, with a colleague (VPM specialist), we had to develop data conversion tools allowing files to be exchanged between customers using different PLM systems, such as Dassault Systemes ENOVIA or Siemens Teamcenter.<br>

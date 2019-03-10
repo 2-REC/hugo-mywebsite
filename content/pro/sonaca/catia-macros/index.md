@@ -4,7 +4,7 @@ subtitle: "<CATCH_PHRASE>"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ ]
+categories: [ "TODO-sonaca-catia-macros" ]
 tags: [ "CAA RADE", "VB", "CATScript", "SQL", "CATIA V5", VPM" ]
 #resources:
 ##For each "logo" image file:
@@ -19,8 +19,8 @@ tags: [ "CAA RADE", "VB", "CATScript", "SQL", "CATIA V5", VPM" ]
 
 <b>CLIENT:</b> SONACA, as external consultant<br>
 
-<b>DESCRIPTION:</b><br>
-Additionally to the CATIA V5 Extension tools and modules, a set of macros were developed to assist and automate part of the users? recurrent tasks.
+<b>DESCRIPTION</b><br>
+Additionally to the CATIA V5 Extension tools and modules, a set of macros were developed to assist and automate part of the  designers and engineers recurrent tasks.<br>
 
-<b>ROLE:</b><br>
-As a CAD Tools Developer, I was responsible for maintaining the macros as well as providing support to the users. I was also responsible for the development of several new macros to provide new tools to the different departments.
+<b>ROLE</b><br>
+As a CAD Tools Developer, I was responsible for maintaining the macros as well as providing support to the users. I was also responsible for the development of several new macros to provide new tools to the different departments.<br>
