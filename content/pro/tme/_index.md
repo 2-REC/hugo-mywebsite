@@ -10,8 +10,9 @@ endDate: "2017-09-01"
 posts_title: "PROJECTS"
 ---
 
-<b>DESCRIPTION</b><br>
-...<br>
+<b>JOB DESCRIPTION</b><br>
+Following the successful realisation of the [proof of concept prototype](/pro/akka/dct-poc) and the offer providing the [feasibility study](/pro/akka/dct-feasibility), AKKA was chosen by TME for the full realistion of the Drawing Comparison Tool project.<br>
+A team of 4 developers were assigned to the project, working remotely from AKKA's offices, with daily SCRUM phone meetings and weekly technical meeting at TME's offices.<br>
 
 <b>RESPONSIBILITIES</b><br>
 - Technical Leader on the "Drawing Comparison Tool" project<br>

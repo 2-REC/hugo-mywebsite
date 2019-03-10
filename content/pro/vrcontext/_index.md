@@ -10,8 +10,9 @@ small_image: "vrcontext.jpg"
 posts_title: "PROJECTS"
 ---
 
-<b>DESCRIPTION</b><br>
-As my first professional experience, working at VR Context* helped me discover the working environment with its constrainrs and responsibilities.<br>
+<b>JOB DESCRIPTION</b><br>
+Provide help on the creation and integration of 3D human models in the company's real-time simulation software.<br>
+Working at VR Context* provided me my first professional experience.<br>
 
 <b>RESPONSIBILITIES</b><br>
 - Development of a 3DSMAX export plugin<br>
