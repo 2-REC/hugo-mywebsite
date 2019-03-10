@@ -5,7 +5,7 @@ subtitle: "<CATCH_PHRASE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
 categories: [ "Railway", "Security", "Embedded" ]
-tags: [ "Java", "JavaFX", "HTML5", "JavaScript", "CSS", "NetBeans", "CVS", "Oxygen", "JIRA", "Mantisse" "Jenkins", "Sonar", "Scrum" ]
+tags: [ "Java", "JavaFX", "HTML5", "JavaScript", "CSS", "NetBeans", "CVS", "Oxygen", "JIRA", "Mantisse", "Jenkins", "Sonar", "Scrum" ]
 #resources:
 ##For each "logo" image file:
 # (logos = [ "ifast", "infrabel", "tuc-rail", "sncb", "akka"))
