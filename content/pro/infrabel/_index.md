@@ -3,10 +3,9 @@ title: "INFRABEL"
 subtitle: "Software Engineer - As AKKA Consultant"
 startDate: "2014-11-01"
 endDate: "2016-07-01"
-#image: "<IMAGE_FILE>"
-#image_copyright: "INFRABEL?"
-#small_image: "infrabel.jpg"
-#small_url: "<URL>"
+image: "head.jpg"
+small_image: "infrabel.jpg"
+small_url: "https://www.infrabel.be"
 posts_title: "PROJECTS"
 ---
 
