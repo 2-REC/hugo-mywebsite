@@ -1,21 +1,27 @@
 ---
-title: "Other projects"
-subtitle: "<CATCH_PHRASE>"
+title: "Various projects"
+subtitle: "Different internal projects"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
 categories: [ "Banking", "Security", "Network" ]
 tags: [ "C", "Python", "XML", "Eclipse", "GCC", "CVS", "Jenkins", "XENTA", "YOMANI", "Agile", "Linux" ]
+images_copyright: "ATOS WORLDLINE"
+images:
+- src: "logo-anim.jpg"
+  title: "Diaporama Logo Animation"
+- src: "terminals.jpg"
+  title: "Various Payment Terminals"
+- src: "xenta.jpg"
+  title: "XENTA Terminal"
+- src: "yomani.jpg"
+  title: "YOMANI Terminal"
+- src: "yomani-box.jpg"
+  title: "Unboxed YOMANI Terminal"
 #resources:
 ##For each "logo" image file:
-# (logos: [ "ATOS", "JADE-I?", "AKKA" ])
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
 ---
 
 <b>CLIENT:</b> ATOS WORLDLINE, as AKKA Consultant<br>

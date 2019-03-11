@@ -1,21 +1,20 @@
 ---
 title: "Value Added Service (VAS)"
-subtitle: "<CATCH_PHRASE>"
+subtitle: "Embedded survey and advertising for YOMANI payment terminals"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
 categories: [ "Banking", "Security", "Network" ]
 tags: [ "C", "Python", "XML", "Eclipse", "GCC", "CVS", "Jenkins", "XENTA", "YOMANI", "Agile", "Linux" ]
-#resources:
-##For each "logo" image file:
-# (logos: [ "ATOS", "JADE-I?", "AKKA" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images:
+- src: "jade-i-survey.jpg"
+  title: "Jade-I Survey"
+- src: "yomani.jpg"
+  title: "YOMANI Terminal"
+  copyright: "ATOS WORLDLINE"
+resources:
+- src: "logos/jade-i.jpg"
+  title: "JADE-I"
 ---
 
 <b>CLIENT:</b> ATOS WORLDLINE and JADE-I, as AKKA Consultant<br>

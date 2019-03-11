@@ -7,11 +7,15 @@ subtitle: "<CATCH_PHRASE>"
 #small_url: "<URL>"
 categories: [ "" ]
 tags: [ "" ]
+#images_directory; "images"
+#images_static: "false"
+#images_copyright: "<COPYRIGHT>"
+##For "image" image files:
+# (Only required for caption and specific copyrights)
 #images:
-##For each "image" image file:
 #- src: "<IMAGE_FILE>"
 #  title: "<LEGEND>"
-#  copyright: "<COPYRIGHT_TEXT>"
+#  copyright: "<COPYRIGHT>"
 #resources:
 ##For each "logo" image file:
 #- src: "logos/<IMAGE_FILE>"

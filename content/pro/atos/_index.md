@@ -3,10 +3,9 @@ title: "ATOS WORLDLINE"
 subtitle: "Embedded Software Engineer - As AKKA Consultant"
 startDate: "2012-04-01"
 endDate: "2013-02-01"
-#image: "????"
-#image_copyright: "ATOS WORLDLINE?"
-#small_image: "atos.jpg"
-#small_url: "<URL>"
+image: "head.jpg"
+small_image: "atos.jpg"
+small_url: "https://worldline.com/"
 posts_title: "PROJECTS"
 ---
 

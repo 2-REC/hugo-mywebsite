@@ -1,21 +1,20 @@
 ---
 title: "ORES"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+subtitle: "Embedded top-up management system on XENTA and YOMANI payment terminals"
 categories: [ "Banking", "Security", "Network" ]
 tags: [ "C", "Python", "XML", "Eclipse", "GCC", "CVS", "Jenkins", "XENTA", "YOMANI", "Agile", "Linux" ]
-#resources:
-##For each "logo" image file:
-# (logos: [ "ATOS", "ORES", "AKKA" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images:
+- src: "terminals.jpg"
+  title: "YOMANI Terminals"
+  copyright: "ATOS WORLDLINE"
+- src: "xenta.jpg"
+  title: "XENTA Terminal"
+  copyright: "ATOS WORLDLINE"
+resources:
+- src: "logos/banksys.jpg"
+  title: "BANKSYS"
+- src: "logos/ores.jpg"
+  title: "ORES"
 ---
 
 <b>CLIENT:</b> ATOS WORLDLINE and ORES, as AKKA Consultant<br>
