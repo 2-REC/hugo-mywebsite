@@ -2,7 +2,7 @@
 title: "AGC"
 subtitle: "Functional Analyst - As AKKA Consultant"
 startDate: "2017-08-01"
-endDate: "2018-02-01"
+endDate: "2018-01-29"
 image: "building.jpg"
 #image_copyright: "AGC"
 small_image: "agc.png"

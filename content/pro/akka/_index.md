@@ -3,10 +3,9 @@ title: "AKKA TECHNOLOGIES"
 subtitle: "IT Consultant & Project Manager"
 startDate: "2012-03-01"
 endDate: "2018-02-01"
-#image: "<IMAGE_FILE>"
-#image_copyright: "AKKA TECHNOLOGIES?"
-#small_image: "akka"
-#small_url: "<URL>"
+image: "head.jpg"
+small_image: "akka.png"
+small_url: "https://www.akka-technologies.com/"
 posts_title: "PROJECTS"
 ---
 

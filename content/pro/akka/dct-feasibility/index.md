@@ -1,21 +1,26 @@
 ---
 title: "Drawing Comparison Tool - Feasibility Study"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+subtitle: "Feasibility Study Document for TME Drawing Comparison Tool"
 categories: [ "Automotive", "R&D", "Consulting", "CAD", "Image Analysis", "Web", "Project Management" ]
 tags: [ "Excel", "Gimp", "MS Project" ]
-#resources:
-##For each "logo" image file:
-# (logos = [ "TME, AKKA" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images:
+- src: "archi.png"
+  title: "Logical Architecture"
+- src: "data-model.png"
+  title: "Data Model"
+- src: "image-analysis.png"
+  title: "Image Analysis Algorithms"
+- src: "pairing.jpg"
+  title: "Pairing Method"
+- src: "pyramid.jpg"
+  title: "Multi-level Tiling"
+- src: "sampling.jpg"
+  title: "Image Sub-sampling"
+- src: "segmentation.jpg"
+  title: "Segmentation for Clustering"
+resources:
+- src: "logos/toyota.png"
+  title: "TOYOTA"
 ---
 
 <b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME), as AKKA Consultant<br>

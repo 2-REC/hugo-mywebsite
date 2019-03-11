@@ -7,8 +7,8 @@ subtitle: "<CATCH_PHRASE>"
 #small_url: "<URL>"
 categories: [ "" ]
 tags: [ "" ]
-##For each "image" image file:
 #images:
+##For each "image" image file:
 #- src: "<IMAGE_FILE>"
 #  title: "<LEGEND>"
 #  copyright: "<COPYRIGHT_TEXT>"

@@ -1,21 +1,28 @@
 ---
-title: "Small internal projects"
-subtitle: "<CATCH_PHRASE>"
+title: "Internal Projects"
+subtitle: "Various internal projects"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
 categories: [ "TODO-AKKA-others" ]
 tags: [ "Java", "C++", "OpenCV", "Qt", "Swing", "VB", "Jenkins", "Sonar", "CVS", "Sharepoint", "Android", "Visual Studio", "NetBeans" ]
-#resources:
-##For each "logo" image file:
-# (logos = [ "akka" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images:
+- src: "ci-jenkins.jpg"
+  title: "JENKINS Continuous Integration"
+- src: "ci-tools.jpg"
+  title: "Continuous Integration Tools"
+- src: "club-metier-kenny.jpg"
+  title: "Club Metier - Contour Decomposition Example"
+- src: "club-metier-rules.jpg"
+  title: "Club Metier - Rule Example"
+- src: "pandaboard.jpg"
+  title: "PandaBoard Card"
+- src: "pandaboard2.jpg"
+  title: "PandaBoard + Screen"
+- src: "sharepoint1.png"
+  title: "SharePoint"
+- src: "sharepoint2.png"
+  title: "AKKA SharePoint Project"
 ---
 
 <b>CLIENT:</b> AKKA, internal projects<br>

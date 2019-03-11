@@ -1,21 +1,35 @@
 ---
 title: "Drawing Comparison Tool - Proof-Of-Concept"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+subtitle: "Proof-Of-Concept Prototype Tool for TME Drawing Comparison Tool"
+image: "head.jpg"
 categories: [ "Automotive", "R&D", "Consulting", "CAD", "Image analysis", "Web", "Project management", "Team management" ]
 tags: [ "C++", "OpenCV", "Qt", "CVS", "Visual Studio", "MS Project" ]
-#resources:
-##For each "logo" image file:
-# (logos = [ "TME", "AKKA" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images:
+- src: "01-poc.jpg"
+  title: "DCT POC UI"
+- src: "02-proto1.jpg"
+  title: "DCT POC UI - Alternate"
+- src: "03-spots.png"
+  title: "Points Sampling"
+- src: "04-clustering.jpg"
+  title: "Clustering"
+- src: "05-descriptors.jpg"
+  title: "Image Descriptors"
+- src: "06-diff.jpg"
+  title: "Image Comparison"
+- src: "07-superposition.jpg"
+  title: "Differences Highlights"
+- src: "08-logo.jpg"
+  title: "AKKA Awards 2016"
+- src: "09-manual.jpg"
+  title: "Awards Video Sequence"
+- src: "10-end.jpg"
+  title: "End of Awards video"
+- src: "11-awards.jpg"
+  title: "2nd Place at the AKKA Awards 2016"
+resources:
+- src: "logos/toyota.png"
+  title: "TOYOTA"
 ---
 
 <b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME), as AKKA Consultant<br>
