@@ -1,28 +1,27 @@
 ---
 title: "LapTeach"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+subtitle: "Tele-Scope-Mentoring for LapMan"
 categories: [ "Medical", "Video" ]
 tags: [ "C++", "Java", "Gimp", "OpenGL", "ffmpeg", "Visual Studio", "Eclipse" ]
-resources:
-#logos:
-- src: "logos/medsys.png"
-  title: "..."
-#images:
-- src: "images/lapman.png"
+images_copyright: "MEDSYS"
+images:
+- src: "backgroundAlpha.jpg"
+  title: "Lap Remote"
+- src: "lapman.jpg"
   title: "LapMan"
-  params:
-    copyright: "MEDSYS"
-- src: "images/splashscreen.png"
-  title: "LapTeach splash screen"
-  params:
-    copyright: "MEDSYS"
-- src: "images/ui.png"
-  title: "LapTeach"
-  params:
-    copyright: "MEDSYS"
+- src: "lapman_plans.jpg"
+  title: "LapMan Plans"
+- src: "lapteach.jpg"
+  title: "LapTeach Device"
+- src: "lapteach_setup.png"
+  title: "Setup Screen"
+- src: "SplashScreen.png"
+  title: "Splash Screen"
+- src: "ui.jpg"
+  title: "LapTeach UI"
+resources:
+- src: "logos/medsys.jpg"
+  title: "MEDSYS"
 ---
 
 <b>CLIENT:</b> Medsys, as a Multitel Research Engineer<br>

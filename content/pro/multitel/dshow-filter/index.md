@@ -6,16 +6,17 @@ subtitle: "DirectShow Filter To Count People"
 #small_url: "<URL>"
 categories: [ "Security", "Integration", "Video" ]
 tags: [ "C", "C++", "DirectShow", "Visual Studio" ]
-#resources:
-##For each "logo" image file:
-# (logos = [ "QUADROX, MULTITEL, ACIC" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images_copyright: "MULTITEL"
+images:
+- src: "config.png"
+  title: "Filter Configuration Panel"
+- src: "filter.jpg"
+  title: "Video Stream"
+- src: "graphedit.jpg"
+  title: "Filter's GraphEdit View"
+resources:
+- src: "logos/quadrox.jpeg"
+  title: "QUADROX"
 ---
 
 <b>CLIENT:</b> Quadrox, as a Multitel Research Engineer<br>
