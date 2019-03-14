@@ -2,26 +2,37 @@
 title: "FP6 - CARETAKER"
 subtitle: "Content Analysis and Retrieval Technologies to Apply Knowledge Extraction to Massive Recording"
 #image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+small_image: "caretaker-logo.jpg"
 #small_url: "<URL>"
 categories: [ "Security" ]
 tags: [ "C", "C++", "Java", "Visual Studio", "Eclipse" ]
+images_copyright: "MULTITEL & THALES"
+images:
+- src: "cams.jpg"
+  title: "Surveillance Camera Streams"
+- src: "caretaker_agents.jpg"
+  title: "Agents"
+- src: "caretaker_clust_summary.png"
+  title: "Clustering Summary"
+- src: "caretaker_comm.png"
+  title: "Communications"
+- src: "caretaker_knowledge_disc.jpg"
+  title: "Knowledge Disc"
+- src: "caretaker_system.png"
+  title: "CARETAKER Global System"
+- src: "events.jpg"
+  title: "Events System"
 resources:
-# add logos for: CARETAKER, THALES
-- src: "logos/caretaker.png"
+- src: "logos/caretaker.jpg"
   title: "CARETAKER"
+- src: "logos/eu.jpg"
+  title: "European Union"
 - src: "logos/fp6.png"
   title: "6th Framework Program"
-- src: "logos/eu.png"
-  title: "European Union"
 - src: "logos/ist.png"
   title: "Information Society Technologies"
-- src: "images/events.png"
-  title: "Events system"
-- src: "images/cams.png"
-  title: "Surveillance cameras"
-- src: "images/diagram.png"
-  title: "CARETAKER project"
+- src: "logos/thales.png"
+  title: "THALES"
 ---
 
 <b>CLIENT:</b> European Commission, as a Multitel Research Engineer<br>
