@@ -1,31 +1,51 @@
 ---
-title: "WCAM Demo Video"
+title: "FP6 - WCAM Demo Video"
 subtitle: "Video to promote the FP6 WCAM project"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+image: "images/8.jpg"
 categories: [ "Video", "3D", "Security" ]
 tags: [ "3DSMAX", "Blender", "VLC", "Photoshop", "Premiere" ]
+images_copyright: "MULTITEL"
+images:
+- src: "1.jpg"
+  title: "Introduction Screen"
+- src: "2.jpg"
+  title: "Arrival at Station"
+- src: "3.jpg"
+  title: "Getting to the Train"
+- src: "4.jpg"
+  title: "Using the PDA"
+- src: "5.jpg"
+  title: "Animation Video Stream"
+- src: "6.jpg"
+  title: "3D View of Annecy Hall"
+- src: "7.jpg"
+  title: "3D View of Annecy Hall"
+- src: "8.jpg"
+  title: "Abandonned Luggage Alarm"
+- src: "annecy2005.jpg"
+  title: "Annecy Animation Festival 2005"
+  copyright: "ANNECY ANIMATION FESTIVAL"
 resources:
-# add logos for: WCAM, THALES
-- src: "logos/fp6.png"
-  title: "6th Framework Program"
-- src: "logos/eu.png"
+- src: "logos/1-wcam.png"
+  title: "WCAM"
+- src: "logos/2-eu.jpg"
   title: "European Union"
-- src: "logos/ist.png"
+- src: "logos/3-fp6.png"
+  title: "6th Framework Program"
+- src: "logos/4-ist.png"
   title: "Information Society Technologies"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+- src: "logos/5-multitel.png"
+  title: "MULTITEL"
+- src: "logos/6-annecy.png"
+  title: "Annecy Animation Festival"
 ---
 
 <b>CLIENT:</b> European Commission, as a Multitel Research Engineer<br>
 
 <b>DESCRIPTION</b><br>
-Additionally to the development aspects of the [WCAM project](LINK TO WCAM!!!!), a demonstration video had to be made by Multitel.<br>
+Additionally to the development aspects of the [WCAM project](/pro/multitel/wcam), a demonstration video had to be made by Multitel.<br>
 A part of the video had to explain the entire workflow of the developed solution, using 3D animations combined with real world video footage.<br>
+The video was displayed at the WCAM booth during the [Annecy Animation Festival](https://www.annecy.org) in 2005.<br>
 
 <b>ROLE</b><br>
 I was responsible for the realisation of the part about the solution workflow.<br>

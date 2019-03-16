@@ -1,21 +1,39 @@
 ---
 title: "Various smaller projects"
 subtitle: "Contribution to other projects"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
-categories: [ "TODO-multitel-others" ]
+categories: [ "Security", "3D", "Video", "Image Analysis", "TODO-multitel-others" ]
 tags: [ "PYTHON", "C", "C++", "ASM", "Ogre 3D", "OpenGL", "Visual Studio", "Blender", "Gimp" ]
-#resources:
-##For each "logo" image file:
-# (logos = [ "multitel" ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images_copyright: "MULTITEL"
+images:
+- src: "asm.jpg"
+  title: "ASM Code Sample"
+- src: "dubai.jpg"
+  title: "Redlight Crossing Dubai Model"
+- src: "kuwait.png"
+  title: "Kuwait Fence Perimeter"
+- src: "moryne_logo.jpg"
+  title: "MORYNE Logo"
+- src: "parking.jpg"
+  title: "Car Park Surveillance"
+- src: "python.jpg"
+  title: "PYTHON Sample Code"
+- src: "redlight.jpg"
+  title: "MVision Redlight Crossing"
+- src: "road.jpg"
+  title: "MVision Redlight Crossing"
+- src: "secu1.jpg"
+  title: "MVision Area Watching"
+- src: "secu2.jpg"
+  title: "MVision Area Watching"
+- src: "traffic.jpg"
+  title: "Video Compression"
+- src: "trictrac.jpg"
+  title: "TRIC-TRAC Football Sequence"
+resources:
+- src: "logos/acic.jpg"
+  title: "ACIC"
+- src: "logos/multitel.jpg"
+  title: "MULTITEL"
 ---
 
 <b>CLIENT:</b> Partly for clients and partly on internal projects, as a Multitel Research Engineer<br>
