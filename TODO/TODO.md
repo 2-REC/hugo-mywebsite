@@ -1,6 +1,19 @@
 TO DO:
 
 - [ ] GENERAL:
+(NEW!)
+- [ ] check homogeneity in all companies, projects, etc pages
+- [ ] check all categories and tags
+- [ ] add AKKA logo in each project at clients (agc, tme, etc)
+- [ ] change logos sizes (48x48 instead of 32x32?)
+    => in static/css/theme.css
+    (! - should be in the CSS variables)
+- [ ] set companies main image sizes (on homepage) to 4 per row instead of 3
+    => col-3 instead of col-4 (?)
+- [ ] add small image next to each project in lists...
+- [ ] footer
+
+
   - [ ] Complete README.md file
     => What to add?
   - [ ] Create and add "favicon.ico"
