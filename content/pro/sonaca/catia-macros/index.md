@@ -1,20 +1,29 @@
 ---
-title: "CATIA V5 Macros"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+title: "CATIA V5 Extension - Macros"
+subtitle: "Custom Macros for CATIA V5"
+small_image: "catia.jpg"
 categories: [ "TODO-sonaca-catia-macros" ]
 tags: [ "CAA RADE", "VB", "CATScript", "SQL", "CATIA V5", VPM" ]
-#resources:
-##For each "logo" image file:
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images_copyright: "SONACA"
+images:
+- src: "macro.png"
+  title: ""
+  copyright: "DASSAULT SYSTEMES"
+- src: "support_positionning-dialogbox.gif"
+  title: "Support Positionning Macro - Dialog Box"
+- src: "support_positionning-result.gif"
+  title: "Support Positionning Macro - Result"
+- src: "time_stamp_comparison-file.gif"
+  title: "Time Stamp Comparison Macro - Result"
+resources:
+- src: "logos/airbus.jpg"
+  title: "AIRBUS"
+- src: "logos/bombardier.jpg"
+  title: "BOMBARDIER"
+- src: "logos/dassault.jpg"
+  title: "DASSAULT"
+- src: "logos/embraer.jpg"
+  title: "EMBRAER"
 ---
 
 <b>CLIENT:</b> SONACA, as external consultant<br>

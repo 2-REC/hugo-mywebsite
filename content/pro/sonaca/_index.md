@@ -3,10 +3,9 @@ title: "SONACA"
 subtitle: "CAD Software Engineer - As external Consultant"
 startDate: "2007-07-01"
 endDate: "2010-11-01"
-#image: "sonaca"
-#image_copyright: "SONACA?"
-#small_image: "sonaca.jpg"
-#small_url: "<URL>"
+image: "head.jpg"
+small_image: "sonaca_old.jpg"
+small_url: "https://www.sonaca.com/"
 posts_title: "PROJECTS"
 ---
 

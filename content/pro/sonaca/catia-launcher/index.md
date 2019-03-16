@@ -1,20 +1,18 @@
 ---
-title: "CATIA Launcher"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+title: "CATIA V5 Launcher"
+subtitle: "Start CATIA V5 in the desired environment"
+small_image: "catia.jpg"
 categories: [ "TODO-sonaca-catia-launcher" ]
 tags: [ "VBA", "VB .NET", "Shell Scripting?", "CATIA V5", "Excel", "Visual Studio", "Windows", "UNIX" ]
-#resources:
-##For each "logo" image file:
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images_copyright: "SONACA"
+images:
+- src: "1-v5_launcher-win.gif"
+  title: "CATIA V5 Launcher - Windows"
+- src: "2-v5_launcher-aix.gif"
+  title: "CATIA V5 Launcher - UNIX"
+- src: "3-catia.gif"
+  title: "CATIA V5"
+  copyright: "DASSAULT SYSTEMES"
 ---
 
 <b>CLIENT:</b> SONACA, as external consultant<br>

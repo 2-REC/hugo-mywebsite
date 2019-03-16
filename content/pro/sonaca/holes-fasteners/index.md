@@ -1,20 +1,32 @@
 ---
 title: "Holes & Fasteners"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+subtitle: "Automation of Holes and Fasteners Instantiation and Positionning"
+image: "slats.jpg"
+image_copyright: "SONACA"
+small_image: "catia.jpg"
 categories: [ "TODO-sonaca-holes-fasteners" ]
 tags: [ "C++", "CAA RADE", "SQL", "CATIA V5", "VPM", "Visual Studio" ]
-#resources:
-##For each "logo" image file:
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images_copyright: "SONACA"
+images:
+- src: "fast.jpg"
+  title: "Holes & Fasteners - Dialog Box"
+- src: "fast2.jpg"
+  title: "Holes & Fasteners - Result"
+- src: "IMG_FST_BOLT.bmp"
+  title: "Fastener Diagram"
+- src: "slats.jpg"
+  title: "3D Result Model"
+- src: "z-adv_composite_4.jpg"
+  title: "Slat"
+resources:
+- src: "logos/airbus.jpg"
+  title: "AIRBUS"
+- src: "logos/bombardier.jpg"
+  title: "BOMBARDIER"
+- src: "logos/dassault.jpg"
+  title: "DASSAULT"
+- src: "logos/embraer.jpg"
+  title: "EMBRAER"
 ---
 
 <b>CLIENT:</b> SONACA, as external consultant<br>

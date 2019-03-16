@@ -1,20 +1,30 @@
 ---
 title: "Various Tools"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+subtitle: "Data Exchange, Archiving and Other Tools ..."
+image: "hall.jpg"
 categories: [ "TODO-sonaca-others" ]
 tags: [ "C#", "VB .NET", "VPM", "Excel", "Visual Studio", "UNIX", "Windows" ]
-#resources:
-##For each "logo" image file:
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images_copyright: "SONACA"
+images:
+- src: "2018-10-01-Sonaca-0223.jpg"
+  title: "SONACA Hall"
+- src: "archiver.png"
+  title: "NT Archiver"
+- src: "flap.jpg"
+  title: "3D Flap"
+- src: "nose.jpg"
+  title: "AIRBUS Nose"
+- src: "vb.png"
+  title: "VB Script"
+resources:
+- src: "logos/airbus.jpg"
+  title: "AIRBUS"
+- src: "logos/bombardier.jpg"
+  title: "BOMBARDIER"
+- src: "logos/dassault.jpg"
+  title: "DASSAULT"
+- src: "logos/embraer.jpg"
+  title: "EMBRAER"
 ---
 
 <b>CLIENT:</b> SONACA, as external consultant<br>
