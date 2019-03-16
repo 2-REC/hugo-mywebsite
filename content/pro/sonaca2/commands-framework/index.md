@@ -1,20 +1,20 @@
 ---
 title: "CAA Commands Framework"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+subtitle: "CAA Commands & Toolbars Generator"
+small_image: "catia.jpg"
 categories: [ "TODO-sonaca2-commands-framework" ]
 tags: [ "C++", "CAA RADE", "SQL", "CATIA V5", "VPM", "Visual Studio" ]
-#resources:
-##For each "logo" image file:
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images_copyright: "SONACA"
+images:
+- src: "fast.png"
+  title: "Example of Dialog Box"
+- src: "saa-command.png"
+  title: "Example of Command Generation Code"
+- src: "smooth_surface.gif"
+  title: "Example of Dialog Box"
+resources:
+- src: "logos/akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> SONACA, as AKKA consultant<br>
