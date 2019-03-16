@@ -1,21 +1,21 @@
 ---
 title: "Drawing Comparison Tool"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
-categories: [ "Technical Lead", "Project Managment", "Team Management" ]
+subtitle: "Automated Drawing Comparison Tool"
+categories: [ "Technical Lead", "Project Managment", "Team Management", "R&D", "Image Analysis" ]
 tags: [ "JavaScript", "HTML", "CSS", "React", "Redux", "PixiJS", "REST", "OpenCV", "Node.js", "Bootstrap", "Git", "IntelliJ", "SCRUM", "MS Project", "Jira", "Clojure", "MongoDB", "Redis", "Onyx", "ActiveMQ", "Sonar", "Linux" ]
-#resources:
-##For each "logo" image file:
-# (logos: [ "tme", "akka", ...? ])
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-##For each "image" image file:
-#- src: "images/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
-#  params:
-#    copyright: "<TEXT>"
+images_copyright: "TOYOTA MOTOR EUROPE"
+images:
+- src: "clustering.jpg"
+  title: "Clustering Process"
+- src: "clustering2.jpg"
+  title: "Clustering Result"
+- src: "compare.jpg"
+  title: "Comparison Process - Differences Highlight"
+- src: "ui.jpg"
+  title: "UI Main Components"
+resources:
+- src: "logos/1-akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME), as AKKA Consultant<br>
@@ -43,3 +43,4 @@ AKKA was assigned the full realisation of the project thanks to the Feasibility 
 As Technical Leader, I was responsible for analysing and determining the appropriate technologies and implementation choices, and to validate them with the business and management (following the Technical Offer that had been made to the client with the [Feasibility Study](/pro/akka/dct-feasibility)).<br>
 I was also responsible for managing the development team (composed of 4 developers) and making sure the requirements and planning were respected, as well as being the point of interaction between the technical team, the management and the client.<br>
 Additionally to supervising the development, I also worked on some of the UI aspects of the front-end, mostly on the viewport related code.<br>
+	

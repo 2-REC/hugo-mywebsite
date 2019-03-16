@@ -3,10 +3,9 @@ title: "TOYOTA MOTOR EUROPE"
 subtitle: "Technical Leader - As AKKA Consultant"
 startDate: "2016-12-01"
 endDate: "2017-09-01"
-#image: "tme"
-#image_copyright: "TME"
-#small_image: "toyota.jpg"
-#small_url: "<URL>"
+image: "head.jpg"
+small_image: "toyota.png"
+small_url: "https://www.toyota-europe.com"
 posts_title: "PROJECTS"
 ---
 
