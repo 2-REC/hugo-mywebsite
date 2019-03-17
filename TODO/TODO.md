@@ -1,23 +1,39 @@
 TO DO:
 
 - [ ] GENERAL:
-(NEW!)
-- [ ] check homogeneity in all companies, projects, etc pages
-- [ ] check all categories and tags
-- [ ] add AKKA logo in each project at clients (agc, tme, etc)
-- [ ] change logos sizes (48x48 instead of 32x32?)
-    => in static/css/theme.css
-    (! - should be in the CSS variables)
-- [ ] set companies main image sizes (on homepage) to 4 per row instead of 3
-    => col-3 instead of col-4 (?)
-- [ ] add small image next to each project in lists...
-- [ ] footer
+
+  - [ ] Logos:
+    - [ ] Add company logos in each project
+      - [ ] AKKA at each client (agc, tme, etc)
+      - [ ] Current company for each project (even if redundant)
+        (e.g.: "SONACA" for each SONACA project, etc)
+      - [ ] change logos sizes (48x48 instead of 32x32?)
+        => in static/css/theme.css
+        (! - MODIFY THEME TO HANDLE IT AS A CSS VARIABLE!)
+  - [ ] Set companies main image sizes (on homepage) to 4 per row instead of 3
+      => col-3 instead of col-4 (?)
+  - [ ] Determine and set sizes of all images (check)
+  - [ ] Check all categories and tags
+  - [ ] Check homogeneity in all companies, projects, etc pages (fonts, texts, layout, etc)
+  - [ ] Decide and set fonts of theme (CSS)
+    - [ ] Titles
+    - [ ] Subtitles
+    - [ ] Texts
+    - [ ] etc.
+  - [ ] Decide and set colours of theme (CSS)
+  - [ ] Add image ("small_image", or company image if none?) next to each project in lists...
+    ! => Could use the first logo of each project... (?)
+  - [ ] Make better footer (with "All images are copyrighted material...")
+  - [ ] Set resources links using CDN (from hosting servers? eg Netlify?)
+    => As well as "local" as falldown alternative?
+
+  - [ ] Decide which hosting platform & deploy
+      => Look at: https://gohugo.io/hosting-and-deployment/
 
 
   - [ ] Complete README.md file
     => What to add?
   - [ ] Create and add "favicon.ico"
-  - [ ] Determine and set sizes of all images
     => Use responsove images?
     LOOK AT:
         <picture class="photo-wide orientation-landscape loaded">
@@ -28,12 +44,7 @@ TO DO:
   - [ ] ? - Add additional taxonomy for the different tools/technos/languages?
       => Need to define in "config.toml" (look at doc)
       (Or set them as "tags"?)
-  - [ ] Decide and set colours of theme (CSS)
-  - [ ] Set resources links using CDN (from hosting servers? eg Netlify?)
-    => As well as "local" as falldown alternative?
   - [ ] Add a recommendations/references page (?)
-  - [ ] Decide which hosting platform & deploy
-      => Look at: https://gohugo.io/hosting-and-deployment/
   LATER:
     - [ ] Create Font Awesome (or other svg) icons (gears, retropad, windows, book?, DSP, ...)
     - [ ] Add links to other websites... blogs, shops etc. (?)
