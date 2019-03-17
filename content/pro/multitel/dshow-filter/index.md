@@ -15,8 +15,10 @@ images:
 - src: "graphedit.jpg"
   title: "Filter's GraphEdit View"
 resources:
-- src: "logos/quadrox.jpeg"
+- src: "logos/1-quadrox.jpeg"
   title: "QUADROX"
+- src: "logos/2-multitel.jpg"
+  title: "MULTITEL"
 ---
 
 <b>CLIENT:</b> Quadrox, as a Multitel Research Engineer<br>

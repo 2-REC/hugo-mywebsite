@@ -11,13 +11,17 @@ images:
   title: "XENTA Terminal"
   copyright: "ATOS WORLDLINE"
 resources:
-- src: "logos/banksys.jpg"
-  title: "BANKSYS"
-- src: "logos/ores.jpg"
+- src: "logos/1-atos-small.jpg"
+  title: "ATOS"
+- src: "logos/2-ores.jpg"
   title: "ORES"
+- src: "logos/3-banksys.jpg"
+  title: "BANKSYS"
+- src: "logos/4-akka.jpg"
+  title: "AKKA"
 ---
 
-<b>CLIENT:</b> ATOS WORLDLINE and ORES, as AKKA Consultant<br>
+<b>CLIENT:</b> ATOS WORLDLINE, ORES and BANKSYS, as AKKA Consultant<br>
 
 <b>DESCRIPTION:</b><br>
 Development of an embedded top-up management system on XENTA and YOMANI payment terminals aimed to the "Core Reload Management" that is part of the Prepaid Reload for Ores.<br>

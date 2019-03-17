@@ -23,6 +23,9 @@ images:
   title: "SharePoint"
 - src: "sharepoint2.png"
   title: "AKKA SharePoint Project"
+resources:
+- src: "logos/akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> AKKA, internal projects<br>

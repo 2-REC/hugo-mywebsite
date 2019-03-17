@@ -18,10 +18,11 @@ images:
   title: "YOMANI Terminal"
 - src: "yomani-box.jpg"
   title: "Unboxed YOMANI Terminal"
-#resources:
-##For each "logo" image file:
-#- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
+resources:
+- src: "logos/1-atos-small.jpg"
+  title: "ATOS"
+- src: "logos/2-akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> ATOS WORLDLINE, as AKKA Consultant<br>

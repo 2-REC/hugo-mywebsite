@@ -2,6 +2,7 @@
 title: "FP6 - WCAM Demo Video"
 subtitle: "Video to promote the FP6 WCAM project"
 image: "images/8.jpg"
+small_image: "wcam.png"
 categories: [ "Video", "3D", "Security" ]
 tags: [ "3DSMAX", "Blender", "VLC", "Photoshop", "Premiere" ]
 images_copyright: "MULTITEL"
@@ -26,17 +27,15 @@ images:
   title: "Annecy Animation Festival 2005"
   copyright: "ANNECY ANIMATION FESTIVAL"
 resources:
-- src: "logos/1-wcam.png"
-  title: "WCAM"
-- src: "logos/2-eu.jpg"
+- src: "logos/1-eu.jpg"
   title: "European Union"
-- src: "logos/3-fp6.png"
+- src: "logos/2-fp6.png"
   title: "6th Framework Program"
-- src: "logos/4-ist.png"
+- src: "logos/3-ist.png"
   title: "Information Society Technologies"
-- src: "logos/5-multitel.png"
+- src: "logos/4-multitel.jpg"
   title: "MULTITEL"
-- src: "logos/6-annecy.png"
+- src: "logos/5-annecy.png"
   title: "Annecy Animation Festival"
 ---
 

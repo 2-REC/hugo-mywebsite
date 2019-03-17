@@ -17,17 +17,20 @@ images:
 - src: "vb.png"
   title: "VB Script"
 resources:
-- src: "logos/airbus.jpg"
+resources:
+- src: "logos/1-sonaca-small.jpg"
+  title: "SONACA"
+- src: "logos/2-airbus.png"
   title: "AIRBUS"
-- src: "logos/bombardier.jpg"
+- src: "logos/3-bombardier.jpg"
   title: "BOMBARDIER"
-- src: "logos/dassault.jpg"
-  title: "DASSAULT"
-- src: "logos/embraer.jpg"
+- src: "logos/4-embraer.jpg"
   title: "EMBRAER"
+- src: "logos/5-dassault.jpg"
+  title: "DASSAULT"
 ---
 
-<b>CLIENT:</b> SONACA, as external consultant<br>
+<b>CLIENT:</b> SONACA and customers, as external consultant<br>
 
 <b>DESCRIPTION</b><br>
 More tools had to be developed to assist the users and managers in their work. Some tools were requested by the managers to ease their user management tasks and environments configurations. Other tools were destined to the designers and engineers to assist and validate their work, and help them in the exchange, archiving and follow-up processes.<br>

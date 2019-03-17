@@ -7,10 +7,14 @@ images:
 - src: "dd.png"
   title: "Direct Deliveries"
 resources:
-- src: "logos/1-vw.jpg"
+- src: "logos/1-agc-small.png"
+  title: "AGC"
+- src: "logos/2-vw.jpg"
   title: "VW"
-- src: "logos/2-sintel.jpg"
-  title: "Sintel"
+- src: "logos/3-sintel.jpg"
+  title: "SINTEL"
+- src: "logos/4-akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> AGC AUTOMOTIVE and VW, as AKKA Consultant<br>

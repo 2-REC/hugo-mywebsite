@@ -1,6 +1,6 @@
 ---
-title: "Railway Plans Signals Extractor - Proof-Of-Concept"
-subtitle: "Proof-Of-Concept Prototype Tool to extract 2D symbols from PSS Railway Plans"
+title: "Signal Extractor - Proof Of Concept"
+subtitle: "Proof Of Concept Prototype Tool to extract 2D symbols from PSS Railway Plans"
 categories: [ "Railway", "R&D", "Image analysis", "Project management", "Team management" ]
 tags: [ "Java", "Swing", "OpenCV", "Eclipse", "CVS" ]
 images:
@@ -14,12 +14,10 @@ images:
   title: "ISS Plan"
   copyright: "INFRABEL"
 resources:
-- src: "logos/infrabel.png"
+- src: "logos/1-infrabel.png"
   title: "INFRABEL"
-- src: "logos/sncb.png"
-  title: "SNCB"
-- src: "logos/tucrail.jpg"
-  title: "TUC-RAIL"
+- src: "logos/2-akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> INFRABEL, as AKKA Consultant<br>

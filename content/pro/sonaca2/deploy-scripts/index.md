@@ -20,10 +20,10 @@ images:
   title: "IBM AIX Workstation"
   copyright: "IBM"
 resources:
-- src: "logos/1-akka.jpg"
+- src: "logos/1-sonaca-small.jpg"
+  title: "SONACA"
+- src: "logos/2-akka.jpg"
   title: "AKKA"
-- src: "logos/aix.png"
-  title: "AIX"
 ---
 
 <b>CLIENT:</b> SONACA, as AKKA consultant<br>

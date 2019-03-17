@@ -23,16 +23,16 @@ images:
 - src: "events.jpg"
   title: "Events System"
 resources:
-- src: "logos/caretaker.jpg"
-  title: "CARETAKER"
-- src: "logos/eu.jpg"
+- src: "logos/1-eu.jpg"
   title: "European Union"
-- src: "logos/fp6.png"
+- src: "logos/2-fp6.png"
   title: "6th Framework Program"
-- src: "logos/ist.png"
+- src: "logos/3-ist.png"
   title: "Information Society Technologies"
-- src: "logos/thales.png"
+- src: "logos/4-thales.png"
   title: "THALES"
+- src: "logos/5-multitel.jpg"
+  title: "MULTITEL"
 ---
 
 <b>CLIENT:</b> European Commission, as a Multitel Research Engineer<br>

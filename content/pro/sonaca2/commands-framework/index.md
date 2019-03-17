@@ -13,7 +13,9 @@ images:
 - src: "smooth_surface.gif"
   title: "Example of Dialog Box"
 resources:
-- src: "logos/akka.jpg"
+- src: "logos/1-sonaca-small.jpg"
+  title: "SONACA"
+- src: "logos/2-akka.jpg"
   title: "AKKA"
 ---
 

@@ -13,8 +13,12 @@ images:
   title: "YOMANI Terminal"
   copyright: "ATOS WORLDLINE"
 resources:
-- src: "logos/jade-i.jpg"
+- src: "logos/1-atos-small.jpg"
+  title: "ATOS"
+- src: "logos/2-jade-i.jpg"
   title: "JADE-I"
+- src: "logos/3-akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> ATOS WORLDLINE and JADE-I, as AKKA Consultant<br>

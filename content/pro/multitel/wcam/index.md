@@ -2,7 +2,7 @@
 title: "FP6 - WCAM"
 subtitle: "Wireless Cameras and Audio-visual Seamless Networking"
 #image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+small_image: "wcam.png"
 #small_url: "<URL>"
 categories: [ "Video", "Streaming", "Security", "Image Analysis", "Embedded" ]
 tags: [ "C", "ffmpeg", "VLC", "H264", "MJPEG2000", "MP2TS", "HTTP", "UDP", "RTP", "Visual Studio", "Linux", "Windows CE", "PDA" ]
@@ -21,22 +21,22 @@ images:
 - src: "wcam_poster.png"
   title: "WCAM Poster"
 resources:
-- src: "logos/1-wcam.png"
-  title: "WCAM"
-- src: "logos/2-eu.jpg"
+- src: "logos/1-eu.jpg"
   title: "European Union"
-- src: "logos/3-fp6.png"
+- src: "logos/2-fp6.png"
   title: "6th Framework Program"
-- src: "logos/4-ist.png"
+- src: "logos/3-ist.png"
   title: "Information Society Technologies"
-- src: "logos/5-thales.png"
+- src: "logos/4-thales.png"
   title: "THALES"
-- src: "logos/6-bristol.png"
+- src: "logos/5-bristol.png"
   title: "University of Bristol"
-- src: "logos/7-fpms.jpg"
+- src: "logos/6-fpms.jpg"
   title: "Faculte Polytechnique de Mons"
-- src: "logos/8-eona.jpg"
+- src: "logos/7-eona.jpg"
   title: "EONA"
+- src: "logos/8-multitel.jpg"
+  title: "MULTITEL"
 ---
 
 <b>CLIENT:</b> European Commission, as a Multitel Research Engineer<br>

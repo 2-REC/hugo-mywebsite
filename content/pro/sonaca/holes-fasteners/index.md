@@ -19,17 +19,20 @@ images:
 - src: "z-adv_composite_4.jpg"
   title: "Slat"
 resources:
-- src: "logos/airbus.jpg"
+resources:
+- src: "logos/1-sonaca-small.jpg"
+  title: "SONACA"
+- src: "logos/2-airbus.png"
   title: "AIRBUS"
-- src: "logos/bombardier.jpg"
+- src: "logos/3-bombardier.jpg"
   title: "BOMBARDIER"
-- src: "logos/dassault.jpg"
-  title: "DASSAULT"
-- src: "logos/embraer.jpg"
+- src: "logos/4-embraer.jpg"
   title: "EMBRAER"
+- src: "logos/5-dassault.jpg"
+  title: "DASSAULT"
 ---
 
-<b>CLIENT:</b> SONACA, as external consultant<br>
+<b>CLIENT:</b> SONACA and customers, as external consultant<br>
 
 <b>DESCRIPTION</b><br>
 Manually modelling and placing holes and fasteners on 3D models of airplane wings is a fastidious and time consuming task.<br>

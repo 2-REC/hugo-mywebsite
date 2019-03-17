@@ -1,6 +1,7 @@
 ---
 title: "FP6 - WIDENS"
 subtitle: "Wireless Deployable Network System"
+small_image: "widens.jpg"
 categories: [ "Video", "Streaming", "Security", "Codec", "Embedded", "..." ]
 tags: [ "C", "C++", "ffmpeg", "VLC", "HTTP", "UDP", "RTP", "PDA", "Windows CE", "..." ]
 images_copyright: "MULTITEL"
@@ -12,18 +13,16 @@ images:
 - src: "widens_stream.jpg"
   title: "WIDENS in BetaPlayer (TCPMP)"
 resources:
-- src: "logos/1-wcam.png"
-  title: "WCAM"
-- src: "logos/2-eu.jpg"
+- src: "logos/1-eu.jpg"
   title: "European Union"
-- src: "logos/3-fp6.png"
+- src: "logos/2-fp6.png"
   title: "6th Framework Program"
-- src: "logos/4-ist.png"
+- src: "logos/3-ist.png"
   title: "Information Society Technologies"
-- src: "logos/5-multitel.png"
-  title: "MULTITEL"
-- src: "logos/6-thales.png"
+- src: "logos/4-thales.png"
   title: "THALES"
+- src: "logos/5-multitel.jpg"
+  title: "MULTITEL"
 ---
 
 <b>CLIENT:</b> European Commission, as a Multitel Research Engineer<br>

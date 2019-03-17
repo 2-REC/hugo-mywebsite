@@ -2,6 +2,8 @@
 title: "IFAST"
 subtitle: "INFRABEL's Field Automated Shelter Testing"
 image: "head.jpg"
+image_copyright: "TUC RAIL"
+small_image: "ifast.png"
 categories: [ "Railway", "Security", "Embedded" ]
 tags: [ "Java", "JavaFX", "HTML5", "JavaScript", "CSS", "NetBeans", "CVS", "Oxygen", "JIRA", "Mantisse", "Jenkins", "Sonar", "Scrum" ]
 images_copyright: "INFRABEL"
@@ -14,18 +16,23 @@ images:
   title: "IFAST Toolchain"
 - src: "loge.jpg"
   title: "Shelter"
+  copyright: "TUC RAIL"
 - src: "sheets.jpg"
   title: "NT22 Sheets"
 - src: "train.jpg"
   title: "Train"
 resources:
-- src: "logos/sncb.png"
+- src: "logos/1-infrabel.png"
+  title: "INFRABEL"
+- src: "logos/2-tucrail.jpg"
+  title: "TUC RAIL"
+- src: "logos/3-sncb.png"
   title: "SNCB"
-- src: "logos/tucrail.jpg"
-  title: "TUC-RAIL"
+- src: "logos/4-akka.jpg"
+  title: "AKKA"
 ---
 
-<b>CLIENT:</b> INFRABEL, TUC-RAIL and SNCB, as AKKA Consultant<br>
+<b>CLIENT:</b> INFRABEL, TUC RAIL and SNCB, as AKKA Consultant<br>
 
 <b>DESCRIPTION</b><br>
 The IFAST application, part of the global Testing Tools Shelter (TTS) project, aims at assisting the testing of the PLP modules in the shelter in a digital semi-automatic manner.<br>

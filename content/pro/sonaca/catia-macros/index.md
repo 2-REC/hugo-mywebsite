@@ -16,17 +16,20 @@ images:
 - src: "time_stamp_comparison-file.gif"
   title: "Time Stamp Comparison Macro - Result"
 resources:
-- src: "logos/airbus.jpg"
+resources:
+- src: "logos/1-sonaca-small.jpg"
+  title: "SONACA"
+- src: "logos/2-airbus.png"
   title: "AIRBUS"
-- src: "logos/bombardier.jpg"
+- src: "logos/3-bombardier.jpg"
   title: "BOMBARDIER"
-- src: "logos/dassault.jpg"
-  title: "DASSAULT"
-- src: "logos/embraer.jpg"
+- src: "logos/4-embraer.jpg"
   title: "EMBRAER"
+- src: "logos/5-dassault.jpg"
+  title: "DASSAULT"
 ---
 
-<b>CLIENT:</b> SONACA, as external consultant<br>
+<b>CLIENT:</b> SONACA and customers, as external consultant<br>
 
 <b>DESCRIPTION</b><br>
 Additionally to the CATIA V5 Extension tools and modules, a set of macros were developed to assist and automate part of the  designers and engineers recurrent tasks.<br>

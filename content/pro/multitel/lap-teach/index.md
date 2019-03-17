@@ -20,8 +20,10 @@ images:
 - src: "ui.jpg"
   title: "LapTeach UI"
 resources:
-- src: "logos/medsys.jpg"
+- src: "logos/1-medsys.jpg"
   title: "MEDSYS"
+- src: "logos/2-multitel.jpg"
+  title: "MULTITEL"
 ---
 
 <b>CLIENT:</b> Medsys, as a Multitel Research Engineer<br>

@@ -28,8 +28,10 @@ images:
 - src: "11-awards.jpg"
   title: "2nd Place at the AKKA Awards 2016"
 resources:
-- src: "logos/toyota.png"
+- src: "logos/1-toyota.png"
   title: "TOYOTA"
+- src: "logos/2-akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME), as AKKA Consultant<br>

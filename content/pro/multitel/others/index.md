@@ -30,10 +30,10 @@ images:
 - src: "trictrac.jpg"
   title: "TRIC-TRAC Football Sequence"
 resources:
-- src: "logos/acic.jpg"
-  title: "ACIC"
-- src: "logos/multitel.jpg"
+- src: "logos/1-multitel.jpg"
   title: "MULTITEL"
+- src: "logos/2-acic.jpg"
+  title: "ACIC"
 ---
 
 <b>CLIENT:</b> Partly for clients and partly on internal projects, as a Multitel Research Engineer<br>

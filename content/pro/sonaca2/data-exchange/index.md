@@ -10,16 +10,18 @@ images:
 - src: "smarteam.jpg"
   title: "ENOVIA SmarTeam UI"
 resources:
-- src: "logos/1-akka.jpg"
-  title: "AKKA"
-- src: "logos/airbus.jpg"
+- src: "logos/1-sonaca-small.jpg"
+  title: "SONACA"
+- src: "logos/2-airbus.png"
   title: "AIRBUS"
-- src: "logos/bombardier.jpg"
+- src: "logos/3-bombardier.jpg"
   title: "BOMBARDIER"
-- src: "logos/dassault.jpg"
-  title: "DASSAULT"
-- src: "logos/embraer.jpg"
+- src: "logos/4-embraer.jpg"
   title: "EMBRAER"
+- src: "logos/5-dassault.jpg"
+  title: "DASSAULT"
+- src: "logos/6-akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> SONACA, as AKKA consultant<br>

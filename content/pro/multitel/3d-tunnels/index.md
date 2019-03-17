@@ -19,8 +19,10 @@ images:
 - src: "plan-antwerp2.png"
 - src: "plan-global.jpg"
 resources:
-- src: "logos/antwerp.png"
+- src: "logos/1-antwerp.png"
   title: "City of Antwerp"
+- src: "logos/2-multitel.jpg"
+  title: "MULTITEL"
 ---
 
 <b>CLIENT:</b> City of Antwerp, as a Multitel Research Engineer<br>

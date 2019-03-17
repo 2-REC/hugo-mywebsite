@@ -13,17 +13,21 @@ images:
 - src: "vda-recommendations.jpg"
   title: "EDIFACT message flow"
 resources:
-- src: "logos/1-nifco.jpg"
-  title: "Nifco"
-- src: "logos/2-europlatics.jpg"
-  title: "EuroPlastics"
-- src: "logos/3-sitet.jpg"
-  title: "Sitet"
-- src: "logos/4-sintel.jpg"
-  title: "Sintel"
+- src: "logos/1-agc-small.png"
+  title: "AGC"
+- src: "logos/2-nifco.jpg"
+  title: "NIFCO"
+- src: "logos/3-europlatics.jpg"
+  title: "EUROPLASTICS"
+- src: "logos/4-sitet.jpg"
+  title: "SITET"
+- src: "logos/5-sintel.jpg"
+  title: "SINTEL"
+- src: "logos/6-akka.jpg"
+  title: "AKKA"
 ---
 
-<b>CLIENT:</b> AGC AUTOMOTIVE, as AKKA Consultant<br>
+<b>CLIENT:</b> AGC AUTOMOTIVE and its suppliers, as AKKA Consultant<br>
 
 <b>DESCRIPTION</b><br>
 In order to ease and strengthen AGC's Supply Chain activities with its business partners, EDI was required between the company and its suppliers.<br>

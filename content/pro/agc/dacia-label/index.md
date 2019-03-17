@@ -7,10 +7,14 @@ images:
 - src: "dacia-label.jpg"
   title: "Dacia label"
 resources:
-- src: "logos/dacia.jpg"
-  title: "Dacia"
-- src: "logos/sintel.jpg"
-  title: "Sintel"
+- src: "logos/1-agc-small.png"
+  title: "AGC"
+- src: "logos/2-dacia.jpg"
+  title: "DACIA"
+- src: "logos/3-sintel.jpg"
+  title: "SINTEL"
+- src: "logos/4-akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> DACIA via AGC AUTOMOTIVE, as AKKA Consultant<br>

@@ -19,8 +19,10 @@ images:
 - src: "segmentation.jpg"
   title: "Segmentation for Clustering"
 resources:
-- src: "logos/toyota.png"
+- src: "logos/1-toyota.png"
   title: "TOYOTA"
+- src: "logos/2-akka.jpg"
+  title: "AKKA"
 ---
 
 <b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME), as AKKA Consultant<br>

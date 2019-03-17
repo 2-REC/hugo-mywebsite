@@ -13,6 +13,9 @@ images:
 - src: "3-catia.gif"
   title: "CATIA V5"
   copyright: "DASSAULT SYSTEMES"
+resources:
+- src: "logos/sonaca-small.jpg"
+  title: "SONACA"
 ---
 
 <b>CLIENT:</b> SONACA, as external consultant<br>
