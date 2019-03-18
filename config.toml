@@ -109,6 +109,10 @@ theme = "myportfolio"
         # Format of the "period" field.
         date_format = "Jan-2006"
 
+        # Number of columns in projects grid (OPTIONAL)
+        nb_columns = "4"
+        nb_columns_small = "2"
+
     # ----------
 
     # PAGE 404
