@@ -10,7 +10,7 @@ TO DO:
       - [ ] change logos sizes (48x48 instead of 32x32?)
         => in static/css/theme.css
         (! - MODIFY THEME TO HANDLE IT AS A CSS VARIABLE!)
-  - [ ] Set companies main image sizes (on homepage) to 4 per row instead of 3
+  - [x] Set companies main image sizes (on homepage) to 4 per row instead of 3
       => col-3 instead of col-4 (?)
   - [ ] Determine and set sizes of all images (check)
   - [ ] Check all categories and tags
