@@ -1,10 +1,10 @@
 ---
-title: "AGC"
+title: "AGC AUTOMOTIVE"
 subtitle: "Functional Analyst - As AKKA Consultant"
 startDate: "2017-08-01"
-endDate: "2018-01-29"
+endDate: "2018-02-01"
 image: "building.jpg"
-#image_copyright: "AGC"
+image_copyright: "Philippe SAMYN and PARTNERS"
 small_image: "agc.png"
 small_url: "http://www.agc-automotive.com"
 posts_title: "PROJECTS"
