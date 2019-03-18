@@ -2,12 +2,12 @@
 
 # GLOBAL SITE SETTINGS
 # Parameters used by HUGO to configure the site's global settings.
+preserveTaxonomyNames = "true"
 
 baseURL = "https://derekseverin.com/"
 languageCode = "en-us"
 title = "Derek Severin Pro Website"
 theme = "myportfolio"
-
 
 [params]
 
