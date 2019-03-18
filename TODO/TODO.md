@@ -3,16 +3,16 @@ TO DO:
 - [ ] GENERAL:
 
   - [ ] Logos:
-    - [ ] Add company logos in each project
-      - [ ] AKKA at each client (agc, tme, etc)
-      - [ ] Current company for each project (even if redundant)
+    - [x] Add company logos in each project
+      - [x] AKKA at each client (agc, tme, etc)
+      - [x] Current company for each project (even if redundant)
         (e.g.: "SONACA" for each SONACA project, etc)
-      - [ ] change logos sizes (48x48 instead of 32x32?)
-        => in static/css/theme.css
-        (! - MODIFY THEME TO HANDLE IT AS A CSS VARIABLE!)
   - [x] Set companies main image sizes (on homepage) to 4 per row instead of 3
       => col-3 instead of col-4 (?)
-  - [ ] Determine and set sizes of all images (check)
+  - [ ] Images:
+    - [ ] Determine and set sizes of all images (check)
+    - [ ] Strip metadata from images
+    - [ ] Rename files (around 8 characters max, and meaningful names)
   - [ ] Check all categories and tags
   - [ ] Check homogeneity in all companies, projects, etc pages (fonts, texts, layout, etc)
   - [ ] Decide and set fonts of theme (CSS)
@@ -21,7 +21,7 @@ TO DO:
     - [ ] Texts
     - [ ] etc.
   - [ ] Decide and set colours of theme (CSS)
-  - [ ] Add image ("small_image", or company image if none?) next to each project in lists...
+  - [x] Add image ("small_image", or company image if none?) next to each project in lists...
     ! => Could use the first logo of each project... (?)
   - [ ] Make better footer (with "All images are copyrighted material...")
   - [ ] Set resources links using CDN (from hosting servers? eg Netlify?)
@@ -33,6 +33,8 @@ TO DO:
 
   - [ ] Complete README.md file
     => What to add?
+    - [ ] Reference "Minimal Academic" theme for the sidebar stuff? (if not done)
+    - [ ] Mention use of "cover_image" and "small_image" for sections ("cover_image" can override "small_image")
   - [ ] Create and add "favicon.ico"
     => Use responsove images?
     LOOK AT:
