@@ -1,6 +1,6 @@
 ---
 title: "AGC AUTOMOTIVE"
-subtitle: "Functional Analyst - As AKKA Consultant"
+subtitle: "FUNCTIONAL ANALYST - As AKKA Consultant"
 startDate: "2017-08-01"
 endDate: "2018-02-01"
 image: "building.jpg"

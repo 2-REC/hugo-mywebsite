@@ -1,6 +1,6 @@
 ---
 title: "AKKA TECHNOLOGIES"
-subtitle: "IT Consultant & Project Manager"
+subtitle: "IT CONSULTANT & PROJECT MANAGER"
 startDate: "2012-03-01"
 endDate: "2018-02-01"
 image: "head.jpg"

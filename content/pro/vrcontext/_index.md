@@ -1,6 +1,6 @@
 ---
 title: "VR CONTEXT"
-subtitle: "3D Modeller & Software Developer"
+subtitle: "3D MODELER & TOOLS DEVELOPER"
 startDate: "2003-10-01"
 endDate: "2004-02-01"
 image: "walkinside.jpg"

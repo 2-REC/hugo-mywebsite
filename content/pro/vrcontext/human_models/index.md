@@ -9,8 +9,10 @@ tags: [ "3DSMAX", "Photoshop", "Visual Studio" ]
 images:
 - src: "1-walkinside.jpg"
   title: "WalkInside"
+  copyright: "SIEMENS"
 - src: "2-biped.jpg"
   title: "3DSMAX Biped"
+  copyright: "AUTODESK"
 resources:
 - src: "logos/1.jpeg"
   title: "VR CONTEXT"

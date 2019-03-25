@@ -6,10 +6,13 @@ tags: [ "3DSMAX", "MAXSCRIPT", "C++", "Visual Studio" ]
 images:
 - src: "3d.jpg"
   title: "3D Model"
+  copyright: "SIEMENS"
 - src: "maxscript.gif"
   title: "MAXSCRIPT"
+  copyright: "AUTODESK"
 - src: "walkinside.jpg"
   title: "WalkInside interface"
+  copyright: "SIEMENS"
 resources:
 - src: "logos/1.jpeg"
   title: "VR CONTEXT"
