@@ -1,7 +1,7 @@
 TO DO:
 
 - [ ] GENERAL:
-
+  - [ ] Deployment: Fix "mixed content" warning due to insecure URL (1GC: not https!)
   - [ ] Logos:
     - [x] Add company logos in each project
       - [x] AKKA at each client (agc, tme, etc)
@@ -14,6 +14,9 @@ TO DO:
     - [ ] Strip metadata from images
     - [ ] Rename files (around 8 characters max, and meaningful names)
   - [ ] Check all categories and tags
+  - [ ] Fix problem with C#
+      => '#' character causes problems in URLs (and can't change in taxonomies generation...?)
+      (now using "C Sharp" instead, but should be able to use "C#"!)
   - [ ] Check homogeneity in all companies, projects, etc pages (fonts, texts, layout, etc)
   - [ ] Decide and set fonts of theme (CSS)
     - [ ] Titles
