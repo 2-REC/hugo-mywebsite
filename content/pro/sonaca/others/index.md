@@ -3,7 +3,7 @@ title: "Various Tools"
 subtitle: "Data Exchange, Archiving and Other Tools ..."
 image: "hall.jpg"
 categories: [ "TODO-sonaca-others" ]
-tags: [ "C#", "VB .NET", "VPM", "Excel", "Visual Studio", "UNIX", "Windows" ]
+tags: [ "C Sharp", "VB .NET", "VPM", "Excel", "Visual Studio", "UNIX", "Windows" ]
 images_copyright: "SONACA"
 images:
 - src: "2018-10-01-Sonaca-0223.jpg"
