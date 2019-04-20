@@ -4,7 +4,7 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseURL = "https://derekseverin.com/"
+baseURL = "https://derekseverin.netlify.com/"
 languageCode = "en-us"
 title = "Derek Severin Pro Website"
 theme = "myportfolio"
