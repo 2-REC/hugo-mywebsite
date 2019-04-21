@@ -4,7 +4,6 @@ subtitle: "Automation of Holes and Fasteners Instantiation and Positionning"
 image: "slats.jpg"
 image_copyright: "SONACA"
 small_image: "catia.jpg"
-categories: [ "TODO-sonaca-holes-fasteners" ]
 categories: [ "Aerospace", "CAD", "3D", "Network", "Project Management", "Consulting", "R&D" ]
 tags: [ "C++", "CAA RADE", "SQL", "CATIA V5", "VPM", "Visual Studio" ]
 images_copyright: "SONACA"
