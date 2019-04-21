@@ -2,7 +2,7 @@
 title: "Antwerp Tunnels"
 subtitle: "3D Modeling of City Tunnels"
 image: "2.png"
-categories: [ "3D", "security" ]
+categories: [ "3D", "Security" ]
 tags: [ "Blender", "Gimp" ]
 images_copyright: "MULTITEL"
 images:

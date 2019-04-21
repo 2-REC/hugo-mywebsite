@@ -1,7 +1,7 @@
 ---
 title: "Various smaller projects"
 subtitle: "Contribution to other projects"
-categories: [ "Security", "3D", "Video", "Image Analysis", "TODO-multitel-others" ]
+categories: [ "R&D", "3D", "Video", "Image Analysis", "Security" ]
 tags: [ "PYTHON", "C", "C++", "ASM", "Ogre 3D", "OpenGL", "Visual Studio", "Blender", "Gimp" ]
 images_copyright: "MULTITEL"
 images:

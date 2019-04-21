@@ -138,7 +138,7 @@ TO DO:
       - [ ] Determine and get images, screenshots, logos.
       - [ ] Determine categories for each project.
         (from (non exhaustive):
-            Airspace, Automotive, Railway, Banking, Security, R&D, Medical, Consulting, 3D, CAD, Real-time simulation, VR, Image analysis, Video, Web, Network, Embedded, Data exchange, Project management, Team management
+            Aerospace, Automotive, Railway, Banking, Security, R&D, Medical, Consulting, 3D, CAD, Real-time simulation, VR, Image analysis, Video, Web, Network, Embedded, Data exchange, Project management, Team management
         )
       - [ ] PRO (SINGLE)
         - [ ] Remove technologies stuff, as there will already be the company's project tags.

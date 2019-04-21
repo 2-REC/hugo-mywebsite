@@ -6,4 +6,4 @@ sections_title: "Categories"
 posts_title: "Projects"
 ---
 
-Here are the different categories...
+COMING SOON: UNDER CONSTRUCTION

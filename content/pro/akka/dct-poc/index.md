@@ -2,7 +2,7 @@
 title: "Drawing Comparison Tool - Proof-Of-Concept"
 subtitle: "Proof-Of-Concept Prototype Tool for TME Drawing Comparison Tool"
 image: "head.jpg"
-categories: [ "Automotive", "R&D", "Consulting", "CAD", "Image analysis", "Web", "Project management", "Team management" ]
+categories: [ "Automotive", "R&D", "Consulting", "CAD", "Image Analysis", "Web", "Project Management", "Team Management" ]
 tags: [ "C++", "OpenCV", "Qt", "CVS", "Visual Studio", "MS Project" ]
 images:
 - src: "01-poc.jpg"

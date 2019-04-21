@@ -6,7 +6,7 @@ preserveTaxonomyNames = "true"
 
 baseURL = "https://derekseverin.netlify.com/"
 languageCode = "en-us"
-title = "Derek Severin Pro Website"
+title = "Derek Severin IT Portfolio"
 theme = "myportfolio"
 
 [params]

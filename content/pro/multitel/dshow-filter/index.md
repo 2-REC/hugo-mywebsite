@@ -4,7 +4,7 @@ subtitle: "DirectShow Filter To Count People"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "Security", "Integration", "Video" ]
+categories: [ "Security", "Video", "Image Analysis", "Network", "Embedded" ]
 tags: [ "C", "C++", "DirectShow", "Visual Studio" ]
 images_copyright: "MULTITEL"
 images:

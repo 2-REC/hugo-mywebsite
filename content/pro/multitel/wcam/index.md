@@ -4,7 +4,7 @@ subtitle: "Wireless Cameras and Audio-visual Seamless Networking"
 #image: "<IMAGE_FILE>"
 small_image: "wcam.png"
 #small_url: "<URL>"
-categories: [ "Video", "Streaming", "Security", "Image Analysis", "Embedded" ]
+categories: [ "R&D", "Video", "Image Analysis", "Security", "Embedded", "Data Exchange", "Network" ]
 tags: [ "C", "ffmpeg", "VLC", "H264", "MJPEG2000", "MP2TS", "HTTP", "UDP", "RTP", "Visual Studio", "Linux", "Windows CE", "PDA" ]
 images_copyright: "MULTITEL"
 images:

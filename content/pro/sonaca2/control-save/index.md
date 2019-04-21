@@ -1,8 +1,8 @@
 ---
 title: "Control Save"
 subtitle: "Automated Validation Save Command"
-categories: [ "TODO-sonaca2-control-save" ]
-tags: [ "C++", "CAA", SQL, CATIA V5, VPM" ]
+categories: [ "Aerospace", "CAD", "Consulting" ]
+tags: [ "C++", "CAA", "SQL", "CATIA V5", "VPM" ]
 resources:
 - src: "logos/1-sonaca-small.jpg"
   title: "SONACA"

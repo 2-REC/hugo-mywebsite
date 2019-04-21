@@ -4,7 +4,7 @@ subtitle: "Compilation & Deployment Scripts"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "TODO-sonaca2-deploy-scripts" ]
+categories: [ "Aerospace", "Network", "Consulting" ]
 tags: [ "Shell Scripting", "CAA CLI?", "Excel", "Windows", "UNIX" ]
 images:
 - src: "aix.jpg"

@@ -4,7 +4,7 @@ subtitle: "Various internal projects"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "TODO-AKKA-others" ]
+categories: [ "R&D", "Image Analysis", "Embedded", "Web", "Team Management", "Project Management" ]
 tags: [ "Java", "C++", "OpenCV", "Qt", "Swing", "VB", "Jenkins", "Sonar", "CVS", "Sharepoint", "Android", "Visual Studio", "NetBeans" ]
 images:
 - src: "ci-jenkins.jpg"

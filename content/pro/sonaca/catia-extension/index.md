@@ -4,7 +4,7 @@ subtitle: "Custom Commands and Tools for CATIA V5"
 image: "head.jpg"
 image_copyright: "SONACA"
 small_image: "catia.jpg"
-categories: [ "TODO-sonaca-catia-extension" ]
+categories: [ "Aerospace", "CAD", "3D", "Data Exchange", "Network", "Project Management", "Consulting", "R&D" ]
 tags: [ "C++", "CAA RADE", "VB", "SQL", "HTML", "CATIA V5", "VPM", "Visual Studio" ]
 images_copyright: "SONACA"
 images:

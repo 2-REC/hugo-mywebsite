@@ -1,7 +1,7 @@
 ---
 title: "Drawing Comparison Tool"
 subtitle: "Automated Comparison Tool between 2 drawing revisions"
-categories: [ "Technical Lead", "Project Managment", "Team Management", "R&D", "Image Analysis" ]
+categories: [ "Automotive", "Project Management", "Team Management", "Image Analysis", "CAD", "Consulting", "R&D", "Network", "Web" ]
 tags: [ "JavaScript", "HTML", "CSS", "React", "Redux", "PixiJS", "REST", "OpenCV", "Node.js", "Bootstrap", "Git", "IntelliJ", "SCRUM", "MS Project", "Jira", "Clojure", "MongoDB", "Redis", "Onyx", "ActiveMQ", "Sonar", "Linux" ]
 images_copyright: "TOYOTA MOTOR EUROPE"
 images:

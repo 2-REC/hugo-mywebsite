@@ -1,7 +1,7 @@
 ---
 title: "Data Exchange Tools"
 subtitle: "Data Exchange Maintenane & Updates"
-categories: [ "TODO-sonaca2-data-exchange" ]
+categories: [ "Aerospace", "CAD", "3D", "Data Exchange", "Network", "Consulting", "R&D" ]
 tags: [ "C++", "CAA", "Shell Scripting", "SQL", "CATIA V5", "VPM", "UNIX" ]
 images_copyright: "DASSAULT SYSTEMES"
 images:
