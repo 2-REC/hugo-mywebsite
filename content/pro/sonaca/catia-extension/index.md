@@ -54,7 +54,7 @@ resources:
 <b>CLIENT:</b> SONACA and customers, as external consultant<br>
 
 <b>DESCRIPTION</b><br>
-Manufactured parts a SONACA being aimed at the airspace industry, many specific similar tasks have to be done by the designers and engineers.<br>
+Manufactured parts a SONACA being aimed at the aerospace industry, many specific similar tasks have to be done by the designers and engineers.<br>
 To assist and accelerate their work, a set of commands and tools have been developed over the years, providing a powerful extension to the CATIA V5 design software.<br>
 The main commands I had to work on were:<br>
 - <b>Smooth Surface:</b> From a set of separate surfaces, the tool had to generate a single smooth continuous surface following and covering the original ones as much as possible. Parametrisation allowed to specify some aspects such as the maximum curving or thickness of the surface, as well as how precisely it had to follow the original surfaces.<br>
