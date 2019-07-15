@@ -6,7 +6,7 @@ endDate: "2018-02-01"
 image: "building.jpg"
 image_copyright: "Philippe SAMYN and PARTNERS"
 small_image: "agc.png"
-small_url: "http://www.agc-automotive.com"
+small_url: "https://www.agc-automotive.com"
 posts_title: "PROJECTS"
 ---
 
