@@ -1,8 +1,8 @@
 ---
 title: "Signal Extractor - Proof Of Concept"
 subtitle: "Proof Of Concept Prototype Tool to extract 2D symbols from PSS Railway Plans"
-categories: [ "Railway", "R&D", "Image Analysis", "Project Management", "Team Management" ]
-tags: [ "Java", "Swing", "OpenCV", "Eclipse", "CVS" ]
+categories: [ "CAD", "Image Analysis", "Project Management", "R&D", "Railway", "Team Management" ]
+tags: [ "Agile", "CVS", "Eclipse", "Gimp", "Java", "OpenCV", "Swing", "Windows" ]
 images:
 - src: "1-detector.jpg"
   title: "Detector UI"

@@ -2,8 +2,8 @@
 title: "Drawing Comparison Tool - Proof-Of-Concept"
 subtitle: "Proof-Of-Concept Prototype Tool for TME Drawing Comparison Tool"
 image: "head.jpg"
-categories: [ "Automotive", "R&D", "Consulting", "CAD", "Image Analysis", "Web", "Project Management", "Team Management" ]
-tags: [ "C++", "OpenCV", "Qt", "CVS", "Visual Studio", "MS Project" ]
+categories: [ "Automotive", "CAD", "Consulting", "Image Analysis", "Network", "Project Management", "R&D", "Team Management", "Web" ]
+tags: [ "Agile", "C++", "CSS", "CVS", "HTML", "MS Project", "OpenCV", "Qt", "Visual Studio", "Windows" ]
 images:
 - src: "01-poc.jpg"
   title: "DCT POC UI"
@@ -38,7 +38,7 @@ resources:
 
 <b>DESCRIPTION</b><br>
 Following the needs from TOYOTA MOTOR EUROPE for a drawing comparison tool, AKKA was in charge of developing a Proof-Of-Concept application (jointly to producing a [feasibility study document](/pro/akka/dct-feasibility) in order to showcase its expertise.<br>
-The prrof-of-concept tool allows a user to compare two revisions of a drawing by highlighting their differences. The process is streamlined and assists the engineers while still giving them full control over the results, greatly easing and improving their work.<br>
+The proof-of-concept tool allows a user to compare two revisions of a drawing by highlighting their differences. The process is streamlined and assists the engineers while still giving them full control over the results, greatly easing and improving their work.<br>
 Following the offer and prototype development, AKKA was chosen by TME for the development of the [full scale project](/pro/tme/dct).<br>
 Additionnally, the prototype was presented at the AKKA Awards contest, and was selected for the final in Berlin, where it reached the 2nd place.<br>
 

@@ -4,8 +4,8 @@ subtitle: "Various internal projects"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "R&D", "Image Analysis", "Embedded", "Web", "Team Management", "Project Management" ]
-tags: [ "Java", "C++", "OpenCV", "Qt", "Swing", "VB", "Jenkins", "Sonar", "CVS", "Sharepoint", "Android", "Visual Studio", "NetBeans" ]
+categories: [ "Embedded", "Image Analysis", "Project Management", "R&D", "Support", "Team Management", "Web" ]
+tags: [ "Android", "C++", "CVS", "Gimp", "Java", "Jenkins", "Linux", "NetBeans", "OpenCV", "Qt", "Sharepoint", "Sonar", "Swing", "VB", "Visual Studio", "Windows", "XML" ]
 images:
 - src: "ci-jenkins.jpg"
   title: "JENKINS Continuous Integration"

@@ -1,8 +1,8 @@
 ---
 title: "ORES"
 subtitle: "Embedded top-up management system on XENTA and YOMANI payment terminals"
-categories: [ "Banking", "Security", "Network" ]
-tags: [ "C", "Python", "XML", "Eclipse", "GCC", "CVS", "Jenkins", "XENTA", "YOMANI", "Agile", "Linux" ]
+categories: [ "Banking", "Consulting", "Data Exchange", "Embedded", "Network", "Security" ]
+tags: [ "Agile", "C", "CVS", "Eclipse", "GCC", "IPC", "Jenkins", "Linux", "Network Protocols", "Python", "Scripting", "Windows", "XML" ]
 images:
 - src: "terminals.jpg"
   title: "YOMANI Terminals"

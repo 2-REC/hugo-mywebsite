@@ -4,8 +4,8 @@ subtitle: "INFRABEL's Field Automated Shelter Testing"
 image: "head.jpg"
 image_copyright: "TUC RAIL"
 small_image: "ifast.png"
-categories: [ "Railway", "Security", "Embedded" ]
-tags: [ "Java", "JavaFX", "HTML5", "JavaScript", "CSS", "NetBeans", "CVS", "Oxygen", "JIRA", "Mantisse", "Jenkins", "Sonar", "Scrum" ]
+categories: [ "Consulting", "Embedded", "Railway", "Security" ]
+tags: [ "CSS", "CVS", "HTML", "Java", "JavaFX", "JavaScript", "Jenkins", "Jira", "Mantis", "NetBeans", "Scrum", "Sonar", "Windows", "XML" ]
 images_copyright: "INFRABEL"
 images:
 - src: "ifast.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "VW Direct Deliveries"
 subtitle: "Study on impacts of implementing VW Direct Deliveries"
-categories: [ "Automotive", "Consulting", "Network", "Data Exchange", "Project Management", "Team Management" ]
-tags: [ "EDI", "SAP", "Excel", "OneNote" ]
+categories: [ "Automotive", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Team Management" ]
+tags: [ "DB", "EDI", "MS Project", "SAP", "Scripting", "Windows" ]
 images:
 - src: "dd.png"
   title: "Direct Deliveries"

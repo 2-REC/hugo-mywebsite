@@ -1,8 +1,8 @@
 ---
 title: "EDI with Suppliers"
 subtitle: "First EDI implementation with Suppliers"
-categories: [ "Automotive", "Consulting", "Network", "Data Exchange", "Project Management", "Team Management" ]
-tags: [ "EDI", "SAP", "Excel", "OneNote" ]
+categories: [ "Automotive", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Team Management" ]
+tags: [ "DB", "EDI", "MS Project", "SAP", "Scripting", "Windows" ]
 images:
 - src: "edi.jpg"
   title: "EDI transaction"

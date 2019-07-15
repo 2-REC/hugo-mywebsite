@@ -1,8 +1,8 @@
 ---
 title: "Dacia Label Change"
 subtitle: "Update to Dacia Delivery label"
-categories: [ "Automotive", "Consulting", "Network", "Data Exchange", "Project Management", "Team Management" ]
-tags: [ "EDI", "SAP", "Excel", "OneNote" ]
+categories: [ "Automotive", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Team Management" ]
+tags: [ "DB", "EDI", "MS Project", "SAP", "Scripting", "Windows" ]
 images:
 - src: "dacia-label.jpg"
   title: "Dacia label"

@@ -1,8 +1,8 @@
 ---
 title: "Drawing Comparison Tool - Feasibility Study"
 subtitle: "Feasibility Study Document for TME Drawing Comparison Tool"
-categories: [ "Automotive", "R&D", "Consulting", "CAD", "Image Analysis", "Web", "Project Management" ]
-tags: [ "Excel", "Gimp", "MS Project" ]
+categories: [ "Automotive", "CAD", "Consulting", "Image Analysis", "Network", "Project Management", "R&D", "Web" ]
+tags: [ "Gimp", "MS Project", "Windows" ]
 images:
 - src: "archi.png"
   title: "Logical Architecture"

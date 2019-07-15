@@ -4,8 +4,8 @@ subtitle: "Embedded survey and advertising for YOMANI payment terminals"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "Banking", "Security", "Network" ]
-tags: [ "C", "Python", "XML", "Eclipse", "GCC", "CVS", "Jenkins", "XENTA", "YOMANI", "Agile", "Linux" ]
+categories: [ "Banking", "Consulting", "Data Exchange", "Embedded", "Network", "Security" ]
+tags: [ "Agile", "C", "CVS", "Eclipse", "GCC", "IPC", "Jenkins", "Linux", "Network Protocols", "Python", "Scripting", "Windows", "XML" ]
 images:
 - src: "jade-i-survey.jpg"
   title: "Jade-I Survey"
