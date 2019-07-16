@@ -4,8 +4,8 @@ subtitle: "Compilation & Deployment Scripts"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "Aerospace", "Network", "Consulting" ]
-tags: [ "Shell Scripting", "CAA CLI?", "Excel", "Windows", "UNIX" ]
+categories: [ "Aerospace", "Consulting", "Network", "Project Management" ]
+tags: [ "CAA RADE", "CATIA V5", "CVS", "Scripting", "UNIX", "Windows" ]
 images:
 - src: "aix.jpg"
   title: "AIX UI"

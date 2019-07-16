@@ -1,8 +1,8 @@
 ---
 title: "Data Exchange Tools"
 subtitle: "Data Exchange Maintenane & Updates"
-categories: [ "Aerospace", "CAD", "3D", "Data Exchange", "Network", "Consulting", "R&D" ]
-tags: [ "C++", "CAA", "Shell Scripting", "SQL", "CATIA V5", "VPM", "UNIX" ]
+categories: [ "3D", "Aerospace", "CAD", "Consulting", "Data Exchange", "Network", "Supply Chain", "Support" ]
+tags: [ "Agile", "C++", "CAA RADE", "CATIA V5", "CVS", "DB", "SAP", "SQL", "Scripting", "UNIX", "VPM", "Visual Studio", "Windows", "XML" ]
 images_copyright: "DASSAULT SYSTEMES"
 images:
 - src: "enovia.jpg"
