@@ -2,8 +2,8 @@
 title: "Various Tools"
 subtitle: "Data Exchange, Archiving and Other Tools ..."
 image: "hall.jpg"
-categories: [ "Aerospace", "CAD", "3D", "Data Exchange", "Network", "Project Management", "Consulting", "R&D" ]
-tags: [ "C Sharp", "VB .NET", "VPM", "Excel", "Visual Studio", "UNIX", "Windows" ]
+categories: [ "3D", "Aerospace", "CAD", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Web" ]
+tags: [ "Agile", "C Sharp", "C++", "CAA RADE", "CATIA V5", "CSS", "CVS", "DB", "HTML", "SAP", "SQL", "Scripting", "UNIX", "VB", "VPM", "Visual Studio", "Windows", "XML" ]
 images_copyright: "SONACA"
 images:
 - src: "2018-10-01-Sonaca-0223.jpg"

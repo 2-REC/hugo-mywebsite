@@ -2,8 +2,8 @@
 title: "CATIA V5 Launcher"
 subtitle: "Start CATIA V5 in the desired environment"
 small_image: "catia.jpg"
-categories: [ "Aerospace", "CAD", "Network", "Project Management", "Consulting", "R&D" ]
-tags: [ "VBA", "VB .NET", "Shell Scripting?", "CATIA V5", "Excel", "Visual Studio", "Windows", "UNIX" ]
+categories: [ "Aerospace", "CAD", "Consulting", "Network", "Project Management", "Web" ]
+tags: [ "CATIA V5", "DB", "Scripting", "UNIX", "VB", "Visual Studio", "Windows" ]
 images_copyright: "SONACA"
 images:
 - src: "1-v5_launcher-win.gif"

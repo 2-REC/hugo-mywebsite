@@ -2,8 +2,8 @@
 title: "CATIA V5 Extension - Macros"
 subtitle: "Custom Macros for CATIA V5"
 small_image: "catia.jpg"
-categories: [ "Aerospace", "CAD", "3D", "Data Exchange", "Network", "Project Management", "Consulting", "R&D" ]
-tags: [ "CAA RADE", "VB", "CATScript", "SQL", "CATIA V5", "VPM" ]
+categories: [ "3D", "Aerospace", "CAD", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Web" ]
+tags: [ "Agile", "CAA RADE", "CATIA V5", "CSS", "CVS", "DB", "HTML", "SAP", "SQL", "Scripting", "UNIX", "VB", "VPM", "Visual Studio", "Windows", "XML" ]
 images_copyright: "SONACA"
 images:
 - src: "macro.png"

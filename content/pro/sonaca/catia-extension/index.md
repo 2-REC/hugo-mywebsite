@@ -4,8 +4,8 @@ subtitle: "Custom Commands and Tools for CATIA V5"
 image: "head.jpg"
 image_copyright: "SONACA"
 small_image: "catia.jpg"
-categories: [ "Aerospace", "CAD", "3D", "Data Exchange", "Network", "Project Management", "Consulting", "R&D" ]
-tags: [ "C++", "CAA RADE", "VB", "SQL", "HTML", "CATIA V5", "VPM", "Visual Studio" ]
+categories: [ "3D", "Aerospace", "CAD", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Web" ]
+tags: [ "Agile", "C++", "CAA RADE", "CATIA V5", "CSS", "CVS", "DB", "HTML", "SAP", "SQL", "Scripting", "UNIX", "VB", "VPM", "Visual Studio", "Windows", "XML" ]
 images_copyright: "SONACA"
 images:
 - src: "bounding_box_calculation-result.gif"
