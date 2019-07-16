@@ -2,8 +2,8 @@
 title: "FP6 - WIDENS"
 subtitle: "Wireless Deployable Network System"
 small_image: "widens.jpg"
-categories: [ "R&D", "Video", "Security", "Embedded", "Data Exchange", "Network" ]
-tags: [ "C", "C++", "ffmpeg", "VLC", "HTTP", "UDP", "RTP", "PDA", "Windows CE" ]
+categories: [ "Data Exchange", "Embedded", "Medical", "Network", "R&D", "Security", "Video" ]
+tags: [ "C", "C++", "Codecs", "FFmpeg", "Gimp", "Linux", "Network Protocols", "Windows" ]
 images_copyright: "MULTITEL"
 images:
 - src: "widens_1.jpg"

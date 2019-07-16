@@ -4,8 +4,8 @@ subtitle: "Content Analysis and Retrieval Technologies to Apply Knowledge Extrac
 #image: "<IMAGE_FILE>"
 small_image: "caretaker-logo.jpg"
 #small_url: "<URL>"
-categories: [ "Security" ]
-tags: [ "C", "C++", "Java", "Visual Studio", "Eclipse" ]
+categories: [ "Data Exchange", "Network", "R&D", "Security" ]
+tags: [ "C", "C++", "CVS", "DB", "Eclipse", "Java", "Linux", "Network Protocols", "SQL", "Scripting", "Visual Studio", "Windows", "XML" ]
 images_copyright: "MULTITEL & THALES"
 images:
 - src: "cams.jpg"

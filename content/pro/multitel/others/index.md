@@ -1,8 +1,8 @@
 ---
 title: "Various smaller projects"
 subtitle: "Contribution to other projects"
-categories: [ "R&D", "3D", "Video", "Image Analysis", "Security" ]
-tags: [ "PYTHON", "C", "C++", "ASM", "Ogre 3D", "OpenGL", "Visual Studio", "Blender", "Gimp" ]
+categories: [ "3D", "Image Analysis", "Network", "R&D", "Security", "Video" ]
+tags: [ "Assembly", "Blender", "C", "C++", "Codecs", "CVS", "DirectX", "FFmpeg", "GCC", "Gimp", "IPC", "Linux", "OGRE", "OpenGL", "Python", "Scripting", "Visual Studio", "Windows" ]
 images_copyright: "MULTITEL"
 images:
 - src: "asm.jpg"

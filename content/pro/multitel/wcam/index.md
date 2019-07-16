@@ -4,8 +4,8 @@ subtitle: "Wireless Cameras and Audio-visual Seamless Networking"
 #image: "<IMAGE_FILE>"
 small_image: "wcam.png"
 #small_url: "<URL>"
-categories: [ "R&D", "Video", "Image Analysis", "Security", "Embedded", "Data Exchange", "Network" ]
-tags: [ "C", "ffmpeg", "VLC", "H264", "MJPEG2000", "MP2TS", "HTTP", "UDP", "RTP", "Visual Studio", "Linux", "Windows CE", "PDA" ]
+categories: [ "Data Exchange", "Embedded", "Image Analysis", "Network", "R&D", "Security", "Video" ]
+tags: [ "C", "Codecs", "CVS", "FFmpeg", "GCC", "IPC", "Linux", "Network Protocols", "Scripting", "Visual Studio", "Windows" ]
 images_copyright: "MULTITEL"
 images:
 - src: "beta1.jpg"
@@ -60,7 +60,7 @@ The WCAM platform will include the following key modules:<br>
 <a href="https://cordis.europa.eu/project/rcn/71248_en.html" target="_blank">Link to project</a><br>
 <br>
 <b>ROLE</b><br>
-As a Research Engineer, I was responsible for the development, enhancement and integration of video streaming and visualisation tools in an embedded environment on PDA.<br>
+As a Research Engineer, I was responsible for the development, enhancement and integration of video streaming and visualisation tools in an embedded environment on PDA (using Windows CE).<br>
 I had to research and compare the existing systems and applications, and determine which one could easily be enhanced and modified to satisfy the project's requirements.<br>
 The selected application was BetaPlayer (now known as [TCPMP](https://en.wikipedia.org/wiki/The_Core_Pocket_Media_Player)), using the [ffmpeg](https://www.ffmpeg.org) library (composed of libavformat and libavcodec).<br>
 The main components to be integrated were:<br>

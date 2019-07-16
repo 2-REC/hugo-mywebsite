@@ -3,8 +3,8 @@ title: "FP6 - WCAM Demo Video"
 subtitle: "Video to promote the FP6 WCAM project"
 image: "images/8.jpg"
 small_image: "wcam.png"
-categories: [ "Video", "3D", "Security" ]
-tags: [ "3DSMAX", "Blender", "VLC", "Photoshop", "Premiere" ]
+categories: [ "3D", "Security", "Video" ]
+tags: [ "3ds Max", "Blender", "Codecs", "Gimp", "Photoshop", "Premiere", "Windows" ]
 images_copyright: "MULTITEL"
 images:
 - src: "1.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "LapTeach"
 subtitle: "Tele-Scope-Mentoring for LapMan"
-categories: [ "Medical", "Video" ]
-tags: [ "C++", "Java", "Gimp", "OpenGL", "ffmpeg", "Visual Studio", "Eclipse" ]
+categories: [ "Medical", "Network", "Video" ]
+tags: [ "C", "C++", "Codecs", "CVS", "Eclipse", "FFmpeg", "Gimp", "IPC", "Java", "Linux", "Network Protocols", "OpenGL", "Visual Studio", "Windows" ]
 images_copyright: "MEDSYS"
 images:
 - src: "backgroundAlpha.jpg"

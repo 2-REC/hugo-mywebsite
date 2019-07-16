@@ -2,7 +2,7 @@
 title: "LapTrainer"
 subtitle: "LapMan VR Simulator"
 categories: [ "3D", "Medical", "VR" ]
-tags: [ "C++", "Blender", "Gimp", "Ogre 3D", "OpenGL", "Visual Studio" ]
+tags: [ "Blender", "C++", "CVS", "DirectX", "Gimp", "OGRE", "OpenGL", "Visual Studio", "Windows" ]
 images_copyright: "MEDSYS"
 images:
 - src: "backgroundAlpha.png"
