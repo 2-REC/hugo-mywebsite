@@ -5,7 +5,7 @@ subtitle: "Different internal projects"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
 categories: [ "Banking", "Consulting", "Data Exchange", "Embedded", "Network", "Security" ]
-tags: [ "Agile", "C", "CVS", "Eclipse", "GCC", "IPC", "Jenkins", "Linux", "Network Protocols", "Python", "Scripting", "Windows", "XML" ]
+tags: [ "Agile", "C", "CVS", "Eclipse", "GCC", "IPC", "Jenkins", "Linux", "Network Protocols", "Python", "Scripting", "Scrum", "Windows", "XML" ]
 images_copyright: "ATOS WORLDLINE"
 images:
 - src: "logo-anim.jpg"
