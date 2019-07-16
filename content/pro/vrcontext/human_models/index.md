@@ -4,8 +4,8 @@ subtitle: "Creation of animated 3D human models"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "3D", "Security" ]
-tags: [ "3DSMAX", "Photoshop", "Visual Studio" ]
+categories: [ "3D", "Security", "VR" ]
+tags: [ "3ds Max", "Photoshop", "Windows" ]
 images:
 - src: "1-walkinside.jpg"
   title: "WalkInside"

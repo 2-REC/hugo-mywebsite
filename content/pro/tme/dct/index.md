@@ -1,8 +1,8 @@
 ---
 title: "Drawing Comparison Tool"
 subtitle: "Automated Comparison Tool between 2 drawing revisions"
-categories: [ "Automotive", "Project Management", "Team Management", "Image Analysis", "CAD", "Consulting", "R&D", "Network", "Web" ]
-tags: [ "JavaScript", "HTML", "CSS", "React", "Redux", "PixiJS", "REST", "OpenCV", "Node.js", "Bootstrap", "Git", "IntelliJ", "SCRUM", "MS Project", "Jira", "Clojure", "MongoDB", "Redis", "Onyx", "ActiveMQ", "Sonar", "Linux" ]
+categories: [ "Automotive", "CAD", "Consulting", "Image Analysis", "Network", "Project Management", "R&D", "Team Management", "Web" ]
+tags: [ "Agile", "CSS", "DB", "Git", "HTML", "IPC", "JavaScript", "Jira", "Linux", "MS Project", "Node.js", "OpenCV", "Scrum", "Sonar", "Visual Studio", "Windows", "XML" ]
 images_copyright: "TOYOTA MOTOR EUROPE"
 images:
 - src: "clustering.jpg"
@@ -45,4 +45,3 @@ AKKA was assigned the full realisation of the project thanks to the Feasibility 
 As Technical Leader, I was responsible for analysing and determining the appropriate technologies and implementation choices, and to validate them with the business and management (following the Technical Offer that had been made to the client with the [Feasibility Study](/pro/akka/dct-feasibility)).<br>
 I was also responsible for managing the development team (composed of 4 developers) and making sure the requirements and planning were respected, as well as being the point of interaction between the technical team, the management and the client.<br>
 Additionally to supervising the development, I also worked on some of the UI aspects of the front-end, mostly on the viewport related code.<br>
-	

@@ -1,8 +1,8 @@
 ---
 title: "3DSMAX WalkInside Exporter Plugin"
 subtitle: "Development of file export plugin"
-categories: [ "3D", "Security" ]
-tags: [ "3DSMAX", "MAXSCRIPT", "C++", "Visual Studio" ]
+categories: [ "3D", "Security", "VR" ]
+tags: [ "3ds Max", "C++", "Scripting", "Visual Studio", "Windows" ]
 images:
 - src: "3d.jpg"
   title: "3D Model"
