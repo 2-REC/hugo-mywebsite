@@ -2,7 +2,7 @@
 title: "Control Save"
 subtitle: "Automated Validation Save Command"
 categories: [ "3D", "Aerospace", "CAD", "Consulting", "Network", "Supply Chain", "Support" ]
-tags: [ "C++", "CAA RADE", "CATIA V5", "CVS", "DB", "SAP", "SQL", "UNIX", "VPM", "Visual Studio", "Windows" ]
+tags: [ "C++", "CAA RADE", "CATIA V5", "CVS", "DB", "Omnitracker", "SAP", "SQL", "UNIX", "VPM", "Visual Studio", "Windows" ]
 resources:
 - src: "logos/1-sonaca-small.jpg"
   title: "SONACA"

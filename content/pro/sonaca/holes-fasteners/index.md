@@ -5,7 +5,7 @@ image: "slats.jpg"
 image_copyright: "SONACA"
 small_image: "catia.jpg"
 categories: [ "3D", "Aerospace", "CAD", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Web" ]
-tags: [ "Agile", "C++", "CAA RADE", "CATIA V5", "CSS", "CVS", "DB", "HTML", "SAP", "SQL", "Scripting", "UNIX", "VPM", "Visual Studio", "Windows", "XML" ]
+tags: [ "Agile", "C++", "CAA RADE", "CATIA V5", "CSS", "CVS", "DB", "HTML", "Omnitracker", "SAP", "SQL", "Scripting", "UNIX", "VPM", "Visual Studio", "Windows", "XML" ]
 images_copyright: "SONACA"
 images:
 - src: "fast.jpg"
