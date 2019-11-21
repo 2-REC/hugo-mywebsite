@@ -1,206 +1,174 @@
-TO DO:
 
-- [ ] GENERAL:
-  - [ ] Deployment: Fix "mixed content" warning due to insecure URL (1GC: not https!)
-  - [ ] Logos:
-    - [x] Add company logos in each project
-      - [x] AKKA at each client (agc, tme, etc)
-      - [x] Current company for each project (even if redundant)
-        (e.g.: "SONACA" for each SONACA project, etc)
-  - [x] Set companies main image sizes (on homepage) to 4 per row instead of 3
-      => col-3 instead of col-4 (?)
-  - [ ] Images:
-    - [ ] Determine and set sizes of all images (check)
-    - [ ] Strip metadata from images
-    - [ ] Rename files (around 8 characters max, and meaningful names)
-  - [ ] Check all categories and tags
-  - [ ] Fix problem with C#
-      => '#' character causes problems in URLs (and can't change in taxonomies generation...?)
-      (now using "C Sharp" instead, but should be able to use "C#"!)
-  - [ ] Check homogeneity in all companies, projects, etc pages (fonts, texts, layout, etc)
-  - [ ] Decide and set fonts of theme (CSS)
+# TODO
+
+## BUG FIXES / TESTS
+- [ ] Fix problem with C#<br>
+    => '#' character causes problems in URLs (and can't change in taxonomies generation...?)
+    (now using "C Sharp" instead, but should be able to use "C#"!)<br>
+    => See how to add taxonomy page "content/tags/c_sharp/_index.md" with "title = c#"<br>
+    (+ in tags handling, change _sharp to #...)
+- [ ] Fix width problem on mobile<br>
+    => DUE TO PROJECTS SECTIONS TITLES BAR LENGTH (?) (PROFESSIONAL AND PERSONAL)
+- [ ] Check homogeneity in all companies, projects, etc pages (fonts, texts, layout, etc)
+- [ ] Check site on tablet
+
+
+## HOSTING
+- [ ] Netlify:<br>
+    https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
+    <br>=> in "Add the netlify.toml File":<br>
+    https://alison.rbind.io/post/2019-02-19-hugo-netlify-toml/
+    https://www.netlify.com/docs/netlify-toml-reference/
+    <br>Then test site with: (?)<br>
+    https://testmysite.io/
+
+
+- LATER:
+    - [ ] Look email about forms
+
+
+## LAYOUT
+
+### GENERAL
+- [ ] Decide and set fonts of theme (CSS)
     - [ ] Titles
     - [ ] Subtitles
     - [ ] Texts
     - [ ] etc.
-  - [ ] Decide and set colours of theme (CSS)
-  - [x] Add image ("small_image", or company image if none?) next to each project in lists...
-    ! => Could use the first logo of each project... (?)
-  - [ ] Make better footer (with "All images are copyrighted material...")
-  - [ ] Set resources links using CDN (from hosting servers? eg Netlify?)
-    => As well as "local" as falldown alternative?
-
-  - [ ] Decide which hosting platform & deploy
-      => Look at: https://gohugo.io/hosting-and-deployment/
+- [ ] Decide and set colours of theme (CSS)<br>
+    => Keep simple black text on white bkg (?)
+- [ ] Add a recommendations/references page?
 
 
-  - [ ] Complete README.md file
-    => What to add?
-    - [ ] Reference "Minimal Academic" theme for the sidebar stuff? (if not done)
-    - [ ] Mention use of "cover_image" and "small_image" for sections ("cover_image" can override "small_image")
-  - [ ] Create and add "favicon.ico"
-    => Use responsove images?
-    LOOK AT:
-        <picture class="photo-wide orientation-landscape loaded">
-            <source media="(min-width: 1024px)" srcset="image_large.jpg, image_large_retina.jpg 2x">
-            <source media="(min-width: 640px) and (max-width: 1024px)" srcset="image_medium.jpg, image_medium_retina.jpg 2x">
-            ...
-        </picture>
-  - [ ] ? - Add additional taxonomy for the different tools/technos/languages?
-      => Need to define in "config.toml" (look at doc)
-      (Or set them as "tags"?)
-  - [ ] Add a recommendations/references page (?)
-  LATER:
-    - [ ] Create Font Awesome (or other svg) icons (gears, retropad, windows, book?, DSP, ...)
+### HOMEPAGE
+- [ ] Set smaller top margin for section headers in homepage when small screens (?)
+
+
+### ABOUT
+- [ ] Change bkg colour (white)
+- [ ] Change colour of text (black?) (Same for both texts?)
+- [ ] Change colour of links (or set different style? Bold+italic?)
+
+
+### SERVICES
+- [ ] Change phone layout (bigger side margins?)
+
+
+### SIDEBAR
+- [ ] On mobile, move tags and categories to bottom<br>
+    => Easy to do?
+
+### PROJECTS
+- [ ] Change layout on phone?
+    => Try with 2 columns
+
+
+### CONTACT
+- [ ] Add form?<br>
+    => Can handle with Netlify
+- [ ] Remove photo
+- [ ] Check layout on other websites
+
+
+## CONTENT
+
+### GENERAL
+- [ ] Check texts... (rewrite?)
+    - [ ] Home (?)
+    - [ ] About
+    - [ ] Skills
+    - [ ] Contact
+    - [ ] most projects + companies... !
+    - [ ] ...
+
+
+- LATER:
     - [ ] Add links to other websites... blogs, shops etc. (?)
 
-- [ ] HOME
-  - [ ] Change image?
-  - [ ] Make better texts?
 
-- [ ] ABOUT
-  - [ ] Make better texts?
-  - [ ] Add photo disclaimer? (+ link to photographer? How/what to do? - At bottom of section?)
-  - [ ] Add link to "interests" (other website, when done)
+### HOME
+- [ ] Change bkg image (code in IDE: C# in VS? Python in n++?)
+- [ ] Change title ("Software Craftmanship")
 
-- [ ] SERVICES
-  - [ ] Check categories and lists
-  - [ ] Decide and set icons
-  - [ ] Make better texts?
-  LATER:
-    - [ ] Create and set icons
 
-- [ ] SKILLS
-  - [ ] Make better texts?
-  LATER:
-    => Replace the tags and categories blocks by the 2 skills table, with each keyword being a link to a taxonomy page.
-    - [ ] Add the 2 HTML tables
-    - [ ] Set tags and categories in tables (with links for taxonomies)
-    - [ ] Generate tables dynamically from data files (instead of static html tables)
-      - skills.json => Should have all skills data defined here, and used to fill tables (so that can have dynamic number of tables)
-        (! - and it should be matched with tags and categories from each project!)
+### ABOUT
+- LATER:
+    - [ ] Add link to "interests" (other website, when done)
 
-- [ ] PROJECTS
-  - [ ] HOMEPAGE
-    - [ ] PERSO
-      - [ ] Determine categories and sort projects.
-      LATER:
-        - [ ] Add text and set it as non-scrolling.
-    - [ ] PRO
-      - [ ] Remove "technos" logos (technos already in tags, and too many logos).
-      LATER:
-        - [ ] Add text and set it as vertical scrolling.
-          - For scrolling text, look at:
-            https://www.quackit.com/css/codes/marquees/
-            => Adapt layout as in AIRSPACE theme, "Contact" form
-    - [ ] PROJECTS LISTS (subsections)
-      - [ ] Determine and set orders for each projects list page (look in notes).
-      LATER:
-        - PROJECTS (LIST)
-          - Separate page.
-          => Projects page, containing 3 sections:
-          - "TIMELINE" (link to "TIMELINE")
-          - "BY COMPANY" (link to "PROJECTS_COMPANY" - with no company selected)
-          - "ALL PROJECTS" (link to "PROJECTS_PRO_ALL")
-          - Also containing the main header with links to main sections.
-        - PROJECTS_PRO_ALL
-          => Page listing all the projects, with possibility to filter on tags/categories.
-          - Separate page.
-          - Similar to "PROJECTS_COMPANY" page.
-            - Without position/role block.
-            - With a search possibility (List of tags -?)
-              => Displayed projects related to tags.
-        - PROJECTS_PERSO_ALL
-          => Page listing all the projects, with possibility to filter on tags/categories.
-          - Separate page.
-          - Similar to "PROJECTS_PRO_ALL" page, but for personal projects.
-            - Without position/role block.
-            - With a search possibility (List of tags -?)
-              => Displayed projects related to tags.
 
-      - [ ] PRO (LIST)
-        - [ ] _index.md: Change content text
-        - [ ] Add companies and projects
-        LATER:
-          - [ ] Add timeline page (look at NEWSPRINT theme, "library").
-            => Page with vertical timeline (top = present), listing positions in time.
-            - Separate page.
-            - When clicking on a company icon, it opens a small pop-up with the position description.
-            - In the pop-up, there is a button ("Projects"?) to open the related company projects page ("PROJECTS_COMPANY").
-              => Look at "NEWSPRINT" theme, "The Library" section for timeline example.
+### SERVICES
+- [ ] Change bkg image... (?)
+- [ ] Check lists
 
-      - [ ] PERSO (LIST)
-        - [ ] _index.md: Change content text
-        - [ ] Add categories and projects
 
-    - [ ] PROJECT (SINGLE)
-      - [ ] Create page for each project.
-      - [ ] Determine and get images, screenshots, logos.
-      - [ ] Determine categories for each project.
-        (from (non exhaustive):
-            Aerospace, Automotive, Railway, Banking, Security, R&D, Medical, Consulting, 3D, CAD, Real-time simulation, VR, Image analysis, Video, Web, Network, Embedded, Data exchange, Project management, Team management
-        )
-      - [ ] PRO (SINGLE)
-        - [ ] Remove technologies stuff, as there will already be the company's project tags.
-        - [ ] IFAST images? (Can display sheets?)
-        - [ ] DCT images? (No plans...?)
-        - [ ] DSHOW => Get description from doc
-        - [ ] Add links in DCT poc+feasibility and infrabel akka projects (to TME and Infrabel's pages)
+### SKILLS
+- [ ] Change tags/categories style
 
-- [ ] CONTACT
-  - [ ] Make better texts?
-  - [ ] Keep GMAIL email address?
-  - [ ] Check social links/icons
 
-- [ ] FOOTER
-  - [ ] Add copyright stuff (for my stuff, but also images, themes, etc I "took").
+### CONTACT
+- [ ] Add more accounts? (Unity?  ???)
+- [ ] Rewrite text (add prototype or pròof of concpet, automation tools, etc - remove "attractive"...)
+- [ ] Add "possibility to meet in HCMC, and eventually abroad"
 
-- [ ] ICONS
-  => In [data]
-    - icons.json => many icons to create...
-        => List of icons with display name and icon file name (icons files stored in "static/images" - maybe "icons" subdirectory?)
-        E.g.: (! - check json syntax!)
-            technologies = [
-                cpp = {
-                    name = "C++",
-                    icon = "cpp"
-                },
-                ...
-            ]
-            => When referring to an icon,
-                - find entry in list
-                - if found
-                    - set name
-                    - get icon file
-                - if not found
-                    - set name as entry name (input name)
-                    - look for icon with same name
-                    - if no icon
-                        - ignore entry/icon
 
-====================
+### CATEGORIES
+- [ ] Check categories for each project
+- [ ] Replace "Network" by "Telecom"
+- [ ] Replace "Video" by "Video Processing"
+- [ ] Add more categories:
+    - UX/UI (wcam, ifast, dct, most sonaca, ...)
+    - video production (wcam video, awards video, later: josee... bad clay...)
+    - Training (medsys, vrcontext, akka internal projects, ...)
+    - Simulation(?) (vrcontext, medsys, ...)
+    - QC/QA(?) (Vas, ifast, ...)
+- [ ] Remove "support"
 
-PROJECTS:
 
-- [ ] Put names of companies & products in bold/italic?
-- [ ] Make logos bigger!
+### FOOTER
+- [ ] Make better footer (with "All images are copyrighted material...")
 
-- [ ] PRO
-  - [ ] ADD COMPANIES & PROJECTS!
-  - [ ] Add clients when adequate (AIRBUS, SNCB, EMBRAER, etc.!!!)
-  - [ ] Check/Add tags for each project
-    eg: embedded, requirements gathering / business analysis, analysis, QA, QC, (porting?), etc.
-  - [ ] Check categories for each project
-  - [ ] AGC
-    - [ ] Add image to home page, and small image
-    - [ ] FINISH PROJECTS! (+images & icons)
-  - [ ] TME
-    - [ ] Add image to home page, and small image
-    - [ ] FINISH PROJECTS! (+images & icons)
-  - [ ] VR Context
-    - [ ] "export plugin"
-      - [ ] Add 3DSMAX icon
-      - [ ] Add images
-    - [ ] "human models"
-      - [ ] Add 3DSMAX icon
 
+### PROJECTS
+- [ ] AGC: look at files in "work" (infos to add in projects?)
+- [ ] DCT: mention React, Redux, Pixi in text
+- [ ] All: Look for the texts in:<br>
+    D:\data\my_work\hugo_website\resources\MyWebsite
+
+
+#### NEW COMPANIES
+- [ ] Pro: Add BAD CLAY
+
+
+#### NEW SECTIONS
+Add sections:
+- [ ] Academic
+- Add 'Academic' section:
+    - [ ] RMIT: projects RAD, AR shooter, blindman?
+    - [ ] ULB: TFE (doc+tools), snowboard game, AI ants+language
+    - [ ] JS read help tool? (ask Julien)
+    - [ ] FPMS?
+- [ ] Perso (dev)
+    - video games (unity, android, js, etc)
+    - tools (converter, ...?)
+    - web (hugo theme, website, js reader app?)
+    - other?
+- [ ] Perso (non-dev) (?)<br>
+    => PUT ON DIFFERENT SITE
+    - 3d
+    - drawings (pencil, ...?)
+    - video (josee, ... ?)
+    - music (axs, cubasis etc, and "band" stuff?)
+
+
+### IMAGES
+- [ ] Determine and set favicon
+    - ico file or png
+    - between 100x100 and 300x300 (128?)
+- [ ] Check quality of images when zooming in/out
+    - [ ] Images on main page
+    - [ ] Icons in project pages
+- [ ] Check images transparency (some transparent backgrounds that shouldn't be)
+- [ ] Rename images/logos
+    - around 8 characters max
+    - meaningful names
+- [x] Remove metadata
