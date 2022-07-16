@@ -1,4 +1,5 @@
 ---
+#title_image: "test.png"
 title: "AKKA TECHNOLOGIES"
 subtitle: "IT CONSULTANT & PROJECT MANAGER"
 startDate: "2012-03-01"

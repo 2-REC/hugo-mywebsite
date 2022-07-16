@@ -1,6 +1,7 @@
 ---
 title: "INFRABEL"
-subtitle: "SOFTWARE ENGINEER - As AKKA Consultant"
+subtitle: "SOFTWARE ENGINEER"
+subtitle2: "As AKKA Consultant"
 startDate: "2014-11-01"
 endDate: "2016-07-01"
 image: "head.jpg"

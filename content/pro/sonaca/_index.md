@@ -1,6 +1,7 @@
 ---
 title: "SONACA"
-subtitle: "CAD SOFTWARE ENGINEER - As external Consultant"
+subtitle: "CAD SOFTWARE ENGINEER"
+subtitle2: "As external consultant"
 startDate: "2007-07-01"
 endDate: "2010-11-01"
 image: "head.jpg"

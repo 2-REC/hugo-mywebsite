@@ -1,6 +1,7 @@
 ---
 title: "TOYOTA MOTOR EUROPE"
-subtitle: "TECHNICAL LEADER - As AKKA Consultant"
+subtitle: "TECHNICAL LEADER"
+subtitle2: "As AKKA Consultant"
 startDate: "2016-12-01"
 endDate: "2017-09-01"
 image: "head.jpg"
