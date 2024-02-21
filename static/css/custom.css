@@ -148,6 +148,7 @@
     --services-box-color: var(--GENERAL-COLOR-2);
     --services-box-border-radius: 0;
     --services-box-shadow: 0;
+    --services-box-height: 24em;
 
     --services-icon-color: var(--GENERAL-COLOR-1);
     */
