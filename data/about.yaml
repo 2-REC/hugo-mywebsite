@@ -1,10 +1,11 @@
 ---
 title: "ABOUT"
+#TODO: invert avatar1 and avatar2 (need to adapt images)
 avatar: "avatar.png"
 avatar2: "avatar2.png"
-background_image: "office2.jpg"
+background_image: "snowy_drums_forest_city-steam9.png"
 
-short_text: >
+profile_text: >
     I'm Derek Severin, Software Engineer and Designer.<br>
     Passionate about technology and multimedia,
     I have acquired a wide set of <a class="page-jump" href="#skills">skills</a>
@@ -14,7 +15,7 @@ short_text: >
     A project you want to realise?<br>
     Let's <a class="page-jump" href="#contact">get in touch</a>!
 
-long_text: >
+main_text: >
     Software developer since the early 2000s,
     I have been working on numerous <a class="page-jump" href="#projects_pro">projects for several companies in various industries</a>.
 

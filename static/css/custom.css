@@ -68,36 +68,57 @@
 
 /* ABOUT */
 #about {
-
+/* TODO: add info/doc for every variable (+move to theme instead of sitte!)
+* '--about-bkg-position': left|center|right top|center|bottom (detault: center center)
+* '--about-bkg-size': contain|cover (default: contain)
+*/
     /* Can be specified here or in data/yaml file (priority to yaml)
         --about-bkg-image - background_image - image file in 'static' (default: no image)
     */
     /*
     --about-bkg-image: url("/images/image.jpg");
     */
-    /* Can be specified here or in config file (priority to config) */
-/* TODO: remove from 'config' */
     /*
     --about-bkg-color: var(--GENERAL-COLOR-1);
     --about-bkg-opacity: 1.0;
     --about-bkg-position: center center;
     --about-bkg-size: cover;
 
-    --about-image-border-radius: 50%;
-
     --about-title-color: var(--GENERAL-FONT-COLOR-1);
     --about-title-bar-color: var(--GENERAL-COLOR-2);
 
-    --about-link-color: var(--GENERAL-LINK-COLOR-2);
-    --about-link-color-active: var(--GENERAL-FONT-COLOR-3);
-    */
-//    --about-bkg-color: var(--GENERAL-COLOR-2);
-    --about-bkg-color: rgb(64,64,64);
-//    --about-bkg-color: white;
-//    --about-image-border-radius: 0;
-//    --about-image-border: 1px solid;
-//    --about-image-width: 50%;
+    --about-link-color: var(--GENERAL-LINK-COLOR-1);
+    --about-link-color-active: var(--GENERAL-FONT-COLOR-2);
 
+    --about-profile-bkg-color: var(--about-bkg-color);
+    --about-profile-margin: 1rem;
+    --about-profile-border: 0;
+
+    --about-profile-image-border-radius: var(--GENERAL-IMAGE-BORDER-RADIUS);
+    --about-profile-image-border: 0;
+    --about-profile-text-padding-h: 1rem;
+    --about-profile-text-padding-v: 1rem;
+
+    --about-main-bkg-color: var(--about-bkg-color);
+    --about-main-border: 0;
+    --about-main-text-color: var(--GENERAL-FONT-COLOR-1);
+    --about-main-text-padding-h: 1rem;
+    --about-main-text-padding-v: 0;
+    */
+/*    --about-bkg-color: rgb(64,64,64);*/
+    --about-bkg-color: white;
+
+    --about-title-bar-color: var(--GENERAL-FONT-COLOR-1);
+
+    --about-profile-bkg-color: transparent;
+/*    --about-profile-border: 1px black solid;*/
+/*    --about-profile-image-border-radius: 0;*/
+/*    --about-profile-image-border: 1px black solid;*/
+/*    --about-profile-text-use-padding: 0;*/
+
+    --about-main-bkg-color: transparent;
+/*    --about-main-border: 1px black solid;*/
+/*    --about-main-text-color: black;*/
 }
 /* 2-REC: Can override existing rules */
 /*
