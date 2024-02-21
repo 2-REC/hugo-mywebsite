@@ -3,13 +3,15 @@
 title: "Derek SEVERIN"
 subtitle: "Software Engineer"
 background: "office.jpg"
+background_hidden: "home_hidden.jpg"
+background_hidden_speed: 2
 #background_video: small.mp4
 text: >
-    Desktop & Mobile Applications Development  
+    Applications & Tools Development  
 
     UI/UX & Web Design  
 
-    IT Consulting
+    Consulting & Training
 #button_text: "SEE MORE"
 button_image: "images/arrow_down.png"
 ---
