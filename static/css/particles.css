@@ -1,0 +1,26 @@
+#particles_container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#particles_counter {
+    position: absolute;
+    bottom: 5%;
+    left: 3%;
+    color: white;
+    opacity: 50%;
+}
+
+#particles_button {
+    position: absolute;
+    bottom: 5%;
+    left: 3%;
+}
+
+@media(max-width: 768px) {
+    #particles_container {
+        display: none;
+    }
+}
