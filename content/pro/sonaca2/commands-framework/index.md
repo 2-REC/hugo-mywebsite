@@ -19,7 +19,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> SONACA, as AKKA consultant<br>
+<b>CLIENT:</b> SONACA<br>
 
 <b>DESCRIPTION</b><br>
 The process of creating new commands and modules for CATIA V5 is long and error prone, but it follows a common repetitive process that can partially be automated. Additionally, developed tools at SONACA are often composed of similar elements and follow a similar pattern.<br>

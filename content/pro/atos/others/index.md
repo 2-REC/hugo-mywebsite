@@ -25,7 +25,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> ATOS WORLDLINE, as AKKA Consultant<br>
+<b>CLIENT:</b> ATOS WORLDLINE<br>
 
 <b>DESCRIPTION</b><br>
 Additionally to the main projects, I was assigned smaller tasks to help in different departments.<br>

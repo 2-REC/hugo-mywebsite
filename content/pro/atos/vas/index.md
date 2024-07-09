@@ -21,7 +21,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> ATOS WORLDLINE and JADE-I, as AKKA Consultant<br>
+<b>CLIENT:</b> ATOS WORLDLINE and JADE-I<br>
 
 <b>DESCRIPTION:</b><br>
 Development of embedded survey and advertising tools for indoor YOMANI payment terminals in order to extend their functionalities and provide a better user experience.<br>

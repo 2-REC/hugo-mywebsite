@@ -1,7 +1,7 @@
 ---
 title: "SONACA"
 subtitle: "CAD SOFTWARE ENGINEER"
-subtitle2: "As AKKA Consultant"
+subtitle2: "AKKA Consultant"
 startDate: "2013-02-01"
 endDate: "2014-07-01"
 image: "head.jpg"

@@ -20,7 +20,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME), as AKKA Consultant<br>
+<b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME)<br>
 
 <b>DESCRIPTION</b><br>
 Triggered by a business need, in the context of Toyota R&D, engineers at TME (Toyota Motor Europe) or suppliers make drawings. In most cases, those drawings are changes from other drawings. Prior to official release, those drawings must be reviewed, validated and approved by the Toyota Engineer, Manager, Senior Manager and General Manager.<br>

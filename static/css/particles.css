@@ -1,3 +1,7 @@
+#home {
+    cursor: crosshair;
+}
+
 #particles_container {
     position: absolute;
     width: 100%;
@@ -9,7 +13,8 @@
     position: absolute;
     bottom: 5%;
     left: 3%;
-    color: white;
+/*    color: var(--GENERAL-FONT-COLOR-1);*/
+    color: black;
     opacity: 50%;
 }
 

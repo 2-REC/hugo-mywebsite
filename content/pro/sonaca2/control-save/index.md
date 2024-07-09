@@ -18,7 +18,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> SONACA, as AKKA consultant<br>
+<b>CLIENT:</b> SONACA<br>
 
 <b>DESCRIPTION</b><br>
 Parts manufactured by SONACA require to follow specific validation processes and to satisfy many security constraints. Every step of the manufacturing process, including the design, must thus satisfy a series of tests to be validated.<br>

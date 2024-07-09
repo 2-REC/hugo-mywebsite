@@ -1,7 +1,7 @@
 ---
 title: "ATOS WORLDLINE"
 subtitle: "EMBEDDED SOFTWARE ENGINEER"
-subtitle2: "As AKKA Consultant"
+subtitle2: "AKKA Consultant"
 startDate: "2012-04-01"
 endDate: "2013-02-01"
 image: "head.jpg"

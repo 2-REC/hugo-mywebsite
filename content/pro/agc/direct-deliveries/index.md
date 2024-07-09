@@ -17,7 +17,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> AGC AUTOMOTIVE and VW, as AKKA Consultant<br>
+<b>CLIENT:</b> AGC AUTOMOTIVE and VW<br>
 
 <b>DESCRIPTION</b><br>
 In the context of VW Direct Deliveries integration in AGC's Supply Chain operations, many changes to the current processes and exchanged messages have to be made. The main task being the addition of the new VDA4987 Global DESADV EDI message.<br>

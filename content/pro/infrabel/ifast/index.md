@@ -32,7 +32,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> INFRABEL, TUC RAIL and SNCB, as AKKA Consultant<br>
+<b>CLIENT:</b> INFRABEL, TUC RAIL and SNCB<br>
 
 <b>DESCRIPTION</b><br>
 The IFAST application, part of the global Testing Tools Shelter (TTS) project, aims at assisting the testing of the PLP modules in the shelter in a digital semi-automatic manner.<br>

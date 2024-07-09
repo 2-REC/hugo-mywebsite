@@ -17,12 +17,28 @@ const PARTICLE_RADIUS = 2;
 const PARTICLE_PHASE = 0.03;
 const PARTICLE_MAX_SPEED = 0.5;
 const PARTICLE_LIFESPAN = 5;
+/* TODO: set in CSS? */
 /* TODO: Could be added to each particle to have changing colors */
+/*
 var PARTICLE_COLOR = {
     r: 207,
     g: 255,
     b: 4
 };
+*/
+/*
+var PARTICLE_COLOR = {
+    r: 200,
+    g: 160,
+    b: 0
+};
+*/
+var PARTICLE_COLOR = {
+    r: 0,
+    g: 0,
+    b: 0
+};
+
 /* TODO: changes anything performance wise? (don't use if want changing colors) */
 const PARTICLE_RGB_STR = PARTICLE_COLOR.r + ',' + PARTICLE_COLOR.g + ',' + PARTICLE_COLOR.b;
 
@@ -31,7 +47,7 @@ const LINE_WIDTH = 0.8;
 const FORCE_RADIUS = 100;
 const SQR_FORCE_RADIUS = FORCE_RADIUS * FORCE_RADIUS;
 
-const CONTACT_RADIUS = 25;
+const CONTACT_RADIUS = 10;
 const SQR_CONTACT_RADIUS = CONTACT_RADIUS * CONTACT_RADIUS;
 
 var outside_right = canvas_width + PARTICLE_RADIUS;

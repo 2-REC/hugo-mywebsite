@@ -17,7 +17,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> DACIA via AGC AUTOMOTIVE, as AKKA Consultant<br>
+<b>CLIENT:</b> DACIA via AGC AUTOMOTIVE<br>
 
 <b>DESCRIPTION</b><br>
 Following a change to the layout of the labels used at Dacia, consisting mostly in the addition of a QR code, the existing process used at AGC needs to be updated according to the new requirements.<br>

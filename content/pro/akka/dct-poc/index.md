@@ -34,7 +34,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME), as AKKA Consultant<br>
+<b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME)<br>
 
 <b>DESCRIPTION</b><br>
 Following the needs from TOYOTA MOTOR EUROPE for a drawing comparison tool, AKKA was in charge of developing a Proof-Of-Concept application (jointly to producing a [feasibility study document](/pro/akka/dct-feasibility) in order to showcase its expertise.<br>

@@ -20,7 +20,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> INFRABEL, as AKKA Consultant<br>
+<b>CLIENT:</b> INFRABEL<br>
 
 <b>DESCRIPTION</b><br>
 The AKKA team working at INFRABEL has developed process automation tools (PA Tools) to be used for the European Train Control System (ETCS) transceivers validation, by modelling the railway infrastructure and simulating these transceivers under various scenarios generating data that can then be compared with the real transceivers data.<br>

@@ -27,7 +27,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> AGC AUTOMOTIVE and its suppliers, as AKKA Consultant<br>
+<b>CLIENT:</b> AGC AUTOMOTIVE and its suppliers<br>
 
 <b>DESCRIPTION</b><br>
 In order to ease and strengthen AGC's Supply Chain activities with its business partners, EDI was required between the company and its suppliers.<br>

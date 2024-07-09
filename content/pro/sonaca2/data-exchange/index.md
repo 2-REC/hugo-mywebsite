@@ -24,7 +24,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> SONACA, as AKKA consultant<br>
+<b>CLIENT:</b> SONACA<br>
 
 <b>DESCRIPTION</b><br>
 In order to deliver the designed parts to the customers, a set of tools and scripts were developed. Their purpose was to automate and validate the data exchange processes, making sure everything was transferred flawlessly while being transparent to the users.<br>

@@ -26,7 +26,7 @@ resources:
   title: "AKKA"
 ---
 
-<b>CLIENT:</b> SONACA, as AKKA consultant<br>
+<b>CLIENT:</b> SONACA<br>
 
 <b>DESCRIPTION</b><br>
 For every new Service Pack and Hot Fix provided by Dassault Systemes for CATIA V5, all the developed tools have to be recompiled, eventually updated, and deployed.<br>
