@@ -10,7 +10,7 @@ title = "Derek Severin IT Portfolio"
 theme = "myportfolio"
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 [params]
 

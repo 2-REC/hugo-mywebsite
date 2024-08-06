@@ -60,10 +60,13 @@ function getRandomNumber(max){
 }
 
 function getRandomRangeNumber(min, max) {
+    /* TODO: avoid addition+subtraction every time (constant)
+             (remove parameters and use global constant)
+       TODO: get 'min(speed, 0.01)' to avoid null speeds (0.01?)
+     */
     return ((Math.random() * (max - min)) + min);
 }
 
-/* TODO: can have null speeds... */
 function getRandomSpeed() {
     return [
         getRandomRangeNumber(-PARTICLE_MAX_SPEED, PARTICLE_MAX_SPEED),
@@ -72,10 +75,12 @@ function getRandomSpeed() {
 }
 
 function isOutside(particle) {
-    return (particle.x < -50
-            || particle.x > outside_right
-            || particle.y < -50
-            || particle.y > outside_top)
+    return (
+        particle.x < -PARTICLE_RADIUS
+        || particle.x > outside_right
+        || particle.y < -PARTICLE_RADIUS
+        || particle.y > outside_top
+    )
 }
 
 function getDistance(p1, p2){
@@ -152,6 +157,7 @@ function updateParticles() {
 
                 b.life = PARTICLE_LIFESPAN;
                 dead_particles.push(b);
+                ++nb_dead_particles;
 
             } else if (distance < SQR_FORCE_RADIUS) {
                 /* TODO: make better formula... */
@@ -167,12 +173,13 @@ function updateParticles() {
     }
 
     /* TODO: make function */
-    for (var i = dead_particles.length-1; i >= 0; --i) {
+    for (var i = nb_dead_particles - 1; i >= 0; --i) {
         const b = dead_particles[i];
         --b.life;
         if (b.life <= 0) {
             dead_particles[i] = dead_particles[dead_particles.length-1];
             dead_particles.pop();
+            --nb_dead_particles;
         }
     }
 }
@@ -253,7 +260,10 @@ function process(){
     canvas_context.clearRect(0, 0, canvas_width, canvas_height);
     drawParticles();
     drawLines();
-    window.requestAnimationFrame(process);
+
+    if (nb_particles + nb_dead_particles > 0)  {
+        window.requestAnimationFrame(process);
+    }
 }
 
 function updateCanvas() {
@@ -293,6 +303,7 @@ function init() {
     window.addEventListener('load', (e) => {
         start();
     });
+
     window.addEventListener('resize', (e) => {
         updateCanvas();
     });
@@ -316,6 +327,7 @@ function init() {
 
 
 var nb_particles = 0;
+var nb_dead_particles = 0;
 var particles = [];
 var dead_particles = [];
 var line_particles = [];
