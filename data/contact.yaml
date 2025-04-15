@@ -1,12 +1,11 @@
 ---
 title: "CONTACT"
-background_image: "cong_ca_phe.jpg"
-photo: "me.jpg"
-description: "Need a tailor-made desktop or mobile application?
-
-Willing to create a new attractive website for your company or as a personal project?
-
-Don't hesitate to contact me to see how we can collaborate."
+background_image: "robot.png"
+description: "Have a project in mind?
+<br>
+Want more information?
+<br>
+Get in touch."
 
 email:
   address: "severinderek@gmail.com"
@@ -19,11 +18,6 @@ social:
   icon_pack: "fab"
   link: "//linkedin.com/in/derekseverin"
 
-# want Facebook?
-#- icon: "fa-facebook-square"
-#  icon_pack: "fab"
-#  link: ""
-
 - icon: "fa-github"
   icon_pack: "fab"
   link: "//github.com/2-REC"
@@ -31,9 +25,4 @@ social:
 - icon: "fa-gitlab"
   icon_pack: "fab"
   link: "//gitlab.com/2-REC"
-
-# add: Unity, Google+, GooglePlay, ...
-# add? - pinterest?, instagram?...?
-# ...
-
 ---
