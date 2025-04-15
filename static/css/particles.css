@@ -1,31 +1,46 @@
-#home {
-    cursor: crosshair;
+#particles_container {
+    width: 100%;
+    height: calc(100vh - var(--NAVBAR-HEIGHT));
+    overflow: hidden;
 }
 
-#particles_container {
+.sticky {
+    position: fixed;
+    top: var(--NAVBAR-HEIGHT);
+}
+.floaty {
     position: absolute;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
+    top: 100vh;
 }
 
 #particles_counter {
     position: absolute;
-    bottom: 5%;
-    left: 3%;
-/*    color: var(--GENERAL-FONT-COLOR-1);*/
-    color: black;
-    opacity: 50%;
+    /* When changing this, also need to adapt in JS 'updateCursor' (particles.js) */
+    /* 'px' better than '%', as don't want resize */
+    bottom: 85px;
+    left: 6.2%;
+
+    -webkit-transform: translate(-50%,0);
+    -ms-transform: translate(-50%,0);
+    transform: translate(-50%,0);
+
+    color: var(--GENERAL-FONT-COLOR-2);
 }
 
 #particles_button {
     position: absolute;
-    bottom: 5%;
-    left: 3%;
+    bottom: 45px;
+    left: 5.1%;
+
+    -webkit-transform: translate(-50%,0);
+    -ms-transform: translate(-50%,0);
+    transform: translate(-50%,0);
+
+    background-color: transparent;
+    border: 0;
 }
 
-@media(max-width: 768px) {
-    #particles_container {
-        display: none;
-    }
+#particles_controller {
+    /* element drawn in canvas through JS */
+    display: none;
 }

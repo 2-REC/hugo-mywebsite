@@ -42,7 +42,7 @@ unsafe = true
     # Define the sections and the order in which they appear (MANDATORY)
     # "home" will always be first, regardless of its position (if in the list).
     [params.homepage]
-        sections = [ "home", "about", "services", "skills", "projects", "contact" ]
+        sections = [ "home", "services_foreground", "services", "about", "skills", "projects", "contact" ]
 
     # ----------
 
@@ -52,7 +52,7 @@ unsafe = true
 
         # Brand (OPTIONAL - but required if want HOME button)
         brand = "DS"
-        #brand_logo = "images/3.png"
+        #brand_logo = "images/"
 
         # NAVIGATION MENU ENTRIES (OPTIONAL)
         # Add an entry for each section to add in the navigation menu.
@@ -76,16 +76,15 @@ unsafe = true
         # ! - Values for "sections" in "projects" must be the same as used in "projects.params".
         # (& must correspond to the section directories)
         [params.navigation.links]
-            about    = "ABOUT"
-            services = "SERVICES"
-            skills   = "SKILLS"
+            services_foreground = "SERVICES"
+            about = "ABOUT"
+            #services = "SERVICES"
+            skills = "SKILLS"
             # Order is not defined here, but in "categories" of the "projects" section
             projects = [
-                { section = "pro", label = "EXPERIENCE" },
-                #{ section = "test", label = "TEST" },
-                #{ section = "perso", label = "PROJECTS" }
+                { section = "pro", label = "EXPERIENCE" }
             ]
-            contact  = "CONTACT"
+            contact = "CONTACT"
 
     # ----------
 
@@ -186,7 +185,6 @@ unsafe = true
     [params.projects]
         # Values in "categories" must be the same as in navigation menu "projects".
         # (& must correspond to the section directories)
-        #categories = [ "pro", "perso", "test" ]
         categories = [ "pro" ]
 
         title_align = "left"             # left|center|right (default: center)

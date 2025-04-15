@@ -1,0 +1,212 @@
+/* Custom CSS variables overrides.
+  This file is included after "default.css" and before "theme.css".
+  Hence only variables overrides should be defined here,
+  as rules could be overriden in "themes.css".
+
+  Rule overrides should be defined in "custom.css".
+*/
+
+:root{
+/* TODO: replace 'custom.css' file in theme! */
+    /*
+      Override desired values for the following variables.
+    */
+
+    /* GENERAL */
+/*
+    --GENERAL-FONT-COLOR-1: red;
+    --GENERAL-FONT: var(--GENERAL-FONT-1);
+    --TITLE-FONT: var(--GENERAL-FONT-2);
+
+    --BUTTON-FONT: var(--GENERAL-FONT-2);
+*/
+--GENERAL-COLOR-1: rgb(255, 100, 25);
+
+    /* HORIZONTAL RULE (HR) */
+/*
+    --HR-BORDER-COLOR: var(--GENERAL-COLOR-1);
+    --HR-BORDER-LIGHT-COLOR: var(--GENERAL-COLOR-2);
+*/
+    --GENERAL-LINK-ACTIVE-COLOR-1: var(--GENERAL-COLOR-1);
+
+
+    /* NAVBAR */
+/*
+    --NAVBAR-BACKGROUND-COLOR: rgba(255, 255, 255, .3);
+    --NAVBAR-FONT: var(--GENERAL-FONT-2);
+    --NAVBAR-BRAND-FONT: var(--GENERAL-FONT-4);
+    --NAVBAR-BRAND-COLOR: var(--GENERAL-FONT-COLOR-1);
+    --NAVBAR-BRAND-HOVER-COLOR: var(--GENERAL-FONT-COLOR-2);
+    --NAVBAR-BUTTON-COLOR: var(--GENERAL-FONT-COLOR-1);
+    --NAVBAR-BUTTON-HOVER-COLOR: var(--GENERAL-FONT-COLOR-2);
+    --NAVBAR-BUTTON-ACTIVE-COLOR: var(--GENERAL-FONT-COLOR-2);
+    --NAVBAR-BUTTON-ACTIVE-BACKGROUND-COLOR: transparent;
+    --NAVBAR-FIXED-BACKGROUND-COLOR: var(--GENERAL-COLOR-2);
+    --NAVBAR-FIXED-BRAND-COLOR: var(--GENERAL-FONT-COLOR-2);
+    --NAVBAR-FIXED-BRAND-HOVER-COLOR: var(--GENERAL-LINK-ACTIVE-COLOR-1);
+    --NAVBAR-FIXED-BUTTON-COLOR: var(--GENERAL-LINK-COLOR-2);
+    --NAVBAR-FIXED-BUTTON-HOVER-COLOR: var(--GENERAL-LINK-ACTIVE-COLOR-2);
+*/
+
+    /* HOME */
+    --HOME-BACKGROUND-COLOR: black;
+    --HOME-TITLE-FONT: var(--GENERAL-FONT-4);
+    --HOME-TITLE-COLOR: var(--GENERAL-FONT-COLOR-1);
+    /* TODO: '--GENERAL-FONT-2' or '--GENERAL-FONT-4'? */
+    --HOME-TEXT-FONT: var(--GENERAL-FONT-2);
+    --HOME-TEXT-COLOR: var(--GENERAL-FONT-COLOR-1);
+
+    /* HERO */
+/*
+    --hero-image-height: 500px;
+    --hero-image-height-small: 250px;
+    --hero-image-margin-bottom: 0px;
+    --hero-image-margin-bottom-small: 0px;
+*/
+
+    /* SIDEBAR */
+/*
+    --SIDEBAR-IMAGE-BORDER-RADIUS: var(--GENERAL-IMAGE-BORDER-RADIUS);
+    --SIDEBAR-TITLE-FONT: var(--GENERAL-FONT-1);
+    --SIDEBAR-FONT: var(--GENERAL-FONT-2);
+    --SIDEBAR-LINK-FONT: var(--GENERAL-FONT-1);
+*/
+
+}
+
+/* ABOUT */
+#about {
+/* TODO: add info/doc for every variable (+move to theme instead of sitte!)
+* '--about-bkg-position': left|center|right top|center|bottom (detault: center center)
+* '--about-bkg-size': contain|cover (default: contain)
+*/
+    /* Can be specified here or in data/yaml file (priority to yaml)
+        --about-bkg-image - background_image - image file in 'static' (default: no image)
+    */
+    /*
+    --about-bkg-image: url("/images/image.jpg");
+    */
+    /*
+    --about-bkg-color: var(--GENERAL-COLOR-1);
+    --about-bkg-opacity: 1.0;
+    --about-bkg-position: center center;
+    --about-bkg-size: cover;
+
+    --about-title-color: var(--GENERAL-FONT-COLOR-1);
+    --about-title-bar-color: var(--GENERAL-COLOR-2);
+
+    --about-link-color: var(--GENERAL-LINK-COLOR-1);
+    --about-link-color-active: var(--GENERAL-FONT-COLOR-2);
+
+    --about-profile-bkg-color: var(--about-bkg-color);
+    --about-profile-margin: 1rem;
+    --about-profile-border: 0;
+
+    --about-profile-image-border-radius: var(--GENERAL-IMAGE-BORDER-RADIUS);
+    --about-profile-image-border: 0;
+    --about-profile-text-padding-h: 1rem;
+    --about-profile-text-padding-v: 1rem;
+
+    --about-main-bkg-color: var(--about-bkg-color);
+    --about-main-border: 0;
+    --about-main-text-color: var(--GENERAL-FONT-COLOR-1);
+    --about-main-text-padding-h: 1rem;
+    --about-main-text-padding-v: 0;
+    */
+/*    --about-bkg-color: rgb(64,64,64);*/
+    --about-bkg-color: white;
+
+    --about-title-bar-color: var(--GENERAL-COLOR-1);
+
+    --about-profile-bkg-color: transparent;
+/*    --about-profile-border: 1px black solid;*/
+/*    --about-profile-image-border-radius: 0;*/
+/*    --about-profile-image-border: 1px black solid;*/
+/*    --about-profile-text-use-padding: 0;*/
+
+    --about-main-bkg-color: transparent;
+/*    --about-main-border: 1px black solid;*/
+/*    --about-main-text-color: black;*/
+}
+
+/* SERVICES */
+#services {
+    /* Can be specified here or in data/yaml file (priority to yaml)
+        --services-bkg-image - background_image - image file in 'static' (default: no image)
+    */
+    /*
+    --services-bkg-image: url("/images/image.jpg");
+    */
+    /*
+    --services-bkg-color: var(--GENERAL-COLOR-2);
+
+    --services-title-color: var(--GENERAL-FONT-COLOR-1);
+    --services-title-bar-color: var(--GENERAL-COLOR-1);
+
+    --services-container-color: transparent;
+    --services-container-border-radius: 0;
+    --services-container-shadow: 0;
+
+    --services-box-color: var(--GENERAL-COLOR-2);
+    --services-box-border-radius: 0;
+    --services-box-shadow: 0;
+    --services-box-height: 24em;
+
+    --services-icon-color: var(--GENERAL-COLOR-1);
+    */
+--services-bkg-color: transparent;
+--services-box-color: white;
+}
+
+/* SKILLS */
+#skills {
+/*
+    --SKILLS-CONTAINER-COLOR: var(--GENERAL-COLOR-2);
+*/
+--SKILLS-CONTAINER-COLOR: rgba(255, 255, 255, 0.5);
+--SKILLS-LINKS: white;
+
+    /*
+    --skills-bkg-image: url("/images/image.jpg");
+    */
+    /*
+    --skills-title-color: var(--GENERAL-FONT-COLOR-1);
+    --skills-title-bar-color: var(--GENERAL-COLOR-1);
+    */
+}
+
+/* PROJECTS */
+.project-box {
+/* TODO: useless? */
+/*
+    --projectbox-image-width: 650px;
+*/
+/*
+    --projectbox-image-padding: 20%;
+    --projectbox-caption-background-color: rgba(64, 95, 240, .9);
+*/
+    --projectbox-image-padding: 20%;
+    --projectbox-caption-background-color: rgba(255, 100, 25, .95);
+}
+
+/* CONTACT */
+#contact {
+    /* TODO: add '--contact-bkg-image' */
+    /*
+    --contact-title-color: var(--GENERAL-FONT-COLOR-3);
+    --contact-title-bar-color: var(--GENERAL-COLOR-1);
+    */
+    --contact-title-color: white;
+    --contact-color: white;
+    --contact-bkg-color: black;
+}
+
+/* TODO: TO REMOVE/RENAME! */
+temp {
+
+    /* 404 */
+/*
+    --404-IMAGE-BORDER-RADIUS: var(--GENERAL-IMAGE-BORDER-RADIUS);
+*/
+
+}

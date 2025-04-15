@@ -1,45 +1,33 @@
+const container = document.getElementById('services_foreground');
+const particles_canvas = document.getElementById('particles_canvas');
+const particles_container = document.getElementById('particles_container');
+const particles_counter = document.getElementById('particles_counter');
+const particles_button = document.getElementById('particles_button');
 
-const container = document.getElementById('home');
-const canvas = document.getElementById('particles_canvas');
-const counter = document.getElementById('particles_counter');
-const button = document.getElementById('particles_button');
+var nav_height = document.querySelector(".navbar-header").offsetHeight;
+var offset_top = container.offsetTop - nav_height;
+var offset_scroll = 0;
 
-const canvas_context = canvas.getContext('2d');
-const button_display = button.style.display;
+const canvas_context = particles_canvas.getContext('2d');
+const button_display = particles_button.style.display;
 
-var canvas_width = parseInt(canvas.getAttribute('width'));
-var canvas_height = parseInt(canvas.getAttribute('height'));
+var canvas_width = parseInt(particles_canvas.getAttribute('width'));
+var canvas_height = parseInt(particles_canvas.getAttribute('height'));
 
 const PI_2 = Math.PI * 2;
 
-const PARTICLE_COUNT = 100;
+const PARTICLE_COUNT = 99;
 const PARTICLE_RADIUS = 2;
 const PARTICLE_PHASE = 0.03;
-const PARTICLE_MAX_SPEED = 0.5;
+const PARTICLE_MAX_SPEED = 0.1;
 const PARTICLE_LIFESPAN = 5;
-/* TODO: set in CSS? */
-/* TODO: Could be added to each particle to have changing colors */
-/*
-var PARTICLE_COLOR = {
-    r: 207,
-    g: 255,
-    b: 4
-};
-*/
-/*
-var PARTICLE_COLOR = {
-    r: 200,
-    g: 160,
-    b: 0
-};
-*/
+
 var PARTICLE_COLOR = {
     r: 0,
     g: 0,
     b: 0
 };
 
-/* TODO: changes anything performance wise? (don't use if want changing colors) */
 const PARTICLE_RGB_STR = PARTICLE_COLOR.r + ',' + PARTICLE_COLOR.g + ',' + PARTICLE_COLOR.b;
 
 const LINE_WIDTH = 0.8;
@@ -110,7 +98,6 @@ function newParticle(x, y) {
     }
 }
 
-/* TODO: return at end of function + handle default case (?) */
 function newSideParticle(){
     const pos = Math.floor(getRandomRangeNumber(0, 4));
     switch(pos){
@@ -184,38 +171,25 @@ function updateParticles() {
     }
 }
 
-
 function drawParticles() {
-    counter.innerHTML = nb_particles;
+    /* TODO: move elsewhere! */
+    /* TODO: remove hardcoded '2' => get nb digits at init */
+    particles_counter.innerHTML = String(nb_particles).padStart(2, "0");
+
     if (nb_particles == 0) {
-        button.style.display = button_display;
+        particles_button.style.display = button_display;
+        container.style.pointerEvents = "none";
     }
 
     for (let i = 0; i < particles.length; ++i) {
         const b = particles[i];
-/*
-        canvas_context.fillStyle = 'rgba(' + PARTICLE_COLOR.r + ','
-                                           + PARTICLE_COLOR.g + ','
-                                           + PARTICLE_COLOR.b + ','
-                                           + b.alpha + ')';
-*/
+        /*canvas_context.fillStyle = 'rgba(' + PARTICLE_COLOR.r + ',' + PARTICLE_COLOR.g + ',' + PARTICLE_COLOR.b + ',' + b.alpha + ')';*/
         canvas_context.fillStyle = 'rgba(' + PARTICLE_RGB_STR + ',' + b.alpha + ')';
         canvas_context.beginPath();
         canvas_context.arc(b.x, b.y, PARTICLE_RADIUS, 0, PI_2, true);
         canvas_context.closePath();
         canvas_context.fill();
     }
-
-/* TODO: use other properties specific to 'mouse_particle' (+make separate function?) */
-/*
-    if (mouse_in) {
-        canvas_context.fillStyle = 'rgba('+PARTICLE_COLOR.r+','+PARTICLE_COLOR.g+','+PARTICLE_COLOR.b+',1)';
-        canvas_context.beginPath();
-        canvas_context.arc(mouse_particle.x, mouse_particle.y, PARTICLE_RADIUS*2, 0, PI_2, true);
-        canvas_context.closePath();
-        canvas_context.fill();
-    }
-*/
 
     for (let i = 0; i < dead_particles.length; ++i) {
         const particle = dead_particles[i];
@@ -242,7 +216,7 @@ function drawLines() {
         const alpha = 1 - (distance / SQR_FORCE_RADIUS);
 
         canvas_context.strokeStyle = 'rgba(150,150,150,' + alpha + ')';
-        //canvas_context.lineWidth = LINE_WIDTH;
+        /*canvas_context.lineWidth = LINE_WIDTH;*/
 
         canvas_context.beginPath();
         canvas_context.moveTo(b.x, b.y);
@@ -252,7 +226,6 @@ function drawLines() {
     }
 }
 
-
 function process(){
     addParticles();
     updateParticles();
@@ -261,21 +234,65 @@ function process(){
     drawParticles();
     drawLines();
 
+    var x_pos = canvas_width * 0.05 - controller_image.width/2;
+    canvas_context.drawImage(controller_image, x_pos, canvas_height - controller_image.height);
+
     if (nb_particles + nb_dead_particles > 0)  {
         window.requestAnimationFrame(process);
     }
 }
 
 function updateCanvas() {
-    const width = container.clientWidth;
-    canvas.setAttribute('width', width);
+    const width = particles_container.clientWidth;
+    particles_canvas.setAttribute('width', width);
     canvas_width = width; // 'parseInt'?
     outside_right = canvas_width + PARTICLE_RADIUS;
 
-    const height = container.clientHeight;
-    canvas.setAttribute('height', height);
+    const height = particles_container.clientHeight;
+    particles_canvas.setAttribute('height', height);
     canvas_height = height; // 'parseInt'?
     outside_top = canvas_height + PARTICLE_RADIUS;
+
+    offset_top = container.offsetTop - nav_height;
+}
+
+function updateScroll() {
+    if (offset_scroll >= offset_top) {
+        particles_container.classList.remove("sticky");
+        particles_container.classList.add("floaty");
+    } else {
+        particles_container.classList.remove("floaty");
+        particles_container.classList.add("sticky");
+    }
+}
+
+function updateMousePosition(pageX, pageY) {
+    mouse_particle.x = pageX;
+
+    if (particles_container.classList.contains("floaty")) {
+        mouse_particle.y = pageY - container.offsetTop;
+    } else {
+        mouse_particle.y = pageY - (offset_scroll + nav_height);
+    }
+
+    updateCursor();
+}
+
+function updateCursor() {
+    /* TODO: ADAPT TO IMAGE! */
+    var x_min = canvas_width * 0.05 - controller_image.width/2;
+    var x_max = x_min + controller_image.width;
+
+    y_min = canvas_height - controller_image.height;
+    y_max = canvas_height;
+
+    if ((mouse_particle.x > x_min) && (mouse_particle.x < x_max)
+        && (mouse_particle.y > y_min) && (mouse_particle.y < y_max)) {
+        /* TODO: use own image/icon */
+        container.style.cursor = "not-allowed";
+    } else {
+        container.style.cursor = "crosshair";
+    }
 }
 
 function initParticles(){
@@ -283,17 +300,21 @@ function initParticles(){
     nb_particles = PARTICLE_COUNT;
 
     for(var i = 1; i <= nb_particles; i++){
-        particles.push(newParticle(undefined, undefined));
+        /* spawn off screen to force random repositioning around canvas borders */
+        particles.push(newParticle(-100, -100));
     }
 }
 
 function initElements() {
-    counter.innerHTML = nb_particles;
-    button.style.display = "none";
+	particles_counter.innerHTML = String(nb_particles).padStart(2, "0");
+
+    particles_button.style.display = "none";
+    container.style.pointerEvents = "auto";
 }
 
 function start(){
     updateCanvas();
+    updateScroll();
     initParticles();
     initElements();
     window.requestAnimationFrame(process);
@@ -301,11 +322,23 @@ function start(){
 
 function init() {
     window.addEventListener('load', (e) => {
+        nav_height = document.querySelector(".navbar-header").offsetHeight;
+        offset_top = container.offsetTop - nav_height;
+        offset_scroll = window.pageYOffset || document.documentElement.scrollTop;
+
         start();
     });
 
     window.addEventListener('resize', (e) => {
         updateCanvas();
+    });
+
+    window.addEventListener('scroll', (e) => {
+        offset_scroll = window.pageYOffset || document.documentElement.scrollTop;
+        updateScroll();
+
+        var e = e || window.event;
+        updateMousePosition(e.pageX, e.pageY);
     });
 
     container.addEventListener('mouseenter', () => {
@@ -314,24 +347,22 @@ function init() {
     container.addEventListener('mouseleave', () => {
         mouse_in = false;
     });
+
     window.addEventListener('mousemove', (e) => {
         var e = e || window.event;
-        mouse_particle.x = e.pageX;
-        mouse_particle.y = e.pageY;
+        updateMousePosition(e.pageX, e.pageY);
     });
 
-    button.onclick = function(){
+    particles_button.onclick = function(){
         start();
     };
 }
-
 
 var nb_particles = 0;
 var nb_dead_particles = 0;
 var particles = [];
 var dead_particles = [];
 var line_particles = [];
-
 
 var mouse_in = false;
 var mouse_particle = {
@@ -340,5 +371,6 @@ var mouse_particle = {
     y: -FORCE_RADIUS,
 };
 
-
 init();
+
+const controller_image = document.getElementById("particles_controller");
