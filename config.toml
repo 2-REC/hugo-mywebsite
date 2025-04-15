@@ -18,6 +18,9 @@ unsafe = true
     # Parameters used by the site at the global level.
 
     # File(s) containing overriden CSS variables (can have more than 1) (OPTIONAL)
+    custom_css_vars = [ "custom_vars.css" ]
+
+    # File(s) containing overriden CSS - NOT variables (can have more than 1) (OPTIONAL)
     custom_css = [ "custom.css" ]
 
     # ----------
@@ -78,9 +81,9 @@ unsafe = true
             skills   = "SKILLS"
             # Order is not defined here, but in "categories" of the "projects" section
             projects = [
-                { section = "pro", label = "PROFESSIONAL" },
-                { section = "test", label = "TEST1" },
-                { section = "perso", label = "PERSONAL" }
+                { section = "pro", label = "EXPERIENCE" },
+                #{ section = "test", label = "TEST" },
+                #{ section = "perso", label = "PROJECTS" }
             ]
             contact  = "CONTACT"
 
@@ -183,7 +186,8 @@ unsafe = true
     [params.projects]
         # Values in "categories" must be the same as in navigation menu "projects".
         # (& must correspond to the section directories)
-        categories = [ "pro", "perso", "test" ]
+        #categories = [ "pro", "perso", "test" ]
+        categories = [ "pro" ]
 
         title_align = "left"             # left|center|right (default: center)
         title_length = 8                  # 1-12 (default: 10)
