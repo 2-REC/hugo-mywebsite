@@ -1,12 +1,12 @@
 ---
 title: "SONACA"
-subtitle: "CAD SOFTWARE ENGINEER"
+subtitle: "CAD Software Engineer"
 subtitle2: "AKKA Consultant"
 startDate: "2013-02-01"
 endDate: "2014-07-01"
 image: "head.jpg"
 image_copyright: "SONACA"
-small_image: "sonaca.jpg"
+small_image: "sonaca.png"
 small_url: "https://www.sonaca.com"
 posts_title: "PROJECTS"
 ---

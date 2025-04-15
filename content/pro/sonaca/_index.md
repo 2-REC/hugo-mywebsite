@@ -1,11 +1,11 @@
 ---
 title: "SONACA"
-subtitle: "CAD SOFTWARE ENGINEER"
+subtitle: "CAD Software Engineer"
 subtitle2: "As external consultant"
 startDate: "2007-07-01"
 endDate: "2010-11-01"
 image: "head.jpg"
-small_image: "sonaca_old.jpg"
+small_image: "sonaca-old.png"
 small_url: "https://www.sonaca.com/"
 posts_title: "PROJECTS"
 ---

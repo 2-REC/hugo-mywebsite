@@ -1,7 +1,7 @@
 ---
 #title_image: "test.png"
 title: "AKKA TECHNOLOGIES"
-subtitle: "IT CONSULTANT & PROJECT MANAGER"
+subtitle: "IT Consultant & Project Manager"
 startDate: "2012-03-01"
 endDate: "2018-02-01"
 image: "head.jpg"

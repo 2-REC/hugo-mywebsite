@@ -1,6 +1,6 @@
 ---
 title: "MULTITEL"
-subtitle: "RESEARCH ENGINEER"
+subtitle: "Research Engineer"
 startDate: "2004-03-01"
 endDate: "2007-07-01"
 image: "head.jpg"

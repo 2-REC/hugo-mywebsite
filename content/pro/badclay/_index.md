@@ -1,6 +1,6 @@
 ---
 title: "BAD CLAY Studio"
-subtitle: "Pipeline TD"
+subtitle: "VFX Pipeline TD"
 #subtitle2: ""
 startDate: "2019-05-01"
 endDate: "2023-07-01"

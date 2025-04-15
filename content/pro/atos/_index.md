@@ -1,11 +1,11 @@
 ---
 title: "ATOS WORLDLINE"
-subtitle: "EMBEDDED SOFTWARE ENGINEER"
+subtitle: "Embedded Software Engineer"
 subtitle2: "AKKA Consultant"
 startDate: "2012-04-01"
 endDate: "2013-02-01"
 image: "head.jpg"
-small_image: "atos.jpg"
+small_image: "atos.png"
 small_url: "https://worldline.com/"
 posts_title: "PROJECTS"
 ---

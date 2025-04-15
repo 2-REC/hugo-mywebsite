@@ -1,6 +1,6 @@
 ---
 title: "AGC AUTOMOTIVE"
-subtitle: "FUNCTIONAL ANALYST"
+subtitle: "Functional Analyst"
 subtitle2: "AKKA Consultant"
 startDate: "2017-08-01"
 endDate: "2018-02-01"

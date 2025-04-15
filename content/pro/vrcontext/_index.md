@@ -1,11 +1,11 @@
 ---
 title: "VR CONTEXT"
-subtitle: "3D MODELER & TOOLS DEVELOPER"
+subtitle: "3D Modeler & Tools Developer"
 startDate: "2003-10-01"
 endDate: "2004-02-01"
 image: "walkinside.jpg"
 image_copyright: "SIEMENS"
-small_image: "vrcontext.jpg"
+small_image: "vrcontext.png"
 #small_url: "<URL>" # no URL for VR Context (?)
 posts_title: "PROJECTS"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "PROFESSIONAL"
+title: "EXPERIENCE"
 sections_title: "COMPANIES"
 sections_order: "endDate"
 sections_order_reverse: true
