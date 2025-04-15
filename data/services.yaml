@@ -1,6 +1,6 @@
 ---
 title: "SERVICES"
-background_image: "cradle.jpg"
+background_image: "wall.png"
 
 # List of services.
 # Optional "text", "icon_pack" & "list"
@@ -12,12 +12,12 @@ services:
 - name: "Video Game Design"
   icon: "fa-gamepad"
   icon_pack: "fas"
-  list: [ "Unity", "Android, Web, Windows, etc.", "Prototyping" ]
+  list: [ "UE5, Unity", "Android, Web, Windows, etc.", "Prototyping" ]
 - name: "UX/UI Design"
   icon: "fa-wpforms"
   icon_pack: "fab"
   list: [ "Web", "Embedded Applications", "Visual Assets" ]
-- name: "IT Consulting"
+- name: "Consulting"
   icon: "fa-chalkboard-teacher"
   icon_pack: "fas"
   list: [ "Advise", "Tutoring/Coaching", "Management" ]
