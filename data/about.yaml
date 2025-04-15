@@ -1,9 +1,8 @@
 ---
 title: "ABOUT"
-#TODO: invert avatar1 and avatar2 (need to adapt images)
 avatar: "avatar.png"
 avatar2: "avatar2.png"
-background_image: "snowy_drums_forest_city-steam9.png"
+#background_image: ""
 
 profile_text: >
     I'm Derek Severin, Software Engineer and Designer.<br>

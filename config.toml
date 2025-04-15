@@ -136,8 +136,8 @@ unsafe = true
         #layout = "right"
         main_side = 6
         extra_side = 3
-        offset_left = 0
-        offset_right = 3
+        offset_left = 1
+        offset_right = 2
         portrait_percentage = 85
         portrait_cancel_bottom_margin = 1
         # only if layout "left"|"right":
