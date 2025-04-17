@@ -2,72 +2,27 @@
 # TODO
 
 ## BUG FIXES / TESTS
-- [ ] Fix problem with C#<br>
-    => '#' character causes problems in URLs (and can't change in taxonomies generation...?)
-    (now using "C Sharp" instead, but should be able to use "C#"!)<br>
-    => See how to add taxonomy page "content/tags/c_sharp/_index.md" with "title = c#"<br>
-    (+ in tags handling, change _sharp to #...)
-- [ ] Fix width problem on mobile<br>
-    => DUE TO PROJECTS SECTIONS TITLES BAR LENGTH (?) (PROFESSIONAL AND PERSONAL)
+- [ ] Check if still problem with C#  
+    => '#' character caused problems in URLs (and can't change in taxonomies generation...?)
+    Now seems ok, both with/without 'preserveTaxonomyNames = "true"'
 - [ ] Check homogeneity in all companies, projects, etc pages (fonts, texts, layout, etc)
 - [ ] Check site on tablet
 
 
 ## HOSTING
-- [ ] Netlify:<br>
-    https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
-    <br>=> in "Add the netlify.toml File":<br>
-    https://alison.rbind.io/post/2019-02-19-hugo-netlify-toml/
-    https://www.netlify.com/docs/netlify-toml-reference/
-    <br>Then test site with: (?)<br>
-    https://testmysite.io/
-
-
+- [ ] remove from Netlify (if still there)
+- [ ] host on github pages
 - LATER:
-    - [ ] Look email about forms
+    - [ ] buy/get domain...
 
 
 ## LAYOUT
 
 ### GENERAL
-- [ ] Decide and set fonts of theme (CSS)
-    - [ ] Titles
-    - [ ] Subtitles
-    - [ ] Texts
-    - [ ] etc.
-- [ ] Decide and set colours of theme (CSS)<br>
-    => Keep simple black text on white bkg (?)
 - [ ] Add a recommendations/references page?
 
-
-### HOMEPAGE
-- [ ] Set smaller top margin for section headers in homepage when small screens (?)
-
-
-### ABOUT
-- [ ] Change bkg colour (white)
-- [ ] Change colour of text (black?) (Same for both texts?)
-- [ ] Change colour of links (or set different style? Bold+italic?)
-
-
-### SERVICES
-- [ ] Change phone layout (bigger side margins?)
-
-
-### SIDEBAR
-- [ ] On mobile, move tags and categories to bottom<br>
-    => Easy to do?
-
-### PROJECTS
-- [ ] Change layout on phone?
-    => Try with 2 columns
-
-
 ### CONTACT
-- [ ] Add form?<br>
-    => Can handle with Netlify
-- [ ] Remove photo
-- [ ] Check layout on other websites
+- [ ] Change image layout on mobile (lower right?)
 
 
 ## CONTENT
@@ -80,35 +35,23 @@
     - [ ] Contact
     - [ ] most projects + companies... !
     - [ ] ...
-
-
 - LATER:
     - [ ] Add links to other websites... blogs, shops etc. (?)
 
 
 ### HOME
-- [ ] Change bkg image (code in IDE: C# in VS? Python in n++?)
-- [ ] Change title ("Software Craftmanship")
-
+- [ ] Change title ("Software Craftmanship"?) + text
 
 ### ABOUT
 - LATER:
     - [ ] Add link to "interests" (other website, when done)
 
-
 ### SERVICES
-- [ ] Change bkg image... (?)
 - [ ] Check lists
-
-
-### SKILLS
-- [ ] Change tags/categories style
-
 
 ### CONTACT
 - [ ] Add more accounts? (Unity?  ???)
-- [ ] Rewrite text (add prototype or pròof of concpet, automation tools, etc - remove "attractive"...)
-- [ ] Add "possibility to meet in HCMC, and eventually abroad"
+- [ ] Add "possibility to meet in HCMC+BE" (and eventually abroad?)
 
 
 ### CATEGORIES
@@ -126,6 +69,7 @@
 
 ### FOOTER
 - [ ] Make better footer (with "All images are copyrighted material...")
+    + more infos/links?
 
 
 ### PROJECTS
@@ -133,13 +77,12 @@
 - [ ] DCT: mention React, Redux, Pixi in text
 - [ ] All: Look for the texts in:<br>
     D:\data\my_work\hugo_website\resources\MyWebsite
-
-
-#### NEW COMPANIES
-- [ ] Pro: Add BAD CLAY
+- [ ] Add RMIT, BADCLAY, UFX content
 
 
 #### NEW SECTIONS
+? - want? (later?)
+
 Add sections:
 - [ ] Academic
 - Add 'Academic' section:
