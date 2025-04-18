@@ -47,8 +47,23 @@
 /* CONTACT */
 
 #contact {
-    background-position: right;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+
+    background-size: 100% auto;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
 }
+@media(max-width: 768px) {
+    #contact {
+        background-size: auto 50vh;
+        -webkit-background-size: auto 50vh;
+        -moz-background-size: auto 50vh;
+        -o-background-size: auto 50vh;
+    }
+}
+
 #contact a {
     text-decoration: none;
 }
