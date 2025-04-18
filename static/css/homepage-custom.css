@@ -63,12 +63,13 @@
     color: var(--GENERAL-FONT-COLOR-1);
     background-color: transparent;
 }
+#services .section-heading,
 #services_custom .section-heading {
-    color: white;
-    text-shadow: 1px 1px 3px black,
-                 -1px -1px 3px black,
-                 -1px 1px 3px black,
-                 1px -1px 3px black;
+    color: black;
+    text-shadow: 1px 1px 3px white,
+                 -1px -1px 3px white,
+                 -1px 1px 3px white,
+                 1px -1px 3px white;
 }
 #services_custom .section-hr {
     border-color: var(--services-title-bar-color);
