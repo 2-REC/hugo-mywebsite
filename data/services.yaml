@@ -5,20 +5,43 @@ background_image: "wall.png"
 # List of services.
 # Optional "text", "icon_pack" & "list"
 services:
-- name: "2D/3D Tools Conception"
+- name: "Tool Crafting"
+  text: "Custom tools for specific needs."
   icon: "fa-toolbox"
   icon_pack: "fas"
-  list: [ "CAD", "AR & VR", "Image Analysis", "Video Streaming" ]
-- name: "Video Game Design"
+  list: [
+    "VFX, CAD, games, etc.",
+    "Standalone or integrated",
+    "GUI or command line",
+    "From scrath or upgrade"
+  ]
+- name: "Game Development"
+  text: "From prototype to final product."
   icon: "fa-gamepad"
   icon_pack: "fas"
-  list: [ "UE5, Unity", "Android, Web, Windows, etc.", "Prototyping" ]
-- name: "UX/UI Design"
-  icon: "fa-wpforms"
-  icon_pack: "fab"
-  list: [ "Web", "Embedded Applications", "Visual Assets" ]
-- name: "Consulting"
+  list: [
+    "2D, 3D, VR/AR",
+    "Unreal Engine, Unity, code",
+    "PC, Web, mobile, etc.",
+    "Leisure, serious, educational"
+  ]
+- name: "Assistance"
+  text: "Share knowledge and expertise."
   icon: "fa-chalkboard-teacher"
   icon_pack: "fas"
-  list: [ "Advise", "Tutoring/Coaching", "Management" ]
+  list: [
+    "Consulting",
+    "Training, coaching, mentoring",
+    "Team or project management"
+  ]
+- name: "Collaboration"
+  text: "Work with the team."
+  icon: "fa-wpforms"
+  icon_pack: "fab"
+  list: [
+    "Requirements analysis",
+    "Design",
+    "Implementation",
+    "Validation"
+  ]
 ---
