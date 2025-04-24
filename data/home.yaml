@@ -4,8 +4,8 @@ title: "Derek SEVERIN"
 subtitle: "Software Engineer"
 background: "door.png"
 #background_opacity: 50%
-background_hidden: "door.png"
-background_hidden_speed: 4
+background_hidden: "door_light.png"
+background_hidden_speed: 1
 #background_video: ""
 text: >
     Applications & Tools Development  
