@@ -6,6 +6,12 @@
   Variable overrides should be defined in "custom_vars.css".
 */
 
+/* ABOUT */
+
+#about a {
+    text-decoration: underline;
+}
+
 /* SERVICES */
 
 .service-box {

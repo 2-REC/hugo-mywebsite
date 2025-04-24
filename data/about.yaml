@@ -4,44 +4,43 @@ avatar: "avatar.png"
 avatar2: "avatar2.png"
 #background_image: ""
 
-profile_text: >
-    I'm Derek Severin, Software Engineer and Designer.<br>
-    Passionate about technology and multimedia,
-    I have acquired a wide set of <a class="page-jump" href="#skills">skills</a>
-    and can help you build your <a class="page-jump" href="#services">next product</a>.<br>
-
-
-    A project you want to realise?<br>
-    Let's <a class="page-jump" href="#contact">get in touch</a>!
+#profile_text: >
 
 main_text: >
+    As a freelancer, I offer development <a id="about_services_link" class="page-jump" href="#services">services</a> to help bring your project to life.  
+
+    Whether you're starting from the ground up or enhancing an existing system,
+    I specialize in developing both standalone applications and integrated tools tailored to your needs,
+    from initial prototypes to fully finished products.  
+
+    I’m also available to collaborate with you or support your team at any stage of the development process.
+
+
     Software developer since the early 2000s,
-    I have been working on numerous <a class="page-jump" href="#projects_pro">projects for several companies in various industries</a>.
+    I've been working on numerous <a class="page-jump" href="#projects_pro">projects for several companies across a wide range of industries</a>.
 
 
-    From CAD and image analysis tools to web and embedded applications,
-    in fields ranging from aerospace and automotive to video games and VFX,
-    I had the opportunity to be assigned to every role in the project's lifecycle:
-    Project Leader, Business Analyst, Consultant, Technical Leader, Tool Developer,
-    Integrator and QA Tester to name a few.
+    My experience spans from CAD and image analysis tools to web and embedded applications,
+    in domains ranging from aerospace and automotive to video games and VFX.  
+
+    Over the years, I’ve taken on nearly every role in a project’s lifecycle:
+    Project Leader, Functional Analyst, Architect, Developer and QA Engineer to name a few.
 
 
-    This career path has allowed me to acquire a wide <a class="page-jump" href="#skills">knowledge and expertise</a>
-    in very different fields using quantity of technologies and tools.
+    This journey has given me a broad and <a class="page-jump" href="#skills">versatile skill set</a>,
+    along with deep expertise in various technologies and methodologies.
 
 
-    Additionally, I have been working on <a class="page-jump" href="#projects_perso">personal projects</a>,
-    mostly related to video games, mobile and web design.
-    Besides, I write blogs about topics that are important to me and that I want to share.
+    Outside of my professional work, I pursue personal projects,
+    mainly around video games, mobile apps, and web design.
+    I also enjoy writing blogs about topics that matter to me and that I want to share.
 
 
-    This website is a presentation of my work in software development and IT related fields.
-    It serves as a complement to my <a class="page-jump" href="#skills">resume</a>.
+    This website showcases my work in software development and IT related fields,
+    and acts as a companion to my <a class="page-jump" href="#skills">resume</a>.
 
 
-    If you would like to know more, or have a project you want to talk about, <a class="page-jump" href="#contact">contact me</a>.  
+    If you're curious to learn more or have a project in mind, feel free to <a class="page-jump" href="#contact">reach out</a>.  
 
-    I speak English and French, and can communicate in Spanish.  
-
-    Originally from Brussels, Belgium, I now live in Ho Chi Minh City, Vietnam.
+    I'm based between Brussels, Belgium, and Ho Chi Minh City, Vietnam.
 ---

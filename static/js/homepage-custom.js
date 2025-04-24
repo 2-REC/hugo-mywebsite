@@ -6,9 +6,11 @@ function updateButtonLink() {
     if (particles_container.clientWidth < 768) {
         home_button.href = "#services";
         nav_services.href = "#services";
+        about_services_link.href = "#services";
     } else {
         home_button.href = "#services_foreground";
         nav_services.href = "#services_foreground";
+        about_services_link.href = "#services_foreground";
     }
 }
 
@@ -31,3 +33,4 @@ window.addEventListener('resize', (e) => {
 
 const home_button = document.getElementById("home_button");
 const nav_services = document.getElementById("nav_services_foreground");
+const about_services_link = document.getElementById("about_services_link");

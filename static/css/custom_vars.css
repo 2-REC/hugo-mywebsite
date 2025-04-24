@@ -112,7 +112,7 @@
     --about-main-text-padding-h: 1rem;
     --about-main-text-padding-v: 0;
     */
-/*    --about-bkg-color: rgb(64,64,64);*/
+    --about-link-color: var(--GENERAL-FONT-COLOR-1);
     --about-bkg-color: white;
 
     --about-title-bar-color: var(--GENERAL-COLOR-1);
