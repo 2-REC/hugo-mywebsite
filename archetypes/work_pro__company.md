@@ -15,9 +15,10 @@ posts_title: "<POSTS_TYPE>"
 #showbrothers: <BOOL>            #default: true
 ---
 
-<b>JOB DESCRIPTION</b><br>
-...<br>
+<h3>JOB DESCRIPTION</h3>
+...
+<br>
 
-<b>RESPONSIBILITIES</b><br>
+<h3>RESPONSIBILITIES</h3>
 - ...<br>
 - ...<br>
