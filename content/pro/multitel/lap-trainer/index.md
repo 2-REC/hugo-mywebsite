@@ -1,37 +1,45 @@
 ---
 title: "LapTrainer"
 subtitle: "LapMan VR Simulator"
+small_image: "logos/1-medsys.png"
+small_url: "https://www.medsys.be/"
 categories: [ "3D", "Medical", "VR" ]
-tags: [ "Blender", "C++", "CVS", "DirectX", "Gimp", "OGRE", "OpenGL", "Visual Studio", "Windows" ]
+tags: [ "C++", "OGRE", "OpenGL", "DirectX", "Blender", "Gimp" ]
 images_copyright: "MEDSYS"
 images:
-- src: "backgroundAlpha.png"
+- src: "1_lapman.jpg"
+  title: "LapMan"
+- src: "2_lapremote.jpg"
   title: "LapRemote"
-- src: "draw.png"
-  title: " "
-- src: "lapman.jpg"
-  title: " "
-- src: "lapman_app.jpg"
-  title: "Setup Screen"
-- src: "lapman_app2.jpg"
-  title: "3D VR View"
-- src: "lapman_movement.png"
-  title: "Movement Axis"
+- src: "3_lapman_plans.jpg"
+  title: "LapMan plans"
+- src: "4_lapman_movements.jpg"
+  title: "LapMan movement axis"
+- src: "5_lapman_movements_2.png"
+  title: "LapMan remote movements"
+- src: "6_lapman_app.jpg"
+  title: "LapTrainer setup screen"
+- src: "7_lapman_app2.jpg"
+  title: "LapTrainer 3D-VR view"
 resources:
-- src: "logos/1-medsys.jpg"
-  title: "MEDSYS"
+- src: "logos/1-medsys.png"
+  title: "Medsys"
 - src: "logos/2-multitel.jpg"
-  title: "MULTITEL"
+  title: "Multitel"
 ---
 
 <b>CLIENT:</b> Medsys, as a Multitel Research Engineer<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-The LapTrainer application was requested by Medsys as part of their training solutions.<br>
-Its purpose is to simulate the LapMan robot (remote surgical intervention robot) in order to allow users to practice and get familiar to its handling without having to use the real device. By using a LapStick or a LapRemote, users can thus do in a virtual way the operations they would do on a real LapMan robot.<br>
-The application is a 3D virtual environment in which users can practice real-time navigation operations.<br>
+<h3>DESCRIPTION</h3>
+The LapTrainer application was developed at the request of Medsys as part of their training solutions.<br>
+Its purpose is to simulate the LapMan robot (a remote surgical intervention robot), allowing users to practice and become familiar with its operation without needing the actual device. By using a LapStick or a LapRemote, users can perform virtually the same actions they would on a real LapMan robot.<br>
+The application provides 3D virtual environments where users can practice real-time navigation and operational skills.<br>
+<br>
 
-<b>ROLE</b><br>
+<h3>ROLE</h3>
 As a Software Developer, I was responsible for the analysis and development of the application.<br>
-Gathering requirements from the client, analysing them, and developing the real-time 3D simulator.<br>
-I also had to create 3D scenes to be used as different environments in the simulator.<br>
+My role included gathering requirements from the client, analyzing them, and developing the real-time 3D simulator.<br>
+I also had to create 3D scenes to be used as different environments within the simulator.<br>
+<br>
+The application was developed in C++ using the OGRE engine with OpenGL and DirectX. The 3D environments were created in Blender.<br>

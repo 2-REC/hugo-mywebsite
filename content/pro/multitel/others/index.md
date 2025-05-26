@@ -1,12 +1,12 @@
 ---
-title: "Various smaller projects"
+title: "Various projects"
 subtitle: "Contribution to other projects"
+small_image: "multitel.png"
+small_url: "https://www.multitel.eu/"
 categories: [ "3D", "Image Analysis", "Network", "R&D", "Security", "Video" ]
-tags: [ "Assembly", "Blender", "C", "C++", "Codecs", "CVS", "DirectX", "FFmpeg", "GCC", "Gimp", "IPC", "Linux", "OGRE", "OpenGL", "Python", "Scripting", "Visual Studio", "Windows" ]
+tags: [ "C", "C++", "Python", "Assembly", "Scripting", "OGRE", "OpenGL", "FFmpeg", "Blender", "Codecs", "DirectX", "Gimp" ]
 images_copyright: "MULTITEL"
 images:
-- src: "asm.jpg"
-  title: "ASM Code Sample"
 - src: "dubai.jpg"
   title: "Redlight Crossing Dubai Model"
 - src: "kuwait.png"
@@ -15,8 +15,6 @@ images:
   title: "MORYNE Logo"
 - src: "parking.jpg"
   title: "Car Park Surveillance"
-- src: "python.jpg"
-  title: "PYTHON Sample Code"
 - src: "redlight.jpg"
   title: "MVision Redlight Crossing"
 - src: "road.jpg"
@@ -31,19 +29,23 @@ images:
   title: "TRIC-TRAC Football Sequence"
 resources:
 - src: "logos/1-multitel.jpg"
-  title: "MULTITEL"
+  title: "Multitel"
 - src: "logos/2-acic.jpg"
   title: "ACIC"
 ---
 
 <b>CLIENT:</b> Partly for clients and partly on internal projects, as a Multitel Research Engineer<br>
+<br>
 
-<b>DESCRIPTION</b><br>
+<h3>DESCRIPTION</h3>
 Additionally to the main projects, I was assigned several smaller tasks, providing assistance on different projects and in various fields.<br>
+<br>
 
-<b>ROLE</b><br>
-- 3D scenes modeling for algorithms testing and validation (for projects based in Kuwait and Dubai, related to fenced perimeter surveillance)<br>
-- Debugging and enhancement of an Ogre 3D mesh exporter script written in PYTHON<br>
-- Porting of in-house MultiVision software suite from Linux to Windows<br>
-- Re-writing of parts of image compression algorithms in ASM<br>
-- Design of the logo for the MORYNE European FP6 project<br>
+<h3>ROLE</h3>
+<ul>
+<li>3D scenes modeling for algorithms testing and validation, supporting projects focused on fenced perimeter surveillance in Kuwait and Dubai.</li>
+<li>Debugging and enhancement of an Ogre 3D mesh exporter script written in Python.</li>
+<li>Porting of the in-house MultiVision software suite from Linux to Windows.</li>
+<li>Rewriting of parts of the image compression algorithms in assembly language (ASM).</li>
+<li>Design of the the logo for the MORYNE project under the European FP6 program.</li>
+</ul>
