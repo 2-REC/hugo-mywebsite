@@ -1,8 +1,10 @@
 ---
 title: "ORES"
 subtitle: "Embedded top-up management system on XENTA and YOMANI payment terminals"
-categories: [ "Banking", "Consulting", "Data Exchange", "Embedded", "Network", "Security" ]
-tags: [ "Agile", "C", "CVS", "Eclipse", "GCC", "IPC", "Jenkins", "Linux", "Network Protocols", "Python", "Scripting", "Windows", "XML" ]
+small_image: "ores.png"
+small_url: "https://www.ores.be/"
+categories: [ "Banking", "Data Exchange", "Embedded", "Network", "Security" ]
+tags: [ "C", "Network Protocols", "Python", "Scripting" ]
 images:
 - src: "terminals.jpg"
   title: "YOMANI Terminals"
@@ -12,21 +14,23 @@ images:
   copyright: "ATOS WORLDLINE"
 resources:
 - src: "logos/1-atos-small.jpg"
-  title: "ATOS"
+  title: "Atos"
 - src: "logos/2-ores.jpg"
   title: "ORES"
 - src: "logos/3-banksys.jpg"
-  title: "BANKSYS"
+  title: "Banksys"
 - src: "logos/4-akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
 <b>CLIENT:</b> ATOS WORLDLINE, ORES and BANKSYS<br>
+<br>
 
-<b>DESCRIPTION:</b><br>
-Development of an embedded top-up management system on XENTA and YOMANI payment terminals aimed to the "Core Reload Management" that is part of the Prepaid Reload for Ores.<br>
-The "Core Reload Management" is used to enable customers of GRDs (Gestionnaire de réseau de distribution, distribution company) to pay money via different payment channels onto a prepaid account and load the money from that account to a smartcard.<br>
-The smartcard is used to enable a gas or electricity meter for the corresponding energy amount.<br>
+<h3>DESCRIPTION</h3>
+Development of an embedded top-up management system on XENTA and YOMANI payment terminals, as part of the "Core Reload Management" system within the Prepaid Reload solution for <a href="https://www.ores.be" target="_blank">ORES</a>.<br>
+The "Core Reload Management" system allows customers of GRDs (Distribution System Operators) to transfer funds via various payment channels into a prepaid account and then load those funds onto a smartcard.<br>
+The smartcard is subsequently used to activate a gas or electricity meter with the corresponding energy amount.<br>
+<br>
 
-<b>ROLE:</b><br>
-As a developer, I was mostly responsible for the telecommunications module, encoding and decoding messages exchanged between the terminals and secured servers.<br>
+<h3>ROLE</h3>
+As a developer, I was primarily responsible for the telecommunications module, handling the encoding and decoding of messages exchanged between the payment terminals and secured servers.<br>
