@@ -1,8 +1,9 @@
 ---
 title: "Drawing Comparison Tool - Feasibility Study"
 subtitle: "Feasibility Study Document for TME Drawing Comparison Tool"
-categories: [ "Automotive", "CAD", "Consulting", "Image Analysis", "Network", "Project Management", "R&D", "Web" ]
-tags: [ "Gimp", "MS Project", "Windows" ]
+small_image: "toyota.jpg"
+categories: [ "Automotive", "CAD", "Image Analysis", "Network", "Project Management", "R&D", "Web" ]
+tags: [ "Gimp" ]
 images:
 - src: "archi.png"
   title: "Logical Architecture"
@@ -14,24 +15,27 @@ images:
   title: "Pairing Method"
 - src: "pyramid.jpg"
   title: "Multi-level Tiling"
-- src: "sampling.jpg"
-  title: "Image Sub-sampling"
 - src: "segmentation.jpg"
   title: "Segmentation for Clustering"
 resources:
 - src: "logos/1-toyota.png"
-  title: "TOYOTA"
+  title: "Toyota"
 - src: "logos/2-akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
 <b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME)<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-Following the needs from TOYOTA MOTOR EUROPE for a drawing comparison tool, AKKA was in charge of producing a feasibility study document (jointly to developing a [Proof-Of-Concept application](/pro/akka/dct-poc)) in order to showcase its expertise.<br>
-This document is thus AKKA's technical response to TME request of the feasibility study. It proposes a strategy to deliver a solution fully covering the specified requirements and taking into account the technical challenge.<br>
-Following the offer and prototype development, AKKA was chosen by TME for the development of the [full scale project](/pro/tme/dct).<br>
+<h3>DESCRIPTION</h3>
+In response to TOYOTA MOTOR EUROPE’s need for a drawing comparison tool, AKKA was tasked with delivering a feasibility study (alongside a <a href="/pro/akka/dct-poc">proof-of-concept application</a>) to demonstrate its technical expertise.<br>
+<br>
+This document served as AKKA's official technical response to TME's request, outlining a strategy to meet all specified requirements while addressing the associated technical challenges.<br>
+<br>
+Following the successful presentation of the feasibility study and prototype, TME selected AKKA to develop the full-scale solution.<br>
+<br>
 
-<b>ROLE</b><br>
-As Functional Analyst, I was responsible for writing the Feasibility Study document.<br>
-By gathering and analysing the requirements, I had to do research and make decisions on the technical aspects and architecture of the system to develop, as well as setting up a realistic and acceptable development planning.<br>
+<h3>ROLE</h3>
+As Functional Analyst, I was responsible for authoring the Feasibility Study.<br>
+My role involved gathering and analyzing requirements, conducting technical research, and making key architectural and design decisions.<br>
+I also defined a realistic and achievable project plan to guide the implementation phase.<br>

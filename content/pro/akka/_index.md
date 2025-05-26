@@ -10,15 +10,20 @@ small_url: "https://www.akka-technologies.com/"
 posts_title: "PROJECTS"
 ---
 
-<b>JOB DESCRIPTION</b><br>
-Contribute on software development projects at clients in different industries, making sure the objectives are reached and fulfilling clients' requirements.<br>
-Between missions, provide help on internal IT projects and assist on coaching and training new recruits.<br>
+Akka Technologies has rebranded itself as <b><i>Akkodis</i></b>.
 
-<b>RESPONSIBILITIES</b><br>
-- IT Consultant on several missions at different clients<br>
-- Demonstration of AKKA's ability to develop powerful applications, winning projects at TME and INFRABEL<br>
-- Project management on image analysis tools<br>
-- Management of small development teams (up to 4 developers)<br>
-- Writing of the feasibility study document for TME's drawing comparison project<br>
-- Requirements specification and technical decisions for tools implementation<br>
-- Experimentations and demonstrations of concepts in continuous integration, embedded systems and image analysis<br>
+<h3>JOB DESCRIPTION</h3>
+Contributed to software development projects for clients across various industries, ensuring objectives were achieved and client requirements were met.<br>
+During inter-mission periods, supported internal IT initiatives and assisted in onboarding and mentoring new hires.<br>
+<br>
+
+<h3>RESPONSIBILITIES</h3>
+<ul>
+<li>IT Consultant on multiple client assignments</li>
+<li>Showcase of AKKA’s technical capabilities through successful project wins at TME and INFRABEL</li>
+<li>Project management on image analysis tools development</li>
+<li>Management of small development teams of up to four developers</li>
+<li>Redaction of the feasibility study for TME's drawing comparison project</li>
+<li>Requirements specification and technical decisions making for tools implementation</li>
+<li>Experimentations and demonstrations of concepts in continuous integration, embedded systems and image analysis</li>
+</ul>
