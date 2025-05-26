@@ -1,6 +1,3 @@
-var services_background = document.getElementById("services_background");
-var services_foreground = document.getElementById("services_foreground");
-var nav_height = document.querySelector(".navbar-header").offsetHeight;
 
 function updateButtonLink() {
     if (particles_container.clientWidth < 768) {
@@ -30,6 +27,12 @@ window.addEventListener('load', (e) => {
 window.addEventListener('resize', (e) => {
     updateButtonLink();
 });
+
+
+const particles_container = document.getElementById('particles_container');
+const services_background = document.getElementById("services_background");
+const services_foreground = document.getElementById("services_foreground");
+const nav_height = document.querySelector(".navbar-header").offsetHeight;
 
 const home_button = document.getElementById("home_button");
 const nav_services = document.getElementById("nav_services_foreground");
