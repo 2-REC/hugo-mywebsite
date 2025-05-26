@@ -1,47 +1,51 @@
 ---
 title: "Drawing Comparison Tool"
 subtitle: "Automated Comparison Tool between 2 drawing revisions"
-categories: [ "Automotive", "CAD", "Consulting", "Image Analysis", "Network", "Project Management", "R&D", "Team Management", "Web" ]
-tags: [ "Agile", "CSS", "DB", "Git", "HTML", "IPC", "JavaScript", "Jira", "Linux", "MS Project", "Node.js", "OpenCV", "Scrum", "Sonar", "Visual Studio", "Windows", "XML" ]
+categories: [ "Automotive", "CAD", "Image Analysis", "Network", "Project Management", "R&D", "Team Management", "Web" ]
+tags: [ "CSS", "DB", "HTML", "JavaScript", "OpenCV" ]
 images_copyright: "TOYOTA MOTOR EUROPE"
-images:
-- src: "clustering.jpg"
-  title: "Clustering Process"
-- src: "clustering2.jpg"
-  title: "Clustering Result"
-- src: "compare.jpg"
-  title: "Comparison Process - Differences Highlight"
-- src: "ui.jpg"
-  title: "UI Main Components"
 resources:
 - src: "logos/1-toyota.png"
-  title: "TOYOTA"
+  title: "Toyota"
 - src: "logos/2-akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
-<b>CLIENT:</b> TOYOTA MOTOR EUROPE (TME)<br>
-
-<b>DESCRIPTION</b><br>
-Triggered by a business need, in the context of Toyota R&D, engineers at TME (Toyota Motor Europe) or suppliers make drawings. In most cases, those drawings are changes from other drawings. Prior to official release, those drawings must be reviewed, validated and approved by the Toyota Engineer, Manager, Senior Manager and General Manager.<br>
-This reviewing process consists in ensuring that all intended changes instructed in the ECI (engineering change instructions) are reflected in the drawing and that no unintended changes have been made.<br>
-Engineers face the challenge that those drawings are big and each instruction must be confirmed (line, shape, dimension, text). This leads to the following issues:<br>
-- Checking of a drawing takes a long time<br>
-- The engineer can easily miss a change during the comparison, leading to risks to quality<br>
-- Management cannot confirm if the job was done correctly without checking themselves<br>
-- When a mistake is noticed and the drawing is modified, the whole validation process must be done again<br>
+<b>CLIENT:</b> TOYOTA MOTOR EUROPE<br>
 <br>
+
+<h3>DESCRIPTION</h3>
+Triggered by a business need within Toyota R&D, engineers at Toyota Motor Europe (TME) or their suppliers create drawings, often based on revisions of existing designs. Before these drawings are officially released, they must undergo a thorough review, validation, and approval process involving the Toyota Engineer, Manager, Senior Manager, and General Manager.<br>
+The review process ensures that all changes outlined in the Engineering Change Instructions (ECI) are correctly reflected in the drawing, and that no unintended modifications have been made.<br>
+<br>
+Engineers face several challenges due to the size of the drawings, with each instruction (line, shape, dimension, text) needing to be individually verified.<br>
+<br>
+
+This results in the following issues:<br>
+<ul>
+<li>Drawing reviews are time-consuming</li>
+<li>Engineers can easily overlook changes during the comparison, increasing the risk of quality issues</li>
+<li>Management cannot confirm the accuracy of the work without performing the review themselves</li>
+<li>If a mistake is identified and the drawing is modified, the entire validation process must be restarted</li>
+</ul>
+<br>
+
 The purpose of the drawing comparison system is to:<br>
-- Assist the engineer in comparing two revisions of a drawing<br>
-    - The system will highlight the differences<br>
-    - The engineer will judge them<br>
-    - The engineer will also judge if the drawing comparison software has made the correct assumptions<br>
-- Allow the engineer communicate the results of his comparison with his management for approval<br>
-- Allow the engineer communicate the results of his comparison with his supplier for feedback in case of rejection<br>
+<ul>
+<li>Assist engineers in comparing two revisions of a drawing</li>
+    <ul>
+    <li>Automatically highlight differences between revisions</li>
+    <li>Enable the engineer to assess these differences and validate the system’s assumptions</li>
+    </ul>
+<li>Allow the engineer to communicate the results of the comparison with management for approval</li>
+<li>Enable the engineer to share the comparison results with suppliers for feedback in case of rejection</li>
+</ul>
 <br>
-AKKA was assigned the full realisation of the project thanks to the Feasibility Study document and the proof of concept tool provided to TME.<br>
 
-<b>ROLE</b><br>
-As Technical Leader, I was responsible for analysing and determining the appropriate technologies and implementation choices, and to validate them with the business and management (following the Technical Offer that had been made to the client with the [Feasibility Study](/pro/akka/dct-feasibility)).<br>
-I was also responsible for managing the development team (composed of 4 developers) and making sure the requirements and planning were respected, as well as being the point of interaction between the technical team, the management and the client.<br>
-Additionally to supervising the development, I also worked on some of the UI aspects of the front-end, mostly on the viewport related code.<br>
+AKKA was selected to implement the full project based on the <a href="/pro/akka/dct-feasibility">Feasibility Study</a> document and the <a href="/pro/akka/dct-poc">proof-of-concept tool</a> provided to TME.<br>
+<br>
+
+<h3>ROLE</h3>
+As the Technical Leader, I was responsible for analyzing the requirements and selecting the appropriate technologies and implementation approaches, which I then validated with the business and management teams (following the technical offer and Feasibility Study provided to the client).<br>
+I also managed a development team of four developers, ensuring that requirements were met, timelines were followed, and communication flowed effectively between the technical team, management, and the client.<br>
+In addition to overseeing the development, I contributed to some of the front-end UI work, particularly focusing on the viewport-related code.<br>

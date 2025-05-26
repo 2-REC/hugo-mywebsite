@@ -10,13 +10,17 @@ small_url: "https://www.toyota-europe.com"
 posts_title: "PROJECTS"
 ---
 
-<b>JOB DESCRIPTION</b><br>
-Following the successful realisation of the [proof of concept prototype](/pro/akka/dct-poc) and the offer providing the [feasibility study](/pro/akka/dct-feasibility), AKKA was chosen by TME for the full realistion of the Drawing Comparison Tool project.<br>
-A team of 4 developers were assigned to the project, working remotely from AKKA's offices, with daily SCRUM phone meetings and weekly technical meeting at TME's offices.<br>
+<h3>JOB DESCRIPTION</h3>
+After the successful completion of the <a href="/pro/akka/dct-poc">proof-of-concept tool</a> and the <a href="/pro/akka/dct-feasibility">Feasibility Study</a> proposal, TME selected AKKA for the full implementation of the Drawing Comparison Tool project.<br>
+<br>
+A team of four developers was assigned to the project, working remotely from AKKA’s offices. The team participated in daily SCRUM meetings via phone and weekly technical meetings at TME’s offices.<br>
+<br>
 
-<b>RESPONSIBILITIES</b><br>
-- Technical Leader on the "Drawing Comparison Tool" project<br>
-- Requirements analysis and technical choices on implementation<br>
-- Management of a team of 4 developers<br>
-- Interaction point between the management and the client<br>
-- Development of front-end components of the tool<br>
+<h3>RESPONSIBILITIES</h3>
+<ul>
+<li>Technical Leader on the "Drawing Comparison Tool" project</li>
+<li>Requirements analysis and technical choices on implementation</li>
+<li>Management of a team of 4 developers</li>
+<li>Interaction point between the management and the client</li>
+<li>Development of front-end components of the tool</li>
+</ul>
