@@ -11,14 +11,20 @@ small_url: "https://www.agc-automotive.com"
 posts_title: "PROJECTS"
 ---
 
-<b>JOB DESCRIPTION</b><br>
-- In the context of updating AGC's EDI systems with its suppliers:<br>
-    - Based on business requirements and guidelines, write functional analysis in collaboration with the internal development teams<br>
-    - Be the point of interaction between the business and technical teams<br>
-- Maintain existing EDI communications with clients<br>
+<h3>JOB DESCRIPTION</h3>
+As part of AGC's initiative to modernize EDI systems with its suppliers:
+<ul>
+<li>Collaborate with internal development teams to produce functional analysis documents based on business requirements and corporate guidelines</li>
+<li>Act as the liaison between business stakeholders and technical teams to ensure clear communication and alignment</li>
+</ul>
+<br>
+In addition, I was responsible for maintaining existing EDI integrations with clients.<br>
+<br>
 
-<b>RESPONSIBILITIES</b><br>
-- Project Manager on "EDI with Suppliers" to establish first EDI communications between AGC and its suppliers<br>
-- Coordination between development teams in Belgium, Spain and Brazil, and suppliers in UK, Italy and Poland to establish EDI communications with suppliers<br>
-- Requirements gathering and analysis from business partners<br>
-- Maintain existing EDI communications with clients<br>
+<h3>RESPONSIBILITIES</h3>
+<ul>
+<li>Served as Project Manager for the "EDI with Suppliers" initiative, facilitating the first EDI connections between AGC and its suppliers</li>
+<li>Coordinated cross-functional teams across Belgium, Spain, and Brazil, and managed communication with supplier partners in the UK, Italy, and Poland</li>
+<li>Led the collection and analysis of requirements from business partners</li>
+<li>Oversaw ongoing maintenance of established EDI channels with clients</li>
+</ul>

@@ -1,26 +1,32 @@
 ---
 title: "Dacia Label Change"
 subtitle: "Update to Dacia Delivery label"
-categories: [ "Automotive", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Team Management" ]
-tags: [ "DB", "EDI", "MS Project", "SAP", "Scripting", "Windows" ]
+small_image: "dacia.jpg"
+categories: [ "Automotive", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Team Management" ]
+tags: [ "DB", "EDI", "SAP", "Scripting" ]
 images:
 - src: "dacia-label.jpg"
   title: "Dacia label"
+  copyright: "RENAULT"
 resources:
 - src: "logos/1-agc-small.png"
   title: "AGC"
 - src: "logos/2-dacia.jpg"
-  title: "DACIA"
+  title: "Dacia"
 - src: "logos/3-sintel.jpg"
-  title: "SINTEL"
+  title: "Sintel"
 - src: "logos/4-akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
 <b>CLIENT:</b> DACIA via AGC AUTOMOTIVE<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-Following a change to the layout of the labels used at Dacia, consisting mostly in the addition of a QR code, the existing process used at AGC needs to be updated according to the new requirements.<br>
+<h3>DESCRIPTION</h3>
+Following a layout change to Dacia's labels, primarily the addition of a QR code, AGC's existing process required updates to meet the new specifications.<br>
+<br>
 
-<b>ROLE</b><br>
-As a Functional Analyst, I was responsible for analysing the changes in the new label and evaluate the impacts on the current process. Once the analyse approved, I was responsible for supervising the development and validate the changes with the client.
+<h3>ROLE</h3>
+As Functional Analyst, I was responsible for analyzing the label changes and assessing their impact on current processes.<br>
+<br>
+Once the analysis was approved, I oversaw the implementation, coordinated with the development team, and validated the updates with the client to ensure alignment with requirements.<br>
