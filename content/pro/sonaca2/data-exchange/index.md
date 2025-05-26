@@ -1,34 +1,33 @@
 ---
 title: "Data Exchange Tools"
 subtitle: "Data Exchange Maintenane & Updates"
-categories: [ "3D", "Aerospace", "CAD", "Consulting", "Data Exchange", "Network", "Supply Chain", "Support" ]
-tags: [ "Agile", "C++", "CAA RADE", "CATIA V5", "CVS", "DB", "Omnitracker", "SAP", "SQL", "Scripting", "UNIX", "VPM", "Visual Studio", "Windows", "XML" ]
+small_image: "arrows.jpg"
+categories: [ "3D", "Aerospace", "CAD", "Data Exchange", "Network", "Supply Chain", "Support" ]
+tags: [ "C++", "CAA RADE", "CATIA V5", "DB", "SAP", "SQL", "Scripting", "VPM" ]
 images_copyright: "DASSAULT SYSTEMES"
-images:
-- src: "enovia.jpg"
-  title: "ENOVIA VPM Splash Screen"
-- src: "smarteam.jpg"
-  title: "ENOVIA SmarTeam UI"
 resources:
 - src: "logos/1-sonaca-small.jpg"
-  title: "SONACA"
+  title: "Sonaca"
 - src: "logos/2-airbus.png"
-  title: "AIRBUS"
+  title: "Airbus"
 - src: "logos/3-bombardier.jpg"
-  title: "BOMBARDIER"
+  title: "Bombardier"
 - src: "logos/4-embraer.jpg"
-  title: "EMBRAER"
+  title: "Embraer"
 - src: "logos/5-dassault.jpg"
-  title: "DASSAULT"
+  title: "Dassault"
 - src: "logos/6-akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
 <b>CLIENT:</b> SONACA<br>
+<br>
 
-<b>DESCRIPTION</b><br>
+<h3>DESCRIPTION</h3>
 In order to deliver the designed parts to the customers, a set of tools and scripts were developed. Their purpose was to automate and validate the data exchange processes, making sure everything was transferred flawlessly while being transparent to the users.<br>
+<br>
 
-<b>ROLE</b><br>
+<h3>ROLE</h3>
 As a CAD Tools Developer, I was responsible for maintaining and debugging the tools, making sure the exchange processes were working correctly following changes on the customers side or after a system update.<br>
-Additionally, with a colleague (VPM specialist), we had to develop data conversion tools allowing files to be exchanged between customers using different PLM systems, such as Dassault Systemes ENOVIA or Siemens Teamcenter.<br>
+<br>
+Additionally, with a VPM specialized co-worker, we developed data conversion tools allowing files to be exchanged between customers using different PLM systems, such as Dassault Systemes ENOVIA, Siemens Teamcenter and SAP PLM.<br>
