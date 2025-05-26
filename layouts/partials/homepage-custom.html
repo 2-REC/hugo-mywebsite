@@ -2,8 +2,6 @@
         style="--home-overlay-bkg-image: url('{{ "images/tunnel.png" | absURL }}');"
     >
     <link rel="stylesheet" href="css/homepage-custom.css">
-    <script src="{{ "js/homepage-custom.js" | relURL }}"></script>
-
     <div id="particles_container">
         <canvas id="particles_canvas">This browser doesn't support HTML5 canvas!</canvas>
         <div id="particles_counter"></div>
@@ -109,6 +107,7 @@
             </section>
         {{ end }}
     </div>
+    <script src="{{ "js/homepage-custom.js" | relURL }}"></script>
     <script src="{{ "js/particles.js" | relURL }}"></script>
     <link rel="stylesheet" href="css/particles.css">
 </div>

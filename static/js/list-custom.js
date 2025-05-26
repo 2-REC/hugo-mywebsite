@@ -7,11 +7,11 @@ function updateServivesLink() {
     }
 }
 
-window.addEventListener('load', (e) => {
+window.addEventListener("load", (e) => {
     updateServivesLink();
 });
 
-window.addEventListener('resize', (e) => {
+window.addEventListener("resize", (e) => {
     updateServivesLink();
 });
 
