@@ -14,7 +14,7 @@ sections_order: "weight"
 showsections: false
 ---
 
-<img src="/pro/badclay/aioi_logo_anim.gif" style="background-color: black;" width="192px" height="108px" alt="" title="AIOI">
+<img src="pro/badclay/aioi_logo_anim.gif" style="background-color: black;" width="192px" height="108px" alt="" title="AIOI">
 <br>
 <br>
 In 2022, <a href="https://www.bad-clay.com/" target="_blank">Bad Clay Studio</a> co-founded <a href="https://aioi.io/" target="_blank">AIOI Studios</a>.<br>

@@ -11,7 +11,7 @@ posts_title: "PROJECTS"
 ---
 
 <h3>JOB DESCRIPTION</h3>
-Following the development of a [proof of concept prototype](/pro/akka/infrabel-extractor) extracting signal symbols from railway maps, a co-worker and I were selected to join the AKKA team on site at INFRABEL to be part of the development team on the IFAST project.<br>
+Following the development of a <a href="pro/akka/infrabel-extractor">proof of concept prototype</a> extracting signal symbols from railway maps, a co-worker and I were selected to join the AKKA team on site at INFRABEL to be part of the development team on the IFAST project.<br>
 <br>
 The mission covered the duration of the project, from its requirements analysis to its successful realisation and validation for production use.<br>
 <br>

@@ -8,7 +8,7 @@ weight: 5
 ---
 
 <h3>DESCRIPTION</h3>
-In addition to the <a href="/pro/badclay/maya_tools">Advanced Maya Tools</a>, a suite of command-line utilities was developed to support a wide range of production needs.<br>
+In addition to the <a href="pro/badclay/maya_tools">Advanced Maya Tools</a>, a suite of command-line utilities was developed to support a wide range of production needs.<br>
 These tools focused on exporting, converting, cleaning, and archiving asset and shot data across various DCCs.<br>
 <br>
 
@@ -63,7 +63,7 @@ Export tyFlow simulation caches in 3ds Max. Updates references (camera and asset
 Synchronize files between server and local workstation in both directions, based on defined rules.</li>
 </ul>
 <br>
-Many of these utilities were integrated into <a href="/pro/badclay/mangrove">Mangrove workflows</a>.<br>
+Many of these utilities were integrated into <a href="pro/badclay/mangrove">Mangrove workflows</a>.<br>
 <br>
 
 <h3>ROLE</h3>

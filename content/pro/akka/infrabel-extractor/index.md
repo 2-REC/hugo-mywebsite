@@ -31,7 +31,7 @@ Modeling the infrastructure relies on railway maps, specifically PSS maps ("Plan
 To address this, AKKA proposed a system to automate information extraction from PSS maps and integrate it into existing validation tools.<br>
 A proof-of-concept was developed using image analysis to automatically detect 2D symbols in the scanned maps and highlight them for user review.<br>
 <br>
-Following the successful development and demonstration of this prototype, our team was selected to contribute to the larger scale <a href="/pro/infrabel/ifast">IFAST project</a> at INFRABEL.<br>
+Following the successful development and demonstration of this prototype, our team was selected to contribute to the larger scale <a href="pro/infrabel/ifast">IFAST project</a> at INFRABEL.<br>
 <br>
 
 <h3>ROLE</h3>

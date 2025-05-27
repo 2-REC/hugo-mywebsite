@@ -52,7 +52,7 @@ Moreover, the Mangrove project appears to have been discontinued, though it rema
 My main tasks related to Mangrove included:
 <ul>
 <li>Evaluating and testing the framework to understand its capabilities and potential use cases.</li>
-<li>Integrating Mangrove into our <a href="/pro/badclay/bcs_tools">pipeline</a>, enabling seamless interoperability with and accessibility from our internal tools.</li>
+<li>Integrating Mangrove into our <a href="pro/badclay/bcs_tools">pipeline</a>, enabling seamless interoperability with and accessibility from our internal tools.</li>
 <li>Extending the framework to support more flexible and granular graph execution.</li>
 <li>Improving stability by fixing bugs and adding missing features, as it was still under active development.</li>
 <li>Designing and implementing workflow graphs using both in-house and third-party tools.</li>
@@ -66,4 +66,4 @@ The main graph I developed was the animation workflow, which given a list of sho
 <li>Generate playblasts</li>
 </ul>
 
-Custom <a href="/pro/badclay/maya_tools">tools</a> and <a href="/pro/badclay/utilities">utilities</a> were developed specifically to perform these steps efficiently.<br>
+Custom <a href="pro/badclay/maya_tools">tools</a> and <a href="pro/badclay/utilities">utilities</a> were developed specifically to perform these steps efficiently.<br>
