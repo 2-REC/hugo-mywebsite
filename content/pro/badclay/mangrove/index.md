@@ -43,7 +43,7 @@ Mangrove was integrated into our pipeline, allowing it to interface directly wit
 New tools were also specifically developed to be used within Mangrove, mostly for the animation workflow.<br>
 Additionally, thanks to the integration, Mangrove could be executed either from a global network installation or locally, offering both flexibility and improved performance when needed.<br>
 <br>
-Despite these efforts, over time we found that Mangrove did not fully meet our expectations. We then began <a href="/pro/badclay/rnd">exploring alternative solutions</a>.<br>
+Despite these efforts, over time we found that Mangrove did not fully meet our expectations. We then began <a href="pro/badclay/rnd">exploring alternative solutions</a>.<br>
 <br>
 Moreover, the Mangrove project appears to have been discontinued, though it remains accessible as a <a href="https://gitlab.com/RamTheRam/mangrove" target="_blank">GitLab repository</a>.<br>
 <br>
