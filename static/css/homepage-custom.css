@@ -1,0 +1,119 @@
+/* HOME */
+
+#home {
+    text-shadow: 1px 1px 3px white,
+                 -1px -1px 3px white,
+                 -1px 1px 3px white,
+                 1px -1px 3px white;
+}
+
+/* SERVICES */
+
+#services {
+    /* hidden in 'normal' view */
+    display: none;
+}
+
+#services_foreground {
+    padding-top: 0;
+    position: relative;
+}
+#services_foreground_button {
+    position: absolute;
+    bottom: 2%;
+    right: 1%;
+
+    /* force events, as parents can get it set to 'none' */
+    pointer-events: auto;
+}
+
+/* copy of 'services' section */
+#services_custom {
+    /* defined here as originals are defined in '#services' (could be moved to ':root') */
+    --services-bkg-color: var(--GENERAL-COLOR-2);
+
+    --services-title-color: var(--GENERAL-FONT-COLOR-1);
+    --services-title-bar-color: var(--GENERAL-COLOR-1);
+
+    --services-container-color: transparent;
+    --services-container-border-radius: 0;
+    --services-container-shadow: 0;
+
+    --services-box-color: var(--GENERAL-COLOR-2);
+    --services-box-border-radius: 0;
+    --services-box-shadow: 0;
+    --services-box-height: 20em;
+
+    --services-icon-color: var(--GENERAL-COLOR-1);
+    /* TODO: add other variables? */
+
+    position:absolute;
+    top:0;
+    width:100%;
+    pointer-events: none;
+ 
+    background-image: var(--services-bkg-image,);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+    /* TODO: add a 'services' specific color variable */
+    color: var(--GENERAL-FONT-COLOR-1);
+    background-color: transparent;
+}
+#services .section-heading,
+#services_custom .section-heading {
+    color: black;
+    text-shadow: 1px 1px 3px white,
+                 -1px -1px 3px white,
+                 -1px 1px 3px white,
+                 1px -1px 3px white;
+}
+#services_custom .section-hr {
+    border-color: var(--services-title-bar-color);
+}
+
+#services_custom .service-box {
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+#services_background {
+    position: absolute;
+    top: 0;
+    padding: 0;
+    width: 100%;
+    height: calc(200vh - var(--NAVBAR-HEIGHT));
+    z-index: -1;
+
+    background-image: var(--home-overlay-bkg-image,);
+    background-attachment: fixed;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+
+    /* NOTE: "100%" width else will "glitch" when changing "background-attachment".
+	         This requires that the image has always enough height.
+     */
+    background-size: 100% auto;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+}
+
+@media(max-width: 768px) {
+    #particles_container {
+        display: none;
+    }
+    #services_foreground {
+        display: none;
+        height: 0;
+    }
+    #services_background {
+        display: none;
+        height: 0;
+    }
+    #services {
+        display: block;
+    }
+}

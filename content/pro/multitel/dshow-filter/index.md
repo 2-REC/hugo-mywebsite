@@ -1,11 +1,10 @@
 ---
 title: "MvPeopleCounting"
 subtitle: "DirectShow Filter To Count People"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+small_image: "logos/1-quadrox.png"
+small_url: "https://quadrox.com/"
 categories: [ "Embedded", "Image Analysis", "Security", "Video" ]
-tags: [ "Assembly", "C", "C++", "Codecs", "CVS", "DirectX", "FFmpeg", "GCC", "IPC", "Linux", "Scripting", "Visual Studio", "Windows" ]
+tags: [ "Assembly", "C", "C++", "Codecs", "DirectX", "FFmpeg", "Scripting" ]
 images_copyright: "MULTITEL"
 images:
 - src: "config.png"
@@ -15,23 +14,30 @@ images:
 - src: "graphedit.jpg"
   title: "Filter's GraphEdit View"
 resources:
-- src: "logos/1-quadrox.jpeg"
-  title: "QUADROX"
+- src: "logos/1-quadrox.png"
+  title: "Quadrox"
 - src: "logos/2-multitel.jpg"
-  title: "MULTITEL"
+  title: "Multitel"
 ---
 
 <b>CLIENT:</b> Quadrox, as a Multitel Research Engineer<br>
+<br>
 
-<b>DESCRIPTION</b><br>
+<h3>DESCRIPTION</h3>
 Development of a DirectShow filter aimed at counting people crossing a defined area, using the in-house developed image analysis module MvPeopleCounting, part of the MultiVision framework.<br>
 The filter analyses a video feed, and detects crossings along a direction (positive or negative depending on the facing direction).<br>
 Processing parameters can be configured by the user through an administration interface, alowing to fine tune the detection accordingly to the situation.<br>
 The filter is then to be integrated in a surveillance system manufactured by Quadrox.<br>
+<br>
 
-<b>ROLE</b><br>
-As a Software Developer, I was responsible for the development and integration of the video surveillance DirectShow filter.<br>
-The people counting module, and part of the MultiVision framework had first to be ported from Linux to Windows.<br>
-The filter then had to be developed, and integrated in the Quadrox infrastructure.<br>
-A security module (authentication and encription) also had to be integrated to the system to ensure high security.<br>
-Tests had to be done to validate the system for production.<br>
+<h3>ROLE</h3>
+As a Software Developer, responsible for the development and integration of the video surveillance DirectShow filter.<br>
+
+The main steps of the project consisted in:<br>
+<ul>
+<li>Port the people counting module and part of the MultiVision framework from Linux to Windows</li>
+<li>Develop a DirectShow filter around the module</li>
+<li>Integrate the filter in the Quadrox infrastructure</li>
+<li>Integrate a security module (authentication and encryption) to the system to ensure high security</li>
+<li>Test and validate the system for production</li>
+</ul>

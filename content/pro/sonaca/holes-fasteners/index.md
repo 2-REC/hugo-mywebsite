@@ -5,38 +5,37 @@ image: "slats.jpg"
 image_copyright: "SONACA"
 small_image: "catia.jpg"
 categories: [ "3D", "Aerospace", "CAD", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Web" ]
-tags: [ "Agile", "C++", "CAA RADE", "CATIA V5", "CSS", "CVS", "DB", "HTML", "Omnitracker", "SAP", "SQL", "Scripting", "UNIX", "VPM", "Visual Studio", "Windows", "XML" ]
+tags: [ "C++", "CAA RADE", "CATIA V5", "CSS", "DB", "HTML", "SAP", "SQL", "Scripting", "VPM" ]
 images_copyright: "SONACA"
 images:
 - src: "fast.jpg"
   title: "Holes & Fasteners - Dialog Box"
 - src: "fast2.jpg"
   title: "Holes & Fasteners - Result"
-- src: "IMG_FST_BOLT.bmp"
-  title: "Fastener Diagram"
 - src: "slats.jpg"
   title: "3D Result Model"
 - src: "z-adv_composite_4.jpg"
   title: "Slat"
 resources:
-resources:
 - src: "logos/1-sonaca-small.jpg"
-  title: "SONACA"
+  title: "Sonaca"
 - src: "logos/2-airbus.png"
-  title: "AIRBUS"
+  title: "Airbus"
 - src: "logos/3-bombardier.jpg"
-  title: "BOMBARDIER"
+  title: "Bombardier"
 - src: "logos/4-embraer.jpg"
-  title: "EMBRAER"
+  title: "Embraer"
 - src: "logos/5-dassault.jpg"
-  title: "DASSAULT"
+  title: "Dassault"
 ---
 
 <b>CLIENT:</b> SONACA and customers, as external consultant<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-Manually modelling and placing holes and fasteners on 3D models of airplane wings is a fastidious and time consuming task.<br>
+<h3>DESCRIPTION</h3>
+Manually modelling and placing holes and fasteners on 3D models of airplane wings is a tedious task.<br>
 To facilitate and speed up the process, while also providing checks and validation, a set of tools was requested to be developed and integrated in CATIA V5 as a new module.<br>
+<br>
 
-<b>ROLE</b><br>
+<h3>ROLE</h3>
 As a CAD Tools Developer, I was responsible for the full development and testing of the different tools, the design of their GUI and their integration in CATIA V5.<br>

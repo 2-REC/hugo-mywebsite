@@ -1,0 +1,55 @@
+#particles_container {
+    width: 100%;
+    height: calc(100vh - var(--NAVBAR-HEIGHT));
+    overflow: hidden;
+}
+
+.sticky {
+    position: fixed;
+    top: var(--NAVBAR-HEIGHT);
+}
+.floaty {
+    position: absolute;
+    top: 100vh;
+}
+
+@font-face {
+    font-family: "E1234";
+    src: url("/fonts/E1234-Italic.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+#particles_counter {
+    position: absolute;
+    /* When changing this, also need to adapt in JS 'updateCursor' (particles.js) */
+    /* 'px' better than '%', as don't want resize */
+    bottom: 85px;
+    left: 6.2%;
+
+    -webkit-transform: translate(-50%,0);
+    -ms-transform: translate(-50%,0);
+    transform: translate(-50%,0);
+
+    color: var(--GENERAL-FONT-COLOR-2);
+
+    font-family: "E1234";
+}
+
+#particles_button {
+    position: absolute;
+    bottom: 45px;
+    left: 5.1%;
+
+    -webkit-transform: translate(-50%,0);
+    -ms-transform: translate(-50%,0);
+    transform: translate(-50%,0);
+
+    background-color: transparent;
+    border: 0;
+}
+
+#particles_controller {
+    /* element drawn in canvas through JS */
+    display: none;
+}

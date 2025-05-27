@@ -14,6 +14,6 @@ posts_title: "<POSTS_TYPE>"
 #weight: <INT>                   #if want to sort entries on "weight" (need to set "posts_order" to "weight")
 ---
 
-?
-<b>DESCRIPTION</b><br>
-...<br>
+<h3>DESCRIPTION</h3>
+...
+<br>

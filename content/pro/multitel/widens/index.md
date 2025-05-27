@@ -3,7 +3,7 @@ title: "FP6 - WIDENS"
 subtitle: "Wireless Deployable Network System"
 small_image: "widens.jpg"
 categories: [ "Data Exchange", "Embedded", "Medical", "Network", "R&D", "Security", "Video" ]
-tags: [ "C", "C++", "Codecs", "FFmpeg", "Gimp", "Linux", "Network Protocols", "Windows" ]
+tags: [ "C", "C++", "FFmpeg", "Codecs", "Gimp", "Network Protocols" ]
 images_copyright: "MULTITEL"
 images:
 - src: "widens_1.jpg"
@@ -20,22 +20,27 @@ resources:
 - src: "logos/3-ist.png"
   title: "Information Society Technologies"
 - src: "logos/4-thales.png"
-  title: "THALES"
+  title: "Thales"
 - src: "logos/5-multitel.jpg"
-  title: "MULTITEL"
+  title: "Multitel"
 ---
 
 <b>CLIENT:</b> European Commission, as a Multitel Research Engineer<br>
+<br>
 
-<b>DESCRIPTION:</b><br>
+<h3>DESCRIPTION</h3>
 Project initiated in the context of the European FP6 Program.<br>
-From the official description:<br>
+<br>
+
+<i>
 "The purpose of WIDENS is to design, prototype and validate a vertically integrated rapidly deployable and scalable communication system for future public safety, emergency and disaster applications. The project focuses on designing a single hot spot, which can be easily deployed, optimised for high bitrate throughput (over 2Mbit/s) and interoperable with existing core networks and present private mobile radio systems. The system concept is based on ad hoc network technologies, and the technological approach focuses on adaptations of existing technologies for the purposes of meeting the public safety requirements.<br>
 <br>
 The target terminal nodes will include both physical, link and network routing layers, and will feature asynchronous and synchronous high bitrates, direct mode group communications, strong authentication and confidentiality and quality of service. The project will support the strong on-going European involvement in the joint ETSI/TIA standardisation initiative MESA (Mobile Broadband for Emergency and Safety Applications). The design and prototype developments will be contributed to the MESA standardisation process and will shape the future of private mobile communication systems."<br>
+</i>
 <br>
 <a href="https://cordis.europa.eu/project/rcn/71394_en.html" target="_blank">Link to project</a><br>
+
 <br>
-<b>ROLE:</b><br>
-As a Research Engineer, I was responsible for setting up an easily deployable wireless video streaming system, finding the most appropriate existing tools (and eventually modify them), configuring and testing them.<br>
-Reusing tools developed in parallel for the [WCAM](/pro/multitel/wcam) project, I was able to demonstrate a simple and scalable solution using VLC and BetaPlayer ([TCPMP](https://en.wikipedia.org/wiki/The_Core_Pocket_Media_Player)) on a PDA.<br>
+<h3>ROLE</h3>
+As a Research Engineer, I was responsible for setting up an easily deployable wireless video streaming system by identifying, configuring, testing, and, if necessary, modifying the most suitable existing tools.<br>
+By reusing components developed in parallel for the <a href="/pro/multitel/wcam" target="_blank">WCAM project</a>, I was able to demonstrate a simple and scalable solution using VLC and BetaPlayer (<a href="https://en.wikipedia.org/wiki/The_Core_Pocket_Media_Player" target="_blank">TCPMP</a>) on a PDA.<br>

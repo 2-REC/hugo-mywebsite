@@ -1,28 +1,32 @@
 ---
 title: "Control Save"
 subtitle: "Automated Validation Save Command"
-categories: [ "3D", "Aerospace", "CAD", "Consulting", "Network", "Supply Chain", "Support" ]
-tags: [ "C++", "CAA RADE", "CATIA V5", "CVS", "DB", "Omnitracker", "SAP", "SQL", "UNIX", "VPM", "Visual Studio", "Windows" ]
+small_image: "catia.jpg"
+categories: [ "3D", "Aerospace", "CAD", "Network", "Supply Chain", "Support" ]
+tags: [ "C++", "CAA RADE", "CATIA V5", "DB", "SAP", "SQL", "VPM" ]
 resources:
 - src: "logos/1-sonaca-small.jpg"
-  title: "SONACA"
+  title: "Sonaca"
 - src: "logos/2-airbus.png"
-  title: "AIRBUS"
+  title: "Airbus"
 - src: "logos/3-bombardier.jpg"
-  title: "BOMBARDIER"
+  title: "Bombardier"
 - src: "logos/4-embraer.jpg"
-  title: "EMBRAER"
+  title: "Embraer"
 - src: "logos/5-dassault.jpg"
-  title: "DASSAULT"
+  title: "Dassault"
 - src: "logos/6-akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
-<b>CLIENT:</b> SONACA, as AKKA consultant<br>
+<b>CLIENT:</b> SONACA<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-Parts manufactured by SONACA require to follow specific validation processes and to satisfy many security constraints. Every step of the manufacturing process, including the design, must thus satisfy a series of tests to be validated.<br>
-In order to facilitate the designers? work, as well as providing a higher level of security, the Control Save process was requested. Its purpose is to execute a series of checks on the designed parts every time the designers and engineers save their work. If some elements do not pass all the tests, the user is requested to fix the issues until everything can be validated.<br>
+<h3>DESCRIPTION</h3>
+Parts manufactured by SONACA must adhere to strict validation processes and comply with numerous security constraints. Every stage of the manufacturing process, including the design phase, must pass a series of tests to be validated.<br>
+<br>
+To support designers and enhance security, the "Control Save" process was introduced. Its purpose is to automatically perform a series of checks on designed parts every time users save their work. If any element fails validation, users are prompted to correct the issue before they can proceed saving.<br>
+<br>
 
-<b>ROLE</b><br>
-As a CAD Tools Developer, I was responsible for the full development of the command, from gathering the required information from the different departments and users regarding the constraints and validation rules, to the integration and validation in the production tool chain.<br>
+<h3>ROLE</h3>
+As a CAD Tools Developer, I was responsible for the complete development of this command, from gathering requirements and validation rules from various departments and users, to its integration and validation within the production toolchain.<br>

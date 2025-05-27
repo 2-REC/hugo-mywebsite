@@ -1,19 +1,24 @@
 ---
 title: "INFRABEL"
-subtitle: "SOFTWARE ENGINEER - As AKKA Consultant"
+subtitle: "Software Engineer"
+subtitle2: "AKKA Consultant"
 startDate: "2014-11-01"
 endDate: "2016-07-01"
 image: "head.jpg"
-small_image: "infrabel.jpg"
+small_image: "infrabel.png"
 small_url: "https://www.infrabel.be"
 posts_title: "PROJECTS"
 ---
 
-<b>JOB DESCRIPTION</b><br>
-Following the development of a [proof of concept prototype](/pro/akka/infrabel-extractor) extracting signal symbols from railway maps, a colleague and I were selected to join the AKKA team in place at INFRABEL to be part of the development team on the IFAST project.<br>
+<h3>JOB DESCRIPTION</h3>
+Following the development of a [proof of concept prototype](/pro/akka/infrabel-extractor) extracting signal symbols from railway maps, a co-worker and I were selected to join the AKKA team on site at INFRABEL to be part of the development team on the IFAST project.<br>
+<br>
 The mission covered the duration of the project, from its requirements analysis to its successful realisation and validation for production use.<br>
+<br>
 
-<b>RESPONSIBILITIES</b><br>
-- Developer on the project IFAST ("Infrabel's Field Automated Shelter Testing")<br>
-- Requirements analysis and technical choices on implementation<br>
-- Development of GUI components of the tool for the sheets visualisation and printing<br>
+<h3>RESPONSIBILITIES</h3>
+<ul>
+<li>Developer on the project IFAST ("Infrabel's Field Automated Shelter Testing")</li>
+<li>Requirements analysis and technical choices on implementation</li>
+<li>Development of GUI components of the tool for the sheets visualisation and printing</li>
+</ul>

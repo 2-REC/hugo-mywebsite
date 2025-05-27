@@ -1,43 +1,40 @@
 ---
 title: "Internal Projects"
 subtitle: "Various internal projects"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
-categories: [ "Embedded", "Image Analysis", "Project Management", "R&D", "Support", "Team Management", "Web" ]
-tags: [ "Android", "C++", "CVS", "Gimp", "Java", "Jenkins", "Linux", "NetBeans", "OpenCV", "Qt", "Sharepoint", "Sonar", "Swing", "VB", "Visual Studio", "Windows", "XML" ]
+small_image: "akka.png"
+categories: [ "Embedded", "Image Analysis", "Mentoring", "Project Management", "R&D", "Support", "Team Management", "Web" ]
+tags: [ "Android", "C++", "Gimp", "Java", "OpenCV", "Qt", "Swing", "VB" ]
 images:
 - src: "ci-jenkins.jpg"
   title: "JENKINS Continuous Integration"
-- src: "ci-tools.jpg"
-  title: "Continuous Integration Tools"
 - src: "club-metier-kenny.jpg"
   title: "Club Metier - Contour Decomposition Example"
 - src: "club-metier-rules.jpg"
   title: "Club Metier - Rule Example"
 - src: "pandaboard.jpg"
-  title: "PandaBoard Card"
-- src: "pandaboard2.jpg"
-  title: "PandaBoard + Screen"
+  title: "PandaBoard Card + Screen"
 - src: "sharepoint1.png"
   title: "SharePoint"
 - src: "sharepoint2.png"
   title: "AKKA SharePoint Project"
 resources:
 - src: "logos/akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
 <b>CLIENT:</b> AKKA, internal projects<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-When not working for a client, I was assigned various small internal projects.<br>
-Some projects to help other consultants develop new skills, and other projects to experiment and showcase the company's know-how.<br>
+<h3>DESCRIPTION</h3>
+During periods between client assignments, I was involved in a range of internal projects aimed at supporting skills development, technical experimentation, and showcasing the company’s expertise.<br>
+<br>
 
-<b>ROLE</b><br>
-- Make a presentation with a colleague about how to use business rules ideologies in image analysis systems<br>
-- Prepare and participate in the annual AKKA Awards event in Berlin to showcase the Drawing Comparison Tool (from the developed [proof-of-concept prototype](/pro/akka/dct-poc) and the [full scale project](/pro/tme/dct) for [TOYOTA MOTOR EUROPE](/pro/tme))<br>
-- Set up a Continuous Integration system to be used by the company's developers<br>
-- Coaching junior developers or non-developers colleagues to prepare them for their future asignments<br>
-- Help the HR team in setting up and building the company's Sharepoint website<br>
-- Install and experiment Android OS on the PandaBoard and its associated touchscreen<br>
+<h3>ROLE</h3>
+<ul>
+<li>Co-created and delivered a presentation on applying business rule methodologies to image analysis systems</li>
+<li>Contributed to the annual AKKA Awards event in Berlin by presenting the Drawing Comparison Tool, developed for TOYOTA MOTOR EUROPE, including both the <a href="/pro/akka/dct-poc">proof-of-concept</a> and <a href="/pro/tme/dct">full scale project</a></li>
+<li>Set up a Continuous Integration (CI) system to streamline development workflows for internal teams</li>
+<li>Coached junior developers and non-technical colleagues to prepare them for upcoming assignments</li>
+<li>Assisted the HR team in building and configuring the company’s SharePoint intranet site</li>
+<li>Built and tested the Android OS on a PandaBoard with a touchscreen interface to explore embedded system capabilities</li>
+</ul>

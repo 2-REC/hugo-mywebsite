@@ -2,11 +2,15 @@
 title: "SKILLS"
 tags_label: "TECHNOLOGIES / TOOLS"
 categories_label: "FIELDS / INDUSTRIES"
+background_image: "wall_angle.png"
 
-text: "Here is a non-exhaustive list of technologies and tools I have been using throughout the years, \
-as well as a list of fields and industries I have been working in.
+text: >
+    Here is a non-exhaustive list of technologies and tools I have been using throughout the years,
+    as well as a list of fields and industries I have been working in.<br>
+    Each item links to a list of related projects.<br>
 
-You can also get my resume as a downloadable PDF."
+
+    Additionally, my resume is available as a PDF.
 
 download:
   button_text: "RESUME"

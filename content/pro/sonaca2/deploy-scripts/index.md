@@ -1,37 +1,31 @@
 ---
 title: "Automation Scripts"
 subtitle: "Compilation & Deployment Scripts"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
-categories: [ "Aerospace", "Consulting", "Network", "Project Management" ]
-tags: [ "CAA RADE", "CATIA V5", "CVS", "Omnitracker", "Scripting", "UNIX", "Windows" ]
+small_image: "catia.jpg"
+categories: [ "Aerospace", "Network", "Project Management" ]
+tags: [ "CAA RADE", "CATIA V5", "Scripting" ]
 images:
-- src: "aix.jpg"
-  title: "AIX UI"
-  copyright: "IBM"
 - src: "comp1.png"
   title: "Excel Configuration Interface"
 - src: "comp2.png"
   title: "Compilation Interface"
 - src: "comp3.png"
   title: "Excel Configuration Interface"
-- src: "ibm.jpg"
-  title: "IBM AIX Workstation"
-  copyright: "IBM"
 resources:
 - src: "logos/1-sonaca-small.jpg"
-  title: "SONACA"
+  title: "Sonaca"
 - src: "logos/2-akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
-<b>CLIENT:</b> SONACA, as AKKA consultant<br>
+<b>CLIENT:</b> SONACA<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-For every new Service Pack and Hot Fix provided by Dassault Systemes for CATIA V5, all the developed tools have to be recompiled, eventually updated, and deployed.<br>
-As different releases of CATIA V5 (R16, R17, R18, R19) on different operating systems (Windows & UNIX, 32 & 64 bits) are being used by the different projects, a big number of compilations and deployments is required, which is long, repetitive and error-prone.<br>
-For this reason, I took the initiative to write scripts automating the compilation and deployments tasks for the different versions and configurations, greatly easing and accelerating the whole process otherwise done completely manually. The scripts are executed from an Excel file in which the user can configure the process depending on its needs and the different environments.<br>
+<h3>DESCRIPTION</h3>
+Each time a new Service Pack or Hot Fix is released by Dassault Systèmes for CATIA V5, all developed tools must be recompiled, updated if necessary, and deployed. Given that different CATIA V5 releases (R16, R17, R18, R19) are used across various projects on multiple operating systems (Windows & UNIX, 32-bit & 64-bit), this results in a large number of compilations and deployments, which is time-consuming, repetitive, and prone to errors.<br>
+<br>
+To address this challenge, I took the initiative to develop scripts that automate the compilation and deployment tasks across different versions and configurations. This automation greatly simplified and sped up the process, which was previously done manually. The scripts are executed from an Excel file, enabling users to configure the process according to their specific needs and environments.<br>
+<br>
 
-<b>ROLE</b><br>
-As a CAD Tools Developer, I imagined and implemented the different scripts, which then became part of the production process for all the internal CATIA V5 developments.<br>
+<h3>ROLE</h3>
+As a CAD Tools Developer, I designed and implemented the scripts, which have since become an essential part of the production process for all internal CATIA V5 developments.<br>

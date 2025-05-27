@@ -2,28 +2,32 @@
 title: "CAA Commands Framework"
 subtitle: "CAA Commands & Toolbars Generator"
 small_image: "catia.jpg"
-categories: [ "3D", "Aerospace", "CAD", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Web" ]
-tags: [ "Agile", "C++", "CAA RADE", "CATIA V5", "CVS", "Omnitracker", "Scripting", "UNIX", "VPM", "Visual Studio", "Windows", "XML" ]
+categories: [ "3D", "Aerospace", "CAD", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Web" ]
+tags: [ "C++", "CAA RADE", "CATIA V5", "Scripting", "VPM" ]
 images_copyright: "SONACA"
 images:
+- src: "1-saa-command.png"
+  title: "Example of command generation code"
 - src: "fast.png"
-  title: "Example of Dialog Box"
-- src: "saa-command.png"
-  title: "Example of Command Generation Code"
+  title: "Example of generated dialog box"
 - src: "smooth_surface.gif"
-  title: "Example of Dialog Box"
+  title: "Example of generated dialog box"
 resources:
 - src: "logos/1-sonaca-small.jpg"
-  title: "SONACA"
+  title: "Sonaca"
 - src: "logos/2-akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
-<b>CLIENT:</b> SONACA, as AKKA consultant<br>
+<b>CLIENT:</b> SONACA<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-The process of creating new commands and modules for CATIA V5 is long and error prone, but it follows a common repetitive process that can partially be automated. Additionally, developed tools at SONACA are often composed of similar elements and follow a similar pattern.<br>
-Hence, with my boss's approval, I imagined and developed a CAA development framework to greatly simplify the development process, automating a big part of the recurrent tasks. The framework could then be used in Visual Studio in conjunction with the CAA tools provided by Dassault Systemes.<br>
+<h3>DESCRIPTION</h3>
+The process of creating new commands and modules for CATIA V5 is lengthy and error-prone, yet follows a repetitive pattern that can be partially automated. Furthermore, many of the tools developed at SONACA share similar structures and patterns.<br>
+<br>
+With my manager’s approval, I designed and developed a CAA development framework aimed at significantly simplifying the development process by automating a large portion of the recurring tasks. This framework could be integrated into Visual Studio and used alongside the CAA tools provided by Dassault Systèmes.<br>
+<br>
 
-<b>ROLE</b><br>
-As a CAD Tools Developer, I was responsible for the full realisation of the framework, from the initial feasibility analysis to the coding and testing. Once the framework functional, the process of creating new commands and modules in CATIA V5 was greatly simplified, significantly improving developers productivity.<br>
+<h3>ROLE</h3>
+As a CAD Tools Developer, I was responsible for the complete realization of the framework, from the initial feasibility study through to coding and testing.<br>
+Once operational, the framework greatly streamlined the creation of new commands and modules in CATIA V5, leading to a substantial improvement in developers' productivity.<br>

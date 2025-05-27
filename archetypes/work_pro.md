@@ -24,8 +24,10 @@ tags: [ "" ]
 
 <b>CLIENT:</b> ...<br>
 
-<b>DESCRIPTION</b><br>
-...<br>
+<h3>DESCRIPTION</h3>
+...
+<br>
 
-<b>ROLE</b><br>
-...<br>
+<h3>ROLE</h3>
+...
+<br>

@@ -3,7 +3,7 @@ title: "CATIA V5 Launcher"
 subtitle: "Start CATIA V5 in the desired environment"
 small_image: "catia.jpg"
 categories: [ "Aerospace", "CAD", "Consulting", "Network", "Project Management", "Web" ]
-tags: [ "CATIA V5", "DB", "Scripting", "UNIX", "VB", "Visual Studio", "Windows" ]
+tags: [ "VB", "CATIA V5", "Scripting", "DB" ]
 images_copyright: "SONACA"
 images:
 - src: "1-v5_launcher-win.gif"
@@ -15,14 +15,16 @@ images:
   copyright: "DASSAULT SYSTEMES"
 resources:
 - src: "logos/sonaca-small.jpg"
-  title: "SONACA"
+  title: "Sonaca"
 ---
 
 <b>CLIENT:</b> SONACA, as external consultant<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-A tool had to be developed in order to allow users from the different departments with different roles to use a customised configuration of the CATIA V5 design software.<br>
-The standalone tool lets a user select between different releases of the software and specific profiles depending on their needs (and permissions). It automatically configures the environment and starts the execution of CATIA V5, loading the requested modules and plugins.<br>
+<h3>DESCRIPTION</h3>
+A tool was needed to enable users from different departments, each with distinct roles, to access customized configurations of the CATIA V5 design software.<br>
+This standalone application allows users to select between various releases of the software and specific profiles based on their needs and permissions. It then automatically configures the environment and launches CATIA V5, loading the required modules and plugins.<br>
+<br>
 
-<b>ROLE</b><br>
-As a CAD Tools Developer, I was responsible to rewrite a new version of the tool porting it from VBA to VB .NET, as well as adding new options and security checks.<br>
+<h3>ROLE</h3>
+As a CAD Tools Developer, I was responsible for rewriting the tool, migrating it from VBA to VB.NET, while also adding new features and implementing enhanced security checks.<br>

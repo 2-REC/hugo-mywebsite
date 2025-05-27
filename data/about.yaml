@@ -1,32 +1,46 @@
 ---
 title: "ABOUT"
-avatar: "avatar.jpg"
+avatar: "avatar.png"
+avatar2: "avatar2.png"
+#background_image: ""
 
-short_text: "I'm Derek Severin, Software Engineer.
+#profile_text: >
 
-Passioned about technology and software development, I can help you build your [next product](/#services).
+main_text: >
+    As a freelancer, I offer development <a id="about_services_link" class="page-jump" href="#services">services</a> to help bring your project to life.  
 
-Have a project you'd like to discuss?<br>
-Let's [get in touch](/#contact)!"
+    Whether you're starting from the ground up or enhancing an existing system,
+    I specialize in developing both standalone applications and integrated tools tailored to your needs,
+    from initial prototypes to fully finished products.  
 
-long_text: "Professional software developer for more than 15 years, I have been working on many [projects](/#projects_pro) for several companies in various industries.
-
-From CAD and image analysis tools to web and embedded applications, in fields ranging from aerospace and automotive to banking and security,
-I had the opportunity to be assigned to every role in the project's lifecycle, from project leader and business analyst to integrator and QA tester, via technical leader and developer.
-
-It has thus allowed me to aquire a wide [knowledge and expertise](/#skills) in very different fields using quantity of technologies and tools.
-
-
-Additionally, I have been working on many [personal projects](/#projects_perso), mostly related to video games and real-time simulations.
+    I’m also available to collaborate with you or support your team at any stage of the development process.
 
 
-This website is a presentation of my work in software development and IT related fields.
-It serves as a complement to my [resume](/#skills).
+    Software developer since the early 2000s,
+    I've been working on numerous <a class="page-jump" href="#projects_pro">projects for several companies across a wide range of industries</a>.
 
 
-If you would like to know more, or have a project you want to talk about, just [contact me](/#contact).
+    My experience spans from CAD and image analysis tools to web and embedded applications,
+    in domains ranging from aerospace and automotive to video games and VFX.  
 
-I am fluent in English and French, and can communicate in Spanish.
-Originally from Brussels, Belgium, I now live in Ho Chi Minh City, Vietnam.
-Beside software and technology, I have many interests such as music, visual arts and multimedia, video games, sports, traveling, nature and food."
+    Over the years, I’ve taken on nearly every role in a project’s lifecycle:
+    Project Leader, Functional Analyst, Architect, Developer and QA Engineer to name a few.
+
+
+    This journey has given me a broad and <a class="page-jump" href="#skills">versatile skill set</a>,
+    along with deep expertise in various technologies and methodologies.
+
+
+    Outside of my professional work, I pursue personal projects,
+    mainly around video games, mobile apps, and web design.
+    I also enjoy writing blogs about topics that matter to me and that I want to share.
+
+
+    This website showcases my work in software development and IT related fields,
+    and acts as a companion to my <a class="page-jump" href="#skills">resume</a>.
+
+
+    If you're curious to learn more or have a project in mind, feel free to <a class="page-jump" href="#contact">reach out</a>.  
+
+    I'm based between Brussels, Belgium, and Ho Chi Minh City, Vietnam.
 ---

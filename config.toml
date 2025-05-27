@@ -9,12 +9,18 @@ languageCode = "en-us"
 title = "Derek Severin IT Portfolio"
 theme = "myportfolio"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 
     # GENERAL SITE PARAMETERS
     # Parameters used by the site at the global level.
 
     # File(s) containing overriden CSS variables (can have more than 1) (OPTIONAL)
+    custom_css_vars = [ "custom_vars.css" ]
+
+    # File(s) containing overriden CSS - NOT variables (can have more than 1) (OPTIONAL)
     custom_css = [ "custom.css" ]
 
     # ----------
@@ -34,8 +40,9 @@ theme = "myportfolio"
 
     # HOMEPAGE
     # Define the sections and the order in which they appear (MANDATORY)
+    # "home" will always be first, regardless of its position (if in the list).
     [params.homepage]
-        sections = [ "home", "about", "services", "skills", "projects", "contact" ]
+        sections = [ "home", "services_foreground", "services", "about", "skills", "projects", "contact" ]
 
     # ----------
 
@@ -45,6 +52,7 @@ theme = "myportfolio"
 
         # Brand (OPTIONAL - but required if want HOME button)
         brand = "DS"
+        #brand_logo = "images/"
 
         # NAVIGATION MENU ENTRIES (OPTIONAL)
         # Add an entry for each section to add in the navigation menu.
@@ -61,21 +69,115 @@ theme = "myportfolio"
         #        - "<VALUE>" is the string to display as menu item.
         # If no entry is specified => No navigation menu is created.
         #    (even if "params.navigation.links" is defined, but empty)
-        # => Can define a dummy variable in "links" to force the creation of the menu (e.g.: dummy = 1).
+        # => Can define a dummy variable in "links" to force the creation of the menu (e.g.: dummy = 1). (TODO: ?)
         # To change order, need to change code in navigation menu creation.
         # Special case: "projects".
         #    projects = [ { section = "<SECTION_DIRECTORY>", label = "<VALUE>" }, ... ]
         # ! - Values for "sections" in "projects" must be the same as used in "projects.params".
         # (& must correspond to the section directories)
         [params.navigation.links]
-            about    = "ABOUT"
-            services = "SERVICES"
-            skills   = "SKILLS"
+            services_foreground = "SERVICES"
+            about = "ABOUT"
+            #services = "SERVICES"
+            skills = "SKILLS"
+            # Order is not defined here, but in "categories" of the "projects" section
             projects = [
-                { section = "pro", label = "PROFESSIONAL" },
-                { section = "perso", label = "PERSONAL" }
+                { section = "pro", label = "EXPERIENCE" }
             ]
-            contact  = "CONTACT"
+            contact = "CONTACT"
+
+    # ----------
+
+    # HOME section
+    [params.home]
+        # Settings related to the CSS can be set in 'static\css\custom.css', 'home' section
+        #width = 50                        # 0-100 (percentage) (default: 50)
+        #offset_h = 50                     # 0-100 (percentage) (default: 50)
+        #offset_v = 50                     # 0-100 (percentage) (default: 50)
+        #text_align = "center"             # left|center|right (default: center)
+
+    # ----------
+
+    # ABOUT section
+    [params.about]
+        # Settings related to the CSS can be set in 'static\css\custom.css', 'about' section
+        # * title_align: Alignment of title ("left"|"center"|"right", default: "center")
+        # * title_length: Number of column taken by title (1-12, default: 10)
+        # * layout: Style of page layout ("classic"|"left"|"right", default: "classic")
+        #   * "classic":
+        #     Inputs:
+        #       * main_side: Right part, containing "main" text (1-12, default: 7)
+        #       * extra_side: Left part, containing "profile" text (1-12, default: 3)
+        #       * offset_left: Offset on left of table (0-10, default: half (int) of the remaining space)
+        #       * offset_right: Offset on right of table (0-10, default: other half of remaining space)
+        #       => The sum of the 4 must be smaller or equal to 12.
+        #     Computed:
+        #       * offset_center: Offset between the 2 parts => Remainder of the 12 columns (default: 0, or remaining space of offsets are specified)
+        #   * "left":
+        #     Inputs:
+        #       * main_side: Left part, containing both "profile" and "main" texts (default: 7)
+        #       * extra_side: Offset on right of table (default: 3)
+        #       => The sum of the 2 must be smaller or equal to 12.
+        #     Computed:
+        #       * offset_left: Offset on left of table => Remainder of the 12 columns.
+        #   * "right":
+        #     Inputs:
+        #       * main_side: Right part, containing both "profile" and "main" texts (default: 7)
+        #       * extra_side: Offset on left of table (default: 3)
+        #       => The sum of the 2 must be smaller or equal to 12.
+        # * portrait_percentage: Percentage taken by image inside its allocated space (1-100, default: 100)
+        # * portrait_cancel_bottom_margin: If 1, remove the margin below the portrait image (0|1, default: 0)
+        # Additional settings only if layout "left"|"right":
+        # * portrait_width: Number of columns taken by the portrait image (1-12, default: 4)
+        # * background: If "full", takes whole screen instead of only "extra" side ("full", default: none)
+        title_align = "right"
+        #title_length = 10
+        #layout = "right"
+        main_side = 6
+        extra_side = 3
+        offset_left = 1
+        offset_right = 2
+        portrait_percentage = 85
+        portrait_cancel_bottom_margin = 1
+        # only if layout "left"|"right":
+        #portrait_width = 4
+        background = "full"
+
+    # ----------
+
+    # SERVICES section
+    [params.services]
+        # Settings related to the CSS can be set in 'static\css\custom.css', 'services' section
+        #title_align = "right"            # left|center|right (default: center)
+        title_length = 4                  # 1-12 (default: 10)
+        # Number of "skill boxes" per row.
+        # The used grid system is based on 12 columns, so all values will not provide good results.
+        # Only values that are divisors of 12 should be used, and others avoided.
+        # - "Good" values are 1, 2, 3, 4, 6, 12
+        # - "Bad" values are 5, 7, 8, 9, 10 and 11
+        # If the last row isn't full, the boxes will be centered if possible.
+        # Again, for good results, the number of boxes on the last row should also be a divisor of 12.
+        # Additionally, if the number of columns is too high (and thus boxes are tight),
+        #  the content might not fit and cause layout issues.
+        #nb_columns = 4         # (default: 4)
+        #nb_columns_small = 2   # (default: 2)
+        #nb_columns_xsmall = 1  # (default: 1)
+
+    # ----------
+
+    # SKILLS section
+    [params.skills]
+        # Settings related to the CSS can be set in 'static\css\custom.css', 'skills' section
+        #title_align = "right"            # left|center|right (default: center)
+        title_length = 4                  # 1-12 (default: 10)
+
+    # ----------
+
+    # CONTACT section
+    [params.contact]
+        # Settings related to the CSS can be set in 'static\css\custom.css', 'contact' section
+        title_align = "right"             # left|center|right (default: center)
+        title_length = 4                  # 1-12 (default: 10)
 
     # ----------
 
@@ -83,7 +185,16 @@ theme = "myportfolio"
     [params.projects]
         # Values in "categories" must be the same as in navigation menu "projects".
         # (& must correspond to the section directories)
-        categories = [ "pro", "perso" ]
+        categories = [ "pro" ]
+
+        title_align = "left"             # left|center|right (default: center)
+        title_length = 8                  # 1-12 (default: 10)
+
+        # Grid align / max number of projects
+        #TODO: keep here or move to 'params.projects.home'?
+        #TODO: would be better specific to each category
+        #max_projects = 12
+        #fit_rows = true
 
         # Post orders:
         # - list of posts:
@@ -107,11 +218,21 @@ theme = "myportfolio"
         posts_order_reverse = true
 
         # Format of the "period" field.
-        date_format = "Jan-2006"
+        date_format = "01/2006"
+        period_format = "{start} - {end}"
+        period_format_startonly = "{start} - Present"
 
-        # Number of columns in projects grid (OPTIONAL)
-        nb_columns = "6"
-        nb_columns_small = "3"
+        # Number of columns in projects grid,
+        # respectively on 'home' page and in projects 'list' page (OPTIONAL)
+        # (accepted values: 1, 2, 3, 4, 6, 12 - must be a multiple of 12)
+        [params.projects.home]
+            #nb_columns = 6         # (default: 6)
+            #nb_columns_small = 4   # (default: 4)
+            #nb_columns_xsmall = 2  # (default: 2)
+        [params.projects.list]
+            nb_columns = 4         # (default: 6)
+            nb_columns_small = 3   # (default: 4)
+            nb_columns_xsmall = 2  # (default: 2)
 
     # ----------
 

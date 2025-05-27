@@ -1,8 +1,9 @@
 ---
 title: "Signal Extractor - Proof Of Concept"
 subtitle: "Proof Of Concept Prototype Tool to extract 2D symbols from PSS Railway Plans"
+small_image: "infrabel.png"
 categories: [ "CAD", "Image Analysis", "Project Management", "R&D", "Railway", "Team Management" ]
-tags: [ "Agile", "CVS", "Eclipse", "Gimp", "Java", "OpenCV", "Swing", "Windows" ]
+tags: [ "Gimp", "Java", "OpenCV", "Swing" ]
 images:
 - src: "1-detector.jpg"
   title: "Detector UI"
@@ -15,21 +16,24 @@ images:
   copyright: "INFRABEL"
 resources:
 - src: "logos/1-infrabel.png"
-  title: "INFRABEL"
+  title: "Infrabel"
 - src: "logos/2-akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
-<b>CLIENT:</b> INFRABEL, as AKKA Consultant<br>
+<b>CLIENT:</b> INFRABEL<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-The AKKA team working at INFRABEL has developed process automation tools (PA Tools) to be used for the European Train Control System (ETCS) transceivers validation, by modelling the railway infrastructure and simulating these transceivers under various scenarios generating data that can then be compared with the real transceivers data.<br>
-To model the railway infrastructure, railway maps are provided: PSS maps (“Plan Schématique de Signalisation”), containing information about the different signals present along the tracks.<br>
-However, most of these maps don’t have their digital original version available anymore, thus the process of encoding their information into the system has to be done manually by an operator. This is of course a fastidious work, time consuming and error prone.<br>
-To address this problem, AKKA has thought about a system that would automatically extract the information from the PSS maps and inject it into the existing tools.<br>
-The developed tool was a proof of concept of the imagined system, automatically detecting 2D symbols in the maps by image analysis, and highlighting them to the user.<br>
-Following its development, we were selected to join the AKKA team in place at INFRABEL, to work on the bigger project [IFAST](/pro/infrabel/ifast).<br>
+<h3>DESCRIPTION</h3>
+The AKKA team supporting INFRABEL developed the Process Automation Tools (PA Tools) for validating European Train Control System (ETCS) transceivers. These tools model railway infrastructure and simulate transceiver behavior across various scenarios, generating data for comparison with real-world transceiver outputs.<br>
+Modeling the infrastructure relies on railway maps, specifically PSS maps ("Plan Schématique de Signalisation"), which detail signal locations along the tracks. However, the absence of digital versions for many of these maps meant that information had to be manually encoded, an effort-intensive and error-prone task.<br>
+<br>
+To address this, AKKA proposed a system to automate information extraction from PSS maps and integrate it into existing validation tools.<br>
+A proof-of-concept was developed using image analysis to automatically detect 2D symbols in the scanned maps and highlight them for user review.<br>
+<br>
+Following the successful development and demonstration of this prototype, our team was selected to contribute to the larger scale <a href="/pro/infrabel/ifast">IFAST project</a> at INFRABEL.<br>
+<br>
 
-<b>ROLE</b><br>
-As Project Leader, I was responsible for the development of the prototype as well as coaching a junior Java developer. I had to make the technical choices on implementation, determining and implementing the image analysis processes to use.<br>
-Managed the successful realisation and demonstration of the prototype enabling the development team to be chosen for a larger scale project at INFRABEL (IFAST).<br>
+<h3>ROLE</h3>
+As Project Leader, I was responsible for overseeing the prototype's development, coaching a junior Java developer, and making key technical decisions.<br>
+I designed and implemented the image analysis processes and led the successful delivery of the prototype, which directly contributed to our selection for the larger scale project at INFRABEL (IFAST).<br>

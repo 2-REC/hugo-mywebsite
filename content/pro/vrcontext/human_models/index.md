@@ -1,34 +1,37 @@
 ---
-title: "3DSMAX Human Characters Modelisation"
+title: "3D Human Characters Modelisation"
 subtitle: "Creation of animated 3D human models"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
 categories: [ "3D", "Security", "VR" ]
-tags: [ "3ds Max", "Photoshop", "Windows" ]
+tags: [ "3ds Max", "Photoshop" ]
 images:
 - src: "1-walkinside.jpg"
   title: "WalkInside"
   copyright: "SIEMENS"
 - src: "2-biped.jpg"
-  title: "3DSMAX Biped"
+  title: "3ds Max Biped"
   copyright: "AUTODESK"
 resources:
 - src: "logos/1.jpeg"
-  title: "VR CONTEXT"
+  title: "VR Context"
 - src: "logos/2.png"
-  title: "SIEMENS"
+  title: "Siemens"
 - src: "logos/3.png"
-  title: "COMOS"
+  title: "Comos"
 ---
 
 <b>CLIENT:</b> VR Context* - Internal project<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-Need for animated humans models to populate real-time simulations in the in-house software WalkInside*.<br>
+<h3>DESCRIPTION</h3>
+Create interactive and animated 3D human characters to populate environments within the in-house real-time simulation software WalkInside*.<br>
+<br>
 
-<b>ROLE</b><br>
-As a 3D Modeler, I was responsible for creating realistic 3D human models to be used in real-time security simulations.<br>
-
-<b style="color: red;">*DISCLAIMER:</b> The WalkInside software and all the images and logos on this page are property of SIEMENS.<br>
+<h3>ROLE</h3>
+As a 3D Modeler, responsible for researching available solutions for realistic animated human models and, if needed, creating them in-house using 3ds Max.<br>
+<br>
+<br>
+* The WalkInside software and all the images and logos on this page are property of Siemens.<br>
 VR Context have now stopped their activities.<br>

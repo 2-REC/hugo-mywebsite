@@ -2,38 +2,36 @@
 title: "Various Tools"
 subtitle: "Data Exchange, Archiving and Other Tools ..."
 image: "hall.jpg"
-categories: [ "3D", "Aerospace", "CAD", "Consulting", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Web" ]
-tags: [ "Agile", "C Sharp", "C++", "CAA RADE", "CATIA V5", "CSS", "CVS", "DB", "HTML", "Omnitracker", "SAP", "SQL", "Scripting", "UNIX", "VB", "VPM", "Visual Studio", "Windows", "XML" ]
+categories: [ "3D", "Aerospace", "CAD", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Web" ]
+tags: [ "C#", "C++", "CAA RADE", "CATIA V5", "CSS", "DB", "HTML", "SAP", "SQL", "Scripting", "VB", "VPM" ]
 images_copyright: "SONACA"
 images:
-- src: "2018-10-01-Sonaca-0223.jpg"
-  title: "SONACA Hall"
 - src: "archiver.png"
-  title: "NT Archiver"
+  title: "Archiving tool"
 - src: "flap.jpg"
   title: "3D Flap"
-- src: "nose.jpg"
-  title: "AIRBUS Nose"
 - src: "vb.png"
-  title: "VB Script"
+  title: "Example VB script"
 resources:
 resources:
 - src: "logos/1-sonaca-small.jpg"
-  title: "SONACA"
+  title: "Sonaca"
 - src: "logos/2-airbus.png"
-  title: "AIRBUS"
+  title: "Airbus"
 - src: "logos/3-bombardier.jpg"
-  title: "BOMBARDIER"
+  title: "Bombardier"
 - src: "logos/4-embraer.jpg"
-  title: "EMBRAER"
+  title: "Embraer"
 - src: "logos/5-dassault.jpg"
-  title: "DASSAULT"
+  title: "Dassault"
 ---
 
 <b>CLIENT:</b> SONACA and customers, as external consultant<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-More tools had to be developed to assist the users and managers in their work. Some tools were requested by the managers to ease their user management tasks and environments configurations. Other tools were destined to the designers and engineers to assist and validate their work, and help them in the exchange, archiving and follow-up processes.<br>
+<h3>DESCRIPTION</h3>
+Additional tools were developed to further support users and managers in their daily activities. Some tools were requested by managers to simplify user management tasks and environment configurations, while others were designed to assist designers and engineers with their work, validation processes, as well as data exchange, archiving, and project follow-up.<br>
+<br>
 
-<b>ROLE</b><br>
-As a CAD Tools Developer, I was responsible for the development of all these tools. From a request coming from the team leaders or some specific key users, I had to analyse and submit an offer to be validated by the management. I was then in charge of developing, testing and integrating the tools in the production environments.<br>
+<h3>ROLE</h3>
+As a CAD Tools Developer, I was responsible for the full development cycle of these tools. Starting from requests made by team leaders or key users, I analyzed the requirements, proposed technical solutions with associated offers for management approval, and subsequently handled the development, testing, and integration of the tools into the production environments.<br>

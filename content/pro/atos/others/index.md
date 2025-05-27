@@ -1,36 +1,34 @@
 ---
 title: "Various projects"
 subtitle: "Different internal projects"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
-categories: [ "Banking", "Consulting", "Data Exchange", "Embedded", "Network", "Security" ]
-tags: [ "Agile", "C", "CVS", "Eclipse", "GCC", "IPC", "Jenkins", "Linux", "Network Protocols", "Python", "Scripting", "Scrum", "Windows", "XML" ]
+small_image: "atos.jpg"
+categories: [ "Banking", "Data Exchange", "Embedded", "Network", "Security" ]
+tags: [ "C", "Network Protocols", "Python", "Scripting" ]
 images_copyright: "ATOS WORLDLINE"
 images:
-- src: "logo-anim.jpg"
-  title: "Diaporama Logo Animation"
-- src: "terminals.jpg"
-  title: "Various Payment Terminals"
+- src: "1-logo-anim.jpg"
+  title: "Logo animation files"
+- src: "2-yomani.jpg"
+  title: "Logo animation on YOMANI Terminal"
 - src: "xenta.jpg"
   title: "XENTA Terminal"
-- src: "yomani.jpg"
-  title: "YOMANI Terminal"
-- src: "yomani-box.jpg"
-  title: "Unboxed YOMANI Terminal"
 resources:
 - src: "logos/1-atos-small.jpg"
-  title: "ATOS"
+  title: "Atos"
 - src: "logos/2-akka.jpg"
-  title: "AKKA"
+  title: "Akka"
 ---
 
-<b>CLIENT:</b> ATOS WORLDLINE, as AKKA Consultant<br>
+<b>CLIENT:</b> ATOS WORLDLINE<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-Additionally to the main projects, I was assigned smaller tasks to help in different departments.<br>
+<h3>DESCRIPTION</h3>
+Additionally to the main projects, I was assigned smaller tasks to help various departments.<br>
+<br>
 
-<b>ROLE</b><br>
-- Installation and configurarion of bios and proprietary software on XENTA and YOMANI terminals in order to prepare them for production use<br>
-- Debugging and enhancement of a diaporama application for YOMANI terminals, allowing to display colour images slideshows when in idle mode<br>
-- Configuration and testing of fuel cards payment applications<br>
+<h3>ROLE</h3>
+<ul>
+<li>Installation and configurarion of bios and proprietary software on XENTA and YOMANI terminals in order to prepare them for production use</li>
+<li>Debugging and enhancement of the "diaporama" application for YOMANI terminals, allowing the display of color images slideshows or animations when in idle mode</li>
+<li>Configuration and testing of fuel cards payment applications</li>
+</ul>

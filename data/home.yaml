@@ -1,7 +1,17 @@
 ---
-title: "Derek Severin"
+#title_logo: "images/"
+title: "Derek SEVERIN"
 subtitle: "Software Engineer"
-background: "office.jpg"
-text: "Desktop & Mobile Applications Development, Web Design & IT Consulting"
-button_text: "SEE MORE"
+background: "door.png"
+#background_opacity: 50%
+background_hidden: "door_light.png"
+background_hidden_speed: 1
+#background_video: ""
+text: >
+    Applications & Tools Development  
+
+    UI/UX & Web Design  
+
+    Consulting & Training
+button_image: "images/arrow_down.png"
 ---

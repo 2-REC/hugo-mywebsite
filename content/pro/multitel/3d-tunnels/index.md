@@ -1,9 +1,10 @@
 ---
 title: "Antwerp Tunnels"
 subtitle: "3D Modeling of City Tunnels"
+small_image: "antwerp.jpg"
 image: "2.png"
 categories: [ "3D", "Image Analysis", "Security", "Video" ]
-tags: [ "Blender", "Gimp", "Windows" ]
+tags: [ "Blender", "Gimp" ]
 images_copyright: "MULTITEL"
 images:
 - src: "1.png"
@@ -22,15 +23,17 @@ resources:
 - src: "logos/1-antwerp.png"
   title: "City of Antwerp"
 - src: "logos/2-multitel.jpg"
-  title: "MULTITEL"
+  title: "Multitel"
 ---
 
 <b>CLIENT:</b> City of Antwerp, as a Multitel Research Engineer<br>
+<br>
 
-<b>DESCRIPTION</b><br>
-The project came following a request from the City of Antwerp willing to install our video surveillance and traffic management system in the tunnels throughout the city.<br>
-In order to determine the optimal positioning of the cameras in the tunnels, as well as validating and training our system, 3D models of the tunnels were required.<br>
-As a first step, 3 new tunnels under construction were selected.<br>
+<h3>DESCRIPTION</h3>
+The project was initiated following a request from the City of Antwerp, willing to install our video surveillance and traffic management system in tunnels across the city.<br>
+To determine the optimal camera placement, and to validate and train our system, 3D models of the tunnels were needed.<br>
+As a first step, three newly constructed tunnels were selected for the project.<br>
+<br>
 
-<b>ROLE</b><br>
-As a 3D Modeler, I was responsible for modeling the 3 tunnels, based on provided 2D plans. The modeling had to be as close as possible to the plans, respecting the dimensions and materials.<br>
+<h3>ROLE</h3>
+As a 3D Modeler, I was responsible for modeling the 3 tunnels, based on provided 2D plans. The modeling was done in Blender.<br>

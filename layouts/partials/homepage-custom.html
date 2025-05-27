@@ -1,0 +1,113 @@
+<div id="services_background"
+        style="--home-overlay-bkg-image: url('{{ "images/tunnel.png" | absURL }}');"
+    >
+    <link rel="stylesheet" href="css/homepage-custom.css">
+    <div id="particles_container">
+        <canvas id="particles_canvas">This browser doesn't support HTML5 canvas!</canvas>
+        <div id="particles_counter"></div>
+        <img id="particles_controller" src="{{ "images/particles_controller.png" | absURL }}">
+        <button id="particles_button" type="button">
+            <img src="images/particles_button.png" />
+        </button>
+
+        {{ $params := .Site.Params.services }}
+        {{ with .Site.Data.services }}
+            {{/* Get the number of columns from config */}}
+            {{/* TODO: clean... */}}
+            {{ $nb_cols_lg := 4 }}
+            {{ $nb_cols_sm := 2 }}
+            {{ $nb_cols_xs := 1 }}
+
+            {{ with $params.nb_columns }}
+                {{ $nb_cols_lg = . }}
+            {{ end }}
+            {{ with $params.nb_columns_small }}
+                {{ $nb_cols_sm = . }}
+            {{ end }}
+            {{ with $params.nb_columns_xsmall }}
+                {{ $nb_cols_xs = . }}
+            {{ end }}
+
+            {{ $nb_left := len .services }}
+
+            {{ $size_lg := div 12 (int $nb_cols_lg) }}
+            {{ $size_sm := div 12 (int $nb_cols_sm) }}
+            {{ $size_xs := div 12 (int $nb_cols_xs) }}
+
+            {{ $mod_lg := mod $nb_left $nb_cols_lg }}
+            {{ if lt $nb_left $nb_cols_lg }}
+            {{ $mod_lg = $nb_left }}
+            {{ end }}
+            {{ $mod_sm := mod $nb_left $nb_cols_sm }}
+            {{ if lt $nb_left $nb_cols_sm }}
+            {{ $mod_sm = $nb_left }}
+            {{ end }}
+            {{ $mod_xs := mod $nb_left $nb_cols_xs }}
+            {{ if lt $nb_left $nb_cols_xs }}
+            {{ $mod_xs = $nb_left }}
+            {{ end }}
+            <section class="section" id="services_custom"
+                >
+                {{ with .title }}
+                <div class="container-fluid">
+                    {{ partial "title-bar.html" (dict "title" . "align" $params.title_align "length" $params.title_length) }}
+                </div>
+                {{ end }}
+                <div class="container services-container">
+                    <div class="row">
+                        {{ range .services }}
+                            {{/* TODO: clean... */}}
+                            {{ $offset_lg := "col-lg-offset-0" }}
+                            {{- if eq $nb_left $mod_lg -}}
+                                {{ $double_offset := sub $nb_cols_lg $mod_lg }}
+                                {{ $off_lg := div (mul $double_offset $size_lg) 2 }}
+                                {{ $offset_lg = print "col-lg-offset-" $off_lg }}
+                                {{/* $nb_cols_lg = 3 */}}
+                            {{ end }}
+                            {{ $offset_sm := "col-sm-offset-0" }}
+                            {{- if eq $nb_left $mod_sm -}}
+                                {{ $double_offset := sub $nb_cols_sm $mod_sm }}
+                                {{ $off_sm := div (mul $double_offset $size_sm) 2 }}
+                                {{ $offset_sm = print "col-sm-offset-" $off_sm }}
+                            {{ end }}
+                            {{ $offset_xs := "col-xs-offset-0" }}
+                            {{- if eq $nb_left $mod_xs -}}
+                                {{ $double_offset := sub $nb_cols_xs $mod_xs }}
+                                {{ $off_xs := div (mul $double_offset $size_xs) 2 }}
+                                {{ $offset_xs = print "col-xs-offset-" $off_xs }}
+                            {{ end }}
+                            {{/* TODO: use "size_" variables, when sure "nb_cols_" does not change  */}}
+                            {{ $col_lg := print "col-lg-" (div 12 (int $nb_cols_lg)) }}
+                            {{ $col_sm := print "col-sm-" (div 12 (int $nb_cols_sm)) }}
+                            {{ $col_xs := print "col-xs-" (div 12 (int $nb_cols_xs)) }}
+                            {{ $col_layout := print $col_lg " " $col_sm " " $col_xs " " $offset_lg " " $offset_sm " " $offset_xs }}
+                            {{ $nb_left = sub $nb_left 1 }}
+                            <div class="{{ $col_layout }} text-center">
+                                <div class="service-box anim-wrapper">
+                                    {{ $pack := or .icon_pack "fa" }}
+                                    <i class="{{ $pack }} {{ .icon }} anim zoomIn icon-x4"></i>
+                                    <h3>{{ .name }}</h3>
+                                    {{ with .text }}
+                                        <p>{{ . }}</p>
+                                    {{ end }}
+                                    {{ if .list }}
+                                        <ul>
+                                            {{ range .list }}
+                                                <li>
+                                                    {{ . }}
+                                                </li>
+                                            {{ end }}
+                                        </ul>
+                                    {{ end }}
+                                </div>
+                            </div>
+                        {{ end }}
+                    </div>
+                </div>
+            </section>
+        {{ end }}
+    </div>
+    <script src="{{ "js/homepage-custom.js" | relURL }}"></script>
+    <script src="{{ "js/particles.js" | relURL }}"></script>
+    <link rel="stylesheet" href="css/particles.css">
+</div>
