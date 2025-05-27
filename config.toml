@@ -4,13 +4,17 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseURL = "https://derekseverin.netlify.com/"
+baseURL = "https://2-rec.github.io/it-portfolio/"
 languageCode = "en-us"
 title = "Derek Severin IT Portfolio"
 theme = "myportfolio"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[caches]
+	[caches.images]
+		dir = ':cacheDir/images'
 
 [params]
 
