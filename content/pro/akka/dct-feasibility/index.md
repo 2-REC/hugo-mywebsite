@@ -28,7 +28,7 @@ resources:
 <br>
 
 <h3>DESCRIPTION</h3>
-In response to TOYOTA MOTOR EUROPE’s need for a drawing comparison tool, AKKA was tasked with delivering a feasibility study (alongside a <a href="/pro/akka/dct-poc">proof-of-concept application</a>) to demonstrate its technical expertise.<br>
+In response to TOYOTA MOTOR EUROPE’s need for a drawing comparison tool, AKKA was tasked with delivering a feasibility study (alongside a <a href="pro/akka/dct-poc">proof-of-concept application</a>) to demonstrate its technical expertise.<br>
 <br>
 This document served as AKKA's official technical response to TME's request, outlining a strategy to meet all specified requirements while addressing the associated technical challenges.<br>
 <br>

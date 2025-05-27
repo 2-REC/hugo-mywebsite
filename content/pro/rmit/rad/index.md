@@ -50,12 +50,12 @@ resources:
 }
 </style>
 <figure id="demo_video" class="no-photoswipe">
-    <img src="/pro/rmit/rad/rad_demo.gif" style="background-color: black;" width="100%" alt="" title="RAD" alt="RAD gameplay">
+    <img src="pro/rmit/rad/rad_demo.gif" style="background-color: black;" width="100%" alt="" title="RAD" alt="RAD gameplay">
     <figcaption id="caption">RAD gameplay (VTV footage)</figcaption>
 </figure>
 <br>
 <h3>DESCRIPTION</h3>
-After <a href="/pro/rmit/others">exploring several mixed reality project ideas</a> with the team, we ultimately developed RAD.<br>
+After <a href="pro/rmit/others">exploring several mixed reality project ideas</a> with the team, we ultimately developed RAD.<br>
 <br>
 RAD is a modern, single-player reimagining of Pong, designed for mixed reality (AR/VR).<br>
 The project served as a research initiative to explore the potential of mixed reality gaming without relying on a VR headset.<br>
@@ -125,7 +125,7 @@ To enhance the overall experience, I incorporated additional features such as a 
 <br>
 At the start of the project, we discovered that head tracking using the mobile device's built-in sensors was unreliable, suffering from noticeable drift during gameplay. This caused the in-game environment to fall out of sync with the real world, making the game unplayable.<br>
 <br>
-We explored several <a href="/pro/rmit/head_tracking">potential solutions</a> to address this issue.<br>
+We explored several <a href="pro/rmit/head_tracking">potential solutions</a> to address this issue.<br>
 However, after switching to a Google Pixel device, and given the short duration of gameplay sessions, the drifting problem was no longer present, eliminating the need for additional fixes.<br>
 <br>
 To accommodate both scenarios, an option was added to the client application to play with or without the drift compensation solution.<br>

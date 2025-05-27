@@ -11,9 +11,9 @@ weight: 8
 
 A VFX pipeline is constantly evolving, requiring ongoing maintenance to adapt to the studio's growing needs.<br>
 <br>
-Beyond providing daily <a href="/pro/badclay/training">support and training</a>, several key tasks were involved in maintaining the pipeline, including:
+Beyond providing daily <a href="pro/badclay/training">support and training</a>, several key tasks were involved in maintaining the pipeline, including:
 <ul>
-<li>Managing and maintaining <a href="/pro/badclay/openpype">our OpenPype setup</a></li>
+<li>Managing and maintaining <a href="pro/badclay/openpype">our OpenPype setup</a></li>
 <li>Supervising the local ftrack event server instance</li>
 <li>Adjusting project environments and software configurations</li>
 <li>Conducting R&D to optimize workflows</li>

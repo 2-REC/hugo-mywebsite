@@ -59,7 +59,7 @@ Given a shot description generated from production data, this command-line tool 
 The tool can either create new scenes or update existing ones with validated data.<br>
 It greatly reduced the manual interventions of the animation and lighting departments, allowing artists to work directly with the most up-to-date assets.<br>
 <br>
-Integrated with <a href="/pro/badclay/mangrove">Mangrove</a>, the tool supports building scenes for multiple shots at once, and can be included in wider workflows combined with reviewing and delivering processes.<br>
+Integrated with <a href="pro/badclay/mangrove">Mangrove</a>, the tool supports building scenes for multiple shots at once, and can be included in wider workflows combined with reviewing and delivering processes.<br>
 This greatly helped during the production of the Vietnamese family fantasy film <a href="https://www.imdb.com/title/tt14391192/" target="_blank">Trang Ti</a> and the Korean horror series <a href="https://www.imdb.com/title/tt14169960/" target="_blank">All of Us Are Dead</a>.<br>
 <br>
 

@@ -32,7 +32,7 @@ During periods between client assignments, I was involved in a range of internal
 <h3>ROLE</h3>
 <ul>
 <li>Co-created and delivered a presentation on applying business rule methodologies to image analysis systems</li>
-<li>Contributed to the annual AKKA Awards event in Berlin by presenting the Drawing Comparison Tool, developed for TOYOTA MOTOR EUROPE, including both the <a href="/pro/akka/dct-poc">proof-of-concept</a> and <a href="/pro/tme/dct">full scale project</a></li>
+<li>Contributed to the annual AKKA Awards event in Berlin by presenting the Drawing Comparison Tool, developed for TOYOTA MOTOR EUROPE, including both the <a href="pro/akka/dct-poc">proof-of-concept</a> and <a href="pro/tme/dct">full scale project</a></li>
 <li>Set up a Continuous Integration (CI) system to streamline development workflows for internal teams</li>
 <li>Coached junior developers and non-technical colleagues to prepare them for upcoming assignments</li>
 <li>Assisted the HR team in building and configuring the company’s SharePoint intranet site</li>

@@ -40,7 +40,7 @@ For production management, we assessed industry-standard as well as lesser known
 <br>
 In parallel, we explored a range of open-source pipeline and asset management tools such as <a href="https://ynput.io/openpype/" target="_blank">OpenPype</a> (now AYON), <a href="https://prism-pipeline.com/" target="_blank">Prism</a>, <a href="https://github.com/alexanderrichtertd/plex" target="_blank">Plex</a>, <a href="http://damas-software.org/" target="_blank">Damas</a>, and <a href="https://www.kabaretstudio.com/" target="_blank">Kabaret</a>.<br>
 <br>
-Ultimately, we chose a combination of OpenPype and ftrack, which formed the foundation of <a href="/pro/badclay/openpype">our pipeline</a>.<br>
+Ultimately, we chose a combination of OpenPype and ftrack, which formed the foundation of <a href="pro/badclay/openpype">our pipeline</a>.<br>
 This setup has since undergone extensive customization to better align with the evolving workflow requirements.<br>
 <br>
 
@@ -64,7 +64,7 @@ ftrack was already in use at the studio, so we already knew what it was capable 
 <br>
 ShotGrid couldn't be directly tested due to licensing constraints, but internal knowledge from the team provided sufficient insights and made testing unnecessary.<br>
 <br>
-Throughout the evaluation process, I regularly presented findings to studio leadership, the production team and supervisors. I also organized <a href="/pro/badclay/training">basic training sessions</a> to let team members test and give feedback on each solution.<br>
+Throughout the evaluation process, I regularly presented findings to studio leadership, the production team and supervisors. I also organized <a href="pro/badclay/training">basic training sessions</a> to let team members test and give feedback on each solution.<br>
 <br>
 In the end, we chose ftrack, which offered the best balance of features, cost, and integration potential.<br>
 ShotGrid was a strong contender, but its higher pricing and the lack of integration into OpenPype (see below) made us choose ftrack.<br>
@@ -86,4 +86,4 @@ Kabaret was very powerful and flexible, but it was more a development framework 
 I built a few prototype tools with it to test its capabilities, but it required significant development effort to build a usable foundation.<br>
 It would be ideal as an added layer to an existing pipeline.<br>
 <br>
-Ultimately, we built our pipeline around OpenPype, tightly integrated with ftrack, and <a href="/pro/badclay/openpype">adapted it extensively</a> to meet our specific production needs.<br>
+Ultimately, we built our pipeline around OpenPype, tightly integrated with ftrack, and <a href="pro/badclay/openpype">adapted it extensively</a> to meet our specific production needs.<br>

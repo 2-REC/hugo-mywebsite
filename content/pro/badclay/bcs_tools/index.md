@@ -20,10 +20,10 @@ Main benefits of a centralized pipeline include:
 The core pipeline tools consisted of:
 <ul>
 <li><b>DCC Launchers:</b> The pipeline supports the studio's most commonly used DCC applications (Maya, 3ds Max, Nuke, and Houdini) launched with project-specific environments and preconfigured settings.</li>
-<li><b><a href="/pro/badclay/maya_pipeline">Maya Asset Tools</a>:</b> A suite of tools focused on asset management, including import/export and publishing. The original tools were refactored to use the new pipeline framework.</li>
-<li><b><a href="/pro/badclay/maya_tools">Maya Advanced Tools</a>:</b> Specialized tools automating or streamlining common tedious tasks.</li>
-<li><b><a href="/pro/badclay/mangrove">Mangrove Framework</a>:</b> An open-source graph-based automation system integrated into the pipeline, allowing to visually build and manage production workflows.</li>
-<li><b><a href="/pro/badclay/utilities">Utility Scripts</a>:</b> A wide range of scripts used across departments (modeling, lookdev, animation, etc.) to convert, clean, archive, and deliver asset and shot data.</li>
+<li><b><a href="pro/badclay/maya_pipeline">Maya Asset Tools</a>:</b> A suite of tools focused on asset management, including import/export and publishing. The original tools were refactored to use the new pipeline framework.</li>
+<li><b><a href="pro/badclay/maya_tools">Maya Advanced Tools</a>:</b> Specialized tools automating or streamlining common tedious tasks.</li>
+<li><b><a href="pro/badclay/mangrove">Mangrove Framework</a>:</b> An open-source graph-based automation system integrated into the pipeline, allowing to visually build and manage production workflows.</li>
+<li><b><a href="pro/badclay/utilities">Utility Scripts</a>:</b> A wide range of scripts used across departments (modeling, lookdev, animation, etc.) to convert, clean, archive, and deliver asset and shot data.</li>
 </ul>
 <br>
 

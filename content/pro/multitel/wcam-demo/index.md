@@ -43,7 +43,7 @@ resources:
 <br>
 
 <h3>DESCRIPTION</h3>
-In addition to the development work on the <a href="/pro/multitel/wcam">WCAM project</a>, Multitel was tasked with producing a demonstration video.<br>
+In addition to the development work on the <a href="pro/multitel/wcam">WCAM project</a>, Multitel was tasked with producing a demonstration video.<br>
 Part of the video showcased the complete workflow of the developed solution, combining 3D animations with real-world video footage.<br>
 The final video was presented at the WCAM booth during the <a href="https://www.annecyfestival.com/en" target="_blank">Annecy Animation Film Festival</a> in 2005.<br>
 <br>

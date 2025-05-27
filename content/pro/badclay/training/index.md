@@ -13,7 +13,7 @@ VFX artists and producers bring unique knowledge, experience, and habits to the 
 Their input is essential in shaping an efficient and tailored pipeline, as their insights often lead to valuable improvements in tools and workflows.<br>
 <br>
 The exchange of information is bidirectional.<br>
-While the pipeline must adapt to artists' needs, users must also stay informed about the <a href="/pro/badclay/pipeline_mgt">evolving pipeline environment</a>.<br>
+While the pipeline must adapt to artists' needs, users must also stay informed about the <a href="pro/badclay/pipeline_mgt">evolving pipeline environment</a>.<br>
 Additionally, new team members must be onboarded quickly and efficiently.<br>
 <br>
 To ensure this, up-to-date documentation and continuous training are vital.<br>
