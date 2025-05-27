@@ -26,7 +26,7 @@ weight: 7
 ---
 
 <h3>DESCRIPTION</h3>
-Following <a href="/pro/badclay/rnd">extensive research and experimentation</a>, we built our pipeline around OpenPype, leveraging its strong integration with ftrack.<br>
+Following <a href="pro/badclay/rnd">extensive research and experimentation</a>, we built our pipeline around OpenPype, leveraging its strong integration with ftrack.<br>
 <br>
 While both OpenPype and ftrack provide solid out-of-the-box functionality, extensive customization was necessary to align with the studio's needs.
 Early in development, we identified areas requiring modifications, ranging from configuration and code changes to the creation of entirely new components.<br>
@@ -38,7 +38,7 @@ The main areas of focus for the OpenPype-based pipeline included:
 <li>Tool integration maintenance, ensuring compatibility with evolving and new tools.</li>
 <li>Regular updates to the latest OpenPype versions, while maintaining compatibility with custom developments.</li>
 <li>Contribution to the open-source repository, including bug fixes and feature proposals.</li>
-<li><a href="/pro/badclay/training">Training and support</a> for artists, producers, and technical departments.</li>
+<li><a href="pro/badclay/training">Training and support</a> for artists, producers, and technical departments.</li>
 </ul>
 <br>
 This resulted in ongoing integration and refinement of the pipeline to manage the studio workflows, focusing primarily on ftrack, Maya and Nuke.<br>
@@ -128,6 +128,6 @@ The system enabled artists to publish their work daily, with a reduced or tailor
 <br>
 This gave team leads better visibility into ongoing progress, while also allowing more flexible tasks handovers, especially during unexpected absences.<br>
 <br>
-Daily publishes were managed using our custom DailyQC tool, built on a <a href="/pro/badclay/qc_tools">modified version of Pyblish (and QuickQC)</a>, and fully integrated into OpenPype.<br>
+Daily publishes were managed using our custom DailyQC tool, built on a <a href="pro/badclay/qc_tools">modified version of Pyblish (and QuickQC)</a>, and fully integrated into OpenPype.<br>
 <br>
 The DailyQC tool operated alongside OpenPype's standard publishing system, using dedicated configurations and plugins tailored for internal daily submissions.<br>

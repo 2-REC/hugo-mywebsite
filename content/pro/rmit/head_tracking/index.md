@@ -21,7 +21,7 @@ resources:
 ---
 
 <h3>DESCRIPTION</h3>
-During the development of the <a href="/pro/rmit/rad">RAD game project</a>, significant drifting issues were encountered with head tracking when using the mobile device's sensors.<br>
+During the development of the <a href="pro/rmit/rad">RAD game project</a>, significant drifting issues were encountered with head tracking when using the mobile device's sensors.<br>
 The device's gyroscope can suffer precision problems, causing the virtual environment to gradually fall out of alignment with the player's real-world orientation.<br>
 This made the game unplayable, as situations occur where players might be facing one direction while the game reacted as if they were facing another.<br>
 <br>

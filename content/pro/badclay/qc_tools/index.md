@@ -110,5 +110,5 @@ Key improvements included:
 
 An companion tool, the QC Classifier, was also developed to manage plugin configurations.<br>
 <br>
-QuickQC was eventually integrated into our OpenPype environment, alongside the <a href="/pro/badclay/openpype/...TODO">DailyQC tool</a>.
+QuickQC was eventually integrated into our OpenPype environment, alongside the <a href="pro/badclay/openpype">DailyQC tool</a>.
 <br>

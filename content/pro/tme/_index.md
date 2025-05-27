@@ -11,7 +11,7 @@ posts_title: "PROJECTS"
 ---
 
 <h3>JOB DESCRIPTION</h3>
-After the successful completion of the <a href="/pro/akka/dct-poc">proof-of-concept tool</a> and the <a href="/pro/akka/dct-feasibility">Feasibility Study</a> proposal, TME selected AKKA for the full implementation of the Drawing Comparison Tool project.<br>
+After the successful completion of the <a href="pro/akka/dct-poc">proof-of-concept tool</a> and the <a href="pro/akka/dct-feasibility">Feasibility Study</a> proposal, TME selected AKKA for the full implementation of the Drawing Comparison Tool project.<br>
 <br>
 A team of four developers was assigned to the project, working remotely from AKKA’s offices. The team participated in daily SCRUM meetings via phone and weekly technical meetings at TME’s offices.<br>
 <br>

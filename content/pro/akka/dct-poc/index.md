@@ -44,10 +44,10 @@ resources:
 <br>
 
 <h3>DESCRIPTION</h3>
-In response to Toyota Motor Europe's request for a drawing comparison tool, AKKA developed a proof-of-concept application (alongside a <a href="/pro/akka/dct-feasibility">feasibility study document</a>) to demonstrate its technical capabilities.<br>
+In response to Toyota Motor Europe's request for a drawing comparison tool, AKKA developed a proof-of-concept application (alongside a <a href="pro/akka/dct-feasibility">feasibility study document</a>) to demonstrate its technical capabilities.<br>
 <br>
 The prototype enables users to compare two drawing revisions by automatically highlighting differences. The process streamlines engineers' workflows while maintaining full user control, significantly enhancing efficiency and accuracy.<br>
-Following the successful delivery of both the offer and the prototype, TME selected AKKA to develop the <a href="/pro/tme/dct">full-scale solution</a>.<br>
+Following the successful delivery of both the offer and the prototype, TME selected AKKA to develop the <a href="pro/tme/dct">full-scale solution</a>.<br>
 <br>
 Additionally, the prototype was submitted to the AKKA Awards contest, where it was selected as a finalist and earned second place at the finals in Berlin.<br>
 <br>

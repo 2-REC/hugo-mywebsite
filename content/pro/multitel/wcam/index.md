@@ -83,4 +83,4 @@ In addition to these tasks, I was responsible for developing several new compone
 <li>A UI module integrated into the application to display alarm messages and provide an interface for managing them.</li>
 </ul>
 <br>
-Additionally to the development, our team was also tasked with creating a <a href="/pro/multitel/wcam-demo">demonstration video</a> to showcase the complete workflow of the developed solution.<br>
+Additionally to the development, our team was also tasked with creating a <a href="pro/multitel/wcam-demo">demonstration video</a> to showcase the complete workflow of the developed solution.<br>

@@ -42,7 +42,7 @@ The purpose of the drawing comparison system is to:<br>
 </ul>
 <br>
 
-AKKA was selected to implement the full project based on the <a href="/pro/akka/dct-feasibility">Feasibility Study</a> document and the <a href="/pro/akka/dct-poc">proof-of-concept tool</a> provided to TME.<br>
+AKKA was selected to implement the full project based on the <a href="pro/akka/dct-feasibility">Feasibility Study</a> document and the <a href="pro/akka/dct-poc">proof-of-concept tool</a> provided to TME.<br>
 <br>
 
 <h3>ROLE</h3>
