@@ -1,11 +1,22 @@
-# MyWebsite
+# IT Portfolio
 
-Website showcasing the different projects I have been working on both professionally and personally.
+## Description
 
-This is my first website, done with HUGO, using the theme ["MyPortfolio"](https://github.com/2-REC/hugo-myportfolio-theme) (developed by myself).
+Website showcasing the different projects I have been working on both professionally.
 
-After cloning the repository, it is required to clone the submodule as well.\
-This can be done the first time with the following command:\
-    git submodule update --init --recursive
+(personal projects will be added later)
 
-Later, the submodule directory can be used as a normal Git repository.
+
+This is my first website, done with HUGO, using the theme ["MyPortfolio"](https://github.com/2-REC/hugo-myportfolio-theme).
+
+The website is available [here](https://2-rec.github.io/it-portfolio).
+
+
+# Usage
+
+After cloning the repository, it is required to clone the submodule as well.
+
+This can be done the first time with the following command:
+```
+git submodule update --init --recursive
+```
