@@ -6,7 +6,7 @@ background_image: "wall.png"
 # Optional "text", "icon_pack" & "list"
 services:
 - name: "Tool Crafting"
-  text: "Custom tools for specific needs."
+  text: "Tailored to specific needs."
   icon: "fa-toolbox"
   icon_pack: "fas"
   list: [
@@ -15,33 +15,34 @@ services:
     "GUI or command line",
     "From scrath or upgrade"
   ]
-- name: "Game Development"
+- name: "Gamedev"
   text: "From prototype to final product."
   icon: "fa-gamepad"
   icon_pack: "fas"
   list: [
     "2D, 3D, VR/AR",
-    "Unreal Engine, Unity, code",
-    "PC, Web, mobile, etc.",
-    "Leisure, serious, educational"
-  ]
-- name: "Assistance"
-  text: "Share knowledge and expertise."
-  icon: "fa-chalkboard-teacher"
-  icon_pack: "fas"
-  list: [
-    "Consulting",
-    "Training, coaching, mentoring",
-    "Team or project management"
+    "Unreal, Unity, other",
+    "PC, web, mobile",
+    "Entertainment, educational, serious"
   ]
 - name: "Collaboration"
   text: "Work with the team."
   icon: "fa-wpforms"
   icon_pack: "fab"
   list: [
-    "Requirements analysis",
+    "Analysis",
     "Design",
     "Implementation",
     "Validation"
+  ]
+- name: "Support"
+  text: "Bring knowledge and expertise."
+  icon: "fa-chalkboard-teacher"
+  icon_pack: "fas"
+  list: [
+    "Consulting",
+    "Training",
+    "Coaching and mentoring",
+    "Management"
   ]
 ---
