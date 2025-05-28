@@ -19,7 +19,7 @@
 
     --BUTTON-FONT: var(--GENERAL-FONT-2);
 */
---GENERAL-COLOR-1: rgb(255, 100, 25);
+    --GENERAL-COLOR-1: rgb(255, 100, 25);
 
     /* HORIZONTAL RULE (HR) */
 /*
@@ -112,7 +112,8 @@
     --about-main-text-padding-h: 1rem;
     --about-main-text-padding-v: 0;
     */
-    --about-link-color: var(--GENERAL-FONT-COLOR-1);
+    --about-link-color: var(--GENERAL-LINK-COLOR-1);
+    --about-link-color-active: var(--GENERAL-LINK-ACTIVE-COLOR-1);
     --about-bkg-color: white;
 
     --about-title-bar-color: var(--GENERAL-COLOR-1);
