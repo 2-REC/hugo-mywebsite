@@ -1,17 +1,15 @@
 ---
 #title_logo: "images/"
 title: "Derek SEVERIN"
-subtitle: "Software Engineer"
+subtitle: "Software Design & Engineering"
+button_image: "images/arrow_down.png"
 background: "door.png"
 #background_opacity: 50%
 background_hidden: "door_light.png"
 background_hidden_speed: 1
 #background_video: ""
 text: >
-    Applications & Tools Development  
+    Applications & Tools  
 
-    UI/UX & Web Design  
-
-    Consulting & Training
-button_image: "images/arrow_down.png"
+    Gaming / VFX / CAD
 ---
