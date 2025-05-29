@@ -10,7 +10,7 @@ services:
   icon: "fa-toolbox"
   icon_pack: "fas"
   list: [
-    "VFX, CAD, games, etc.",
+    "VFX, CAD, gaming, etc.",
     "Standalone or integrated",
     "GUI or command line",
     "From scrath or upgrade"
@@ -21,7 +21,7 @@ services:
   icon_pack: "fas"
   list: [
     "2D, 3D, VR/AR",
-    "Unreal, Unity, other",
+    "Unity, Unreal, others",
     "PC, web, mobile",
     "Entertainment, educational, serious"
   ]
