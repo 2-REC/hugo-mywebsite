@@ -55,8 +55,8 @@ unsafe = true
     [params.navigation]
 
         # Brand (OPTIONAL - but required if want HOME button)
-        brand = "DS"
-        #brand_logo = "images/"
+        #brand = "DS"
+        brand_logo = "favicon.ico"
 
         # NAVIGATION MENU ENTRIES (OPTIONAL)
         # Add an entry for each section to add in the navigation menu.
