@@ -27,8 +27,8 @@ services:
   ]
 - name: "Collaboration"
   text: "Work with the team."
-  icon: "fa-wpforms"
-  icon_pack: "fab"
+  icon: "fa-handshake"
+  icon_pack: "fas"
   list: [
     "Analysis",
     "Design",
