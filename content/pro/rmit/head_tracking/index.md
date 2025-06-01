@@ -4,7 +4,7 @@ subtitle: "Tracking using OpenCV"
 #image: ""
 small_image: "headset.jpg"
 weight: 1
-categories: [ "Gaming", "R&D", "VR" ]
+categories: [ "3D", "Computer Vision", "Embedded", "Gaming", "R&D", "VR/AR" ]
 tags: [ "Android", "C#", "OpenCV", "Unity" ]
 images:
 - src: "headset.jpg"

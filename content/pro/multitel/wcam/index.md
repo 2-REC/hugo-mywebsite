@@ -1,11 +1,10 @@
 ---
 title: "FP6 - WCAM"
 subtitle: "Wireless Cameras and Audio-visual Seamless Networking"
-#image: "<IMAGE_FILE>"
 small_image: "wcam.png"
 #small_url: "<URL>"
-categories: [ "Data Exchange", "Embedded", "Image Analysis", "Network", "R&D", "Security", "Video" ]
-tags: [ "C", "Scripting", "FFmpeg", "Codecs", "Network Protocols" ]
+categories: [ "Computer Vision", "Data Exchange", "Embedded", "GUI", "Image Processing", "R&D", "Security", "Web" ]
+tags: [ "Bash", "C", "FFmpeg", "Scripting" ]
 images_copyright: "MULTITEL"
 images:
 - src: "beta1.jpg"
@@ -67,7 +66,7 @@ The WCAM platform will include the following key modules:<br>
 <h3>ROLE</h3>
 As a Research Engineer, I was responsible for the development, enhancement, and integration of video streaming and visualization tools within an embedded environment on PDAs running Windows CE.<br>
 My role involved researching and comparing existing systems and applications to determine the one most suitable for adaptation to meet the project’s requirements.<br>
-The selected application was BetaPlayer (now known as <a href="https://en.wikipedia.org/wiki/The_Core_Pocket_Media_Player" target="_blank">TCPMP</a>), which leveraged the FFmpeg library, including its libavformat and libavcodec components.<br>
+The selected application was BetaPlayer (now known as <a href="https://en.wikipedia.org/wiki/The_Core_Pocket_Media_Player" target="_blank">TCPMP</a>), which was using the FFmpeg framework, including its libavformat and libavcodec libraries.<br>
 <br>
 The main components to be integrated were:<br>
 <ul>
@@ -80,7 +79,11 @@ In addition to these tasks, I was responsible for developing several new compone
 <ul>
 <li>An MPEG Transport Stream (MP2TS) transcoding module to process streams provided by EONA</li>
 <li>New communication protocol support (UDP and RTP) to handle various video streams, alongside the existing HTTP protocol.</li>
-<li>A UI module integrated into the application to display alarm messages and provide an interface for managing them.</li>
+<li>A GUI module integrated into the application to display alarm messages and provide an interface for managing them.</li>
 </ul>
 <br>
-Additionally to the development, our team was also tasked with creating a <a href="pro/multitel/wcam-demo">demonstration video</a> to showcase the complete workflow of the developed solution.<br>
+In addition to the streaming servers developed by the project partners, I configured and experimented with several streaming systems, including FFserver and VideoLAN Server (VLS, now incorporated in VLC media player). This allowed extensive testing across various scenarios, including multiple server sources, streaming protocols and video formats.<br>
+This involved modifying parts of their source code to handle the new formats and network transfer protocols.<br>
+<br>
+<br>
+Alongside the development, our team was also tasked with creating a <a href="pro/multitel/wcam-demo">demonstration video</a> to showcase the complete workflow of the developed solution.<br>

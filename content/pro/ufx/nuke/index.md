@@ -4,7 +4,7 @@ subtitle: "Custom Nuke Nodes to streamline compositing workflows"
 small_image: "logos/nuke.png"
 weight: 0
 categories: [ "VFX" ]
-tags: [ "Nuke", "Python", "SG/Flow" ]
+tags: [ "Flow/SG", "Nuke", "Python", "TCL" ]
 images_copyright: "UFX STUDIOS"
 #images:
 #- src: "..."

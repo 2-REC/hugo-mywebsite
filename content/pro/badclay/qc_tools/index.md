@@ -2,8 +2,8 @@
 title: "QC Tools"
 subtitle: "VFX Assets Quality Control"
 small_image: "square-check-solid.png"
-categories: [ "VFX" ]
-tags: [ "Maya", "Python", "Qt" ]
+categories: [ "3D", "GUI", "VFX" ]
+tags: [ "Maya", "MEL", "Python", "Qt" ]
 images_copyright: "Bad Clay Studio"
 images:
 - src: "1_qc_ui.png"

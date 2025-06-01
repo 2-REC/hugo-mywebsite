@@ -2,8 +2,8 @@
 title: "BCS Tools"
 subtitle: "Initial Centralized VFX Pipeline"
 small_image: "bcs.jpg"
-categories: [ "VFX" ]
-tags: [ "3ds Max", "Houdini", "Maya", "Nuke", "Python", "Qt" ]
+categories: [ "3D", "Data Exchange", "GUI", "Management", "Support", "VFX", "Web" ]
+tags: [ "3ds Max", "Maya", "Nuke", "Python", "Qt", "Scripting" ]
 weight: 2
 ---
 

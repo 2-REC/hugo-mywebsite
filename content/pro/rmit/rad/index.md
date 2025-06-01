@@ -4,8 +4,8 @@ subtitle: "Competitive Mixed-Reality Game"
 image: "ingame.png"
 small_image: "rad_logo.jpg"
 weight: 0
-categories: [ "Gaming", "R&D", "VR" ]
-tags: [ "Android", "C#", "JavaScript", "Unity" ]
+categories: [ "3D", "Embedded", "Gaming", "GUI", "R&D", "VR/AR", "Web" ]
+tags: [ "Android", "C#", "CSS", "HTML", "JavaScript", "Unity" ]
 images_copyright: "RMIT"
 images:
 - src: "0_design.jpg"

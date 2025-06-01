@@ -3,8 +3,8 @@ title: "LapTrainer"
 subtitle: "LapMan VR Simulator"
 small_image: "logos/1-medsys.png"
 small_url: "https://www.medsys.be/"
-categories: [ "3D", "Medical", "VR" ]
-tags: [ "C++", "OGRE", "OpenGL", "DirectX", "Blender", "Gimp" ]
+categories: [ "3D", "Gaming", "GUI", "Management", "Medical", "VR/AR" ]
+tags: [ "Blender", "C++", "DirectX", "Ogre", "OpenGL" ]
 images_copyright: "MEDSYS"
 images:
 - src: "1_lapman.jpg"

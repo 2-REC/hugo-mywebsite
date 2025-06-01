@@ -3,8 +3,8 @@ title: "Pipeline Support"
 subtitle: "Daily artists and production teams support"
 small_image: "logos/0_redmine.webp"
 weight: 3
-categories: [ "3D", "Support", "VFX" ]
-tags: [ "Flask", "Maya", "Nuke", "Python", "SG/Flow" ]
+categories: [ "3D", "DB", "Management", "Mentoring", "R&D", "Support", "VFX", "Web" ]
+tags: [ "Bash", "CSS", "Flask", "Flow/SG", "Hiero", "HTML", "JavaScript", "Maya", "Nuke", "Python", "Qt", "Scripting", "TCL" ]
 images_copyright: "UFX STUDIOS"
 images:
 - src: "redmine.jpg"
@@ -35,3 +35,5 @@ As part of the support team:
 <li>Maintain and improve existing pipeline tools by performing troubleshooting, bug fixes, and implementing new features or user requested updates.</li>
 <li>Deliver comprehensive pipeline support across tools such as ShotGrid/Flow, Nuke, Maya, and Gaffer, along with general Linux system assistance.</li>
 </ul>
+Additionally, for a brief period of approximately one month, I mentored an intern who was completing her design studies and exploring the field of VFX and pipeline TD.<br>
+My guidance focused primarily on introducing her to algorithmic thinking and Python programming.<br>

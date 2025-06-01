@@ -3,8 +3,8 @@ title: "ORES"
 subtitle: "Embedded top-up management system on XENTA and YOMANI payment terminals"
 small_image: "ores.png"
 small_url: "https://www.ores.be/"
-categories: [ "Banking", "Data Exchange", "Embedded", "Network", "Security" ]
-tags: [ "C", "Network Protocols", "Python", "Scripting" ]
+categories: [ "Banking", "Data Exchange", "Embedded", "Web" ]
+tags: [ "Bash", "C", "Python", "Scripting" ]
 images:
 - src: "terminals.jpg"
   title: "YOMANI Terminals"
@@ -33,4 +33,5 @@ The smartcard is subsequently used to activate a gas or electricity meter with t
 <br>
 
 <h3>ROLE</h3>
-As a developer, I was primarily responsible for the telecommunications module, handling the encoding and decoding of messages exchanged between the payment terminals and secured servers.<br>
+As a developer, I was primarily responsible for the telecommunications module written in C, handling the encoding and decoding of messages exchanged between the payment terminals and secured servers.<br>
+Test servers used to mimick transactions were developed in Python.<br>

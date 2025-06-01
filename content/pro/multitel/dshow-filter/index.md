@@ -3,8 +3,8 @@ title: "MvPeopleCounting"
 subtitle: "DirectShow Filter To Count People"
 small_image: "logos/1-quadrox.png"
 small_url: "https://quadrox.com/"
-categories: [ "Embedded", "Image Analysis", "Security", "Video" ]
-tags: [ "Assembly", "C", "C++", "Codecs", "DirectX", "FFmpeg", "Scripting" ]
+categories: [ "Computer Vision", "Embedded", "Image Processing", "Security" ]
+tags: [ "C", "C++", "DirectX", "FFmpeg", "Scripting" ]
 images_copyright: "MULTITEL"
 images:
 - src: "config.png"

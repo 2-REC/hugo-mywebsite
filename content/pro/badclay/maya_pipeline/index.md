@@ -2,8 +2,8 @@
 title: "Maya Asset Tools"
 subtitle: "Shaders, Animation and Groom Management"
 small_image: "logos/maya.png"
-categories: [ "VFX" ]
-tags: [ "Maya", "Python", "Qt" ]
+categories: [ "3D", "GUI", "VFX" ]
+tags: [ "Maya", "MEL", "Python", "Qt" ]
 images_copyright: "Bad Clay Studio"
 images:
 - src: "export_anim_cache.png"
