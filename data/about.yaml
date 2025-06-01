@@ -7,40 +7,22 @@ avatar2: "avatar2.png"
 #profile_text: >
 
 main_text: >
-    As a freelancer, I offer development <a id="about_services_link" class="page-jump" href="#services">services</a> to help bring your project to life.  
-
-    Whether you're starting from the ground up or enhancing an existing system,
-    I specialize in developing both standalone applications and integrated tools tailored to your needs,
-    from initial prototypes to fully finished products.  
-
-    I’m also available to collaborate with you or support your team at any stage of the development process.
-
-
-    Software developer since the early 2000s,
-    I've been working on numerous <a class="page-jump" href="#projects_pro">projects for several companies across a wide range of industries</a>.
-
-
-    My experience spans from CAD and image analysis tools to web and embedded applications,
-    in domains ranging from aerospace and automotive to video games and VFX.  
-
-    Over the years, I’ve taken on nearly every role in a project’s lifecycle:
-    Project Leader, Functional Analyst, Architect, Developer and QA Engineer to name a few.
-
-
-    This journey has given me a broad and <a class="page-jump" href="#skills">versatile skill set</a>,
-    along with deep expertise in various technologies and methodologies.
-
-
-    Outside of my professional work, I pursue personal projects,
-    mainly around video games, mobile apps, and web design.
-    I also enjoy writing blogs about topics that matter to me and that I want to share.
-
-
-    This website showcases my work in software development and IT related fields,
-    and acts as a companion to my <a class="page-jump" href="#skills">resume</a>.
-
-
-    If you're curious to learn more or have a project in mind, feel free to <a class="page-jump" href="#contact">reach out</a>.  
-
-    I'm based between Brussels, Belgium, and Ho Chi Minh City, Vietnam.
+    I offer development <a id="about_services_link" class="page-jump" href="#services">services</a> to turn software ideas into reality.<br>
+    <br>
+    Whether building a system from the ground up or improving and extending existing solutions, I specialize in developing both standalone applications and integrated tools, tailored to specific needs.<br>
+    From early-stage prototypes to production-ready systems, I offer support at any phase of the development lifecycle, either independently or as part of a team.<br>
+    <br>
+    Since the early 2000s, I've collaborated on numerous <a class="page-jump" href="#projects_pro">projects with companies across a wide range of industries</a>, including aerospace, automotive, banking, security, video games, and visual effects.<br>
+    My experience covers diverse technical domains, from CAD and image processing to web development and embedded systems.<br>
+    Over the years, I've taken on nearly every role in a project's lifecycle: Project Lead, Functional Analyst, Architect, Developer and QA Engineer to name a few.<br>
+    This journey has given me a broad and <a class="page-jump" href="#skills">versatile skill set</a>, along with deep expertise in various technologies and methodologies.<br>
+    <br>
+    This website showcases my professional work in software development and IT related fields.<br>
+    It also serves as a companion to my <a class="page-jump" href="#skills">resume</a>.<br>
+    <br>
+    Outside of professional work, I enjoy working on personal projects in game development and web design, as well as sharing thoughts and interests through blogging.<br>
+    <br>
+    I live in Ho Chi Minh City, Vietnam, but regularly spend time in Brussels, Belgium, where I'm originally from.<br>
+    <br>
+    If you have a project in mind or just want to connect, please feel free to <a class="page-jump" href="#contact">reach out</a>.
 ---

@@ -1,11 +1,9 @@
 ---
 title: "3D Human Characters Modelisation"
 subtitle: "Creation of animated 3D human models"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
-categories: [ "3D", "Security", "VR" ]
-tags: [ "3ds Max", "Photoshop" ]
+small_image: "3dsmax.png"
+categories: [ "3D", "Gaming", "Security", "VR/AR" ]
+tags: [ "3ds Max" ]
 images:
 - src: "1-walkinside.jpg"
   title: "WalkInside"
@@ -30,7 +28,8 @@ Create interactive and animated 3D human characters to populate environments wit
 <br>
 
 <h3>ROLE</h3>
-As a 3D Modeler, responsible for researching available solutions for realistic animated human models and, if needed, creating them in-house using 3ds Max.<br>
+As a 3D Modeler, responsible for researching available solutions for realistic animated human models.<br>
+Ultimately ended up creating the models in-house using 3ds Max.<br>
 <br>
 <br>
 * The WalkInside software and all the images and logos on this page are property of Siemens.<br>

@@ -4,8 +4,8 @@ subtitle: "Custom Commands and Tools for CATIA V5"
 image: "head.jpg"
 image_copyright: "SONACA"
 small_image: "catia.jpg"
-categories: [ "3D", "Aerospace", "CAD", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Web" ]
-tags: [ "C++", "VB", "CAA RADE", "CATIA V5", "HTML", "CSS", "SQL", "Scripting", "DB", "SAP", "VPM" ]
+categories: [ "3D", "Aerospace", "CAD", "Data Exchange", "DB", "GUI", "PLM", "SCM", "Support" ]
+tags: [ "Bash", "C++", "CAA RADE", "CATIA V5", "CSS", "HTML", "Scripting", "SQL", "VB" ]
 images_copyright: "SONACA"
 images:
 - src: "1-rule_design_inspector-1-dialogbox.gif"

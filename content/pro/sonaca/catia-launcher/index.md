@@ -2,8 +2,8 @@
 title: "CATIA V5 Launcher"
 subtitle: "Start CATIA V5 in the desired environment"
 small_image: "catia.jpg"
-categories: [ "Aerospace", "CAD", "Consulting", "Network", "Project Management", "Web" ]
-tags: [ "VB", "CATIA V5", "Scripting", "DB" ]
+categories: [ "Aerospace", "CAD", "DB", "GUI" ]
+tags: [ "CATIA V5", "VB" ]
 images_copyright: "SONACA"
 images:
 - src: "1-v5_launcher-win.gif"

@@ -2,8 +2,8 @@
 title: "VW Direct Deliveries"
 subtitle: "Study on impacts of implementing VW Direct Deliveries"
 small_image: "vw.png"
-categories: [ "Automotive", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Team Management" ]
-tags: [ "DB", "EDI", "SAP", "Scripting" ]
+categories: [ "Automotive", "Data Exchange", "DB", "Management", "SCM" ]
+tags: [ "Scripting" ]
 images_copyright: "AGC"
 images:
 - src: "dd.png"

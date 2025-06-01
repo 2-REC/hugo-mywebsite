@@ -3,8 +3,8 @@ title: "Flow/Shotgrid AMIs"
 subtitle: "Customized context menu items"
 small_image: "logos/flow.png"
 weight: 2
-categories: [ "VFX" ]
-tags: [ "CSS", "Flask", "HTML", "JavaScript", "Python", "SG/Flow" ]
+categories: [ "DB", "VFX", "Web" ]
+tags: [ "CSS", "Flask", "Flow/SG", "HTML", "JavaScript", "Python" ]
 #images_copyright: "UFX STUDIOS"
 images:
 - src: "sg-actions.png"

@@ -2,8 +2,8 @@
 title: "Dacia Label Change"
 subtitle: "Update to Dacia Delivery label"
 small_image: "dacia.jpg"
-categories: [ "Automotive", "Data Exchange", "Network", "Project Management", "Supply Chain", "Support", "Team Management" ]
-tags: [ "DB", "EDI", "SAP", "Scripting" ]
+categories: [ "Automotive", "DB", "Management", "SCM" ]
+tags: [ "Scripting" ]
 images:
 - src: "dacia-label.jpg"
   title: "Dacia label"

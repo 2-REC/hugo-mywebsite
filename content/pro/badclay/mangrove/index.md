@@ -3,8 +3,8 @@ title: "Mangrove"
 subtitle: "Nodal pipeline manager from 'The Yard VFX'"
 small_image: "logos/mangrove_logo.png"
 small_url: "https://opensource.theyard-vfx.com/mangrove/"
-categories: [ "VFX" ]
-tags: [ "Python" ]
+categories: [ "DB", "VFX", "Web" ]
+tags: [ "Python", "Qt", "Scripting" ]
 images_copyright: "Bad Clay Studio"
 images:
 - src: "0_mangrove_graph.jpg"

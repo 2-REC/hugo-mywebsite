@@ -2,8 +2,8 @@
 title: "Training"
 subtitle: "VFX Pipeline Training & Support"
 small_image: "chalkboard.png"
-categories: [ "VFX" ]
-tags: [ "ftrack", "Maya", "Nuke", "OpenPype", "Python", "Scripting" ]
+categories: [ "3D", "Data Exchange", "Management", "Mentoring", "PLM", "Support", "VFX", "Web" ]
+tags: [ "3ds Max", "ftrack", "MAXScript", "Maya", "MEL", "OpenPype", "Python", "Qt", "Scripting" ]
 weight: 9
 ---
 
