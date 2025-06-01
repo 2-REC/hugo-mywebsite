@@ -2,12 +2,8 @@
 title: "Pipeline R&D"
 subtitle: "VFX Production & Asset Management Solutions"
 small_image: "brain.png"
-categories: [ "VFX" ]
-tags: [ "JavaScript", "Python", "Qt" ]
-images:
-- src: "..."
-  title: "..."
-  copyright: "..."
+categories: [ "Data Exchange", "DB", "GUI", "PLM", "R&D", "VFX", "Web" ]
+tags: [ "Flow/SG", "ftrack", "JavaScript", "OpenPype", "Python", "Qt", "Scripting" ]
 resources:
 - src: "logos/aquarium.png"
   title: "Aquarium"

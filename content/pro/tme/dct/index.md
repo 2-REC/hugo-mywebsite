@@ -1,8 +1,9 @@
 ---
 title: "Drawing Comparison Tool"
-subtitle: "Automated Comparison Tool between 2 drawing revisions"
-categories: [ "Automotive", "CAD", "Image Analysis", "Network", "Project Management", "R&D", "Team Management", "Web" ]
-tags: [ "CSS", "DB", "HTML", "JavaScript", "OpenCV" ]
+subtitle: "Drawing Revisions Automated Comparison Tool"
+small_image: "toyota.png"
+categories: [ "Automotive", "CAD", "Computer Vision", "GUI", "Image Processing", "Management", "Mentoring", "R&D", "Web" ]
+tags: [ "CSS", "Flask", "HTML", "JavaScript", "OpenCV", "Python" ]
 images_copyright: "TOYOTA MOTOR EUROPE"
 resources:
 - src: "logos/1-toyota.png"
@@ -46,6 +47,8 @@ AKKA was selected to implement the full project based on the <a href="pro/akka/d
 <br>
 
 <h3>ROLE</h3>
-As the Technical Leader, I was responsible for analyzing the requirements and selecting the appropriate technologies and implementation approaches, which I then validated with the business and management teams (following the technical offer and Feasibility Study provided to the client).<br>
-I also managed a development team of four developers, ensuring that requirements were met, timelines were followed, and communication flowed effectively between the technical team, management, and the client.<br>
-In addition to overseeing the development, I contributed to some of the front-end UI work, particularly focusing on the viewport-related code.<br>
+As Technical Leader, I was responsible for analyzing the requirements and selecting the appropriate technologies and implementation approaches, which I then validated with the business and management teams (following the technical offer and Feasibility Study provided to the client).<br>
+<br>
+I also managed a development team of four developers, ensuring that requirements were met, timelines were respected, and communication flowed effectively between the technical team, management, and the client.<br>
+<br>
+In addition to overseeing the development, I contributed to some of the front-end UI work, particularly focusing on the viewport-related code written in JavaScript (using the React and PixiJS frameworks).<br>

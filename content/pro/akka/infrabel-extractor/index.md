@@ -2,8 +2,8 @@
 title: "Signal Extractor - Proof Of Concept"
 subtitle: "Proof Of Concept Prototype Tool to extract 2D symbols from PSS Railway Plans"
 small_image: "infrabel.png"
-categories: [ "CAD", "Image Analysis", "Project Management", "R&D", "Railway", "Team Management" ]
-tags: [ "Gimp", "Java", "OpenCV", "Swing" ]
+categories: [ "Computer Vision", "GUI", "Management", "Mentoring", "R&D", "Railway" ]
+tags: [ "Java", "OpenCV" ]
 images:
 - src: "1-detector.jpg"
   title: "Detector UI"
@@ -36,4 +36,4 @@ Following the successful development and demonstration of this prototype, our te
 
 <h3>ROLE</h3>
 As Project Leader, I was responsible for overseeing the prototype's development, coaching a junior Java developer, and making key technical decisions.<br>
-I designed and implemented the image analysis processes and led the successful delivery of the prototype, which directly contributed to our selection for the larger scale project at INFRABEL (IFAST).<br>
+I designed and implemented the image analysis processes using OpenCV and Java, and led the successful delivery of the prototype, which directly contributed to our selection for the larger scale project at INFRABEL (IFAST).<br>

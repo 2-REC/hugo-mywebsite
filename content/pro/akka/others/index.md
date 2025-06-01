@@ -2,8 +2,8 @@
 title: "Internal Projects"
 subtitle: "Various internal projects"
 small_image: "akka.png"
-categories: [ "Embedded", "Image Analysis", "Mentoring", "Project Management", "R&D", "Support", "Team Management", "Web" ]
-tags: [ "Android", "C++", "Gimp", "Java", "OpenCV", "Qt", "Swing", "VB" ]
+categories: [ "Computer Vision", "Embedded", "Mentoring", "R&D", "Support", "Web" ]
+tags: [ "Android", "Bash", "C", "C++", "Java", "OpenCV", "Python", "Scripting", "VB" ]
 images:
 - src: "ci-jenkins.jpg"
   title: "JENKINS Continuous Integration"

@@ -2,8 +2,8 @@
 title: "Various projects"
 subtitle: "Different internal projects"
 small_image: "atos.jpg"
-categories: [ "Banking", "Data Exchange", "Embedded", "Network", "Security" ]
-tags: [ "C", "Network Protocols", "Python", "Scripting" ]
+categories: [ "Banking", "Embedded", "Web" ]
+tags: [ "Bash", "C", "Python", "Scripting" ]
 images_copyright: "ATOS WORLDLINE"
 images:
 - src: "1-logo-anim.jpg"

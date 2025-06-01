@@ -3,8 +3,8 @@ title: "Various projects"
 subtitle: "Contribution to other projects"
 small_image: "multitel.png"
 small_url: "https://www.multitel.eu/"
-categories: [ "3D", "Image Analysis", "Network", "R&D", "Security", "Video" ]
-tags: [ "C", "C++", "Python", "Assembly", "Scripting", "OGRE", "OpenGL", "FFmpeg", "Blender", "Codecs", "DirectX", "Gimp" ]
+categories: [ "3D", "Computer Vision", "Gaming", "Image Processing", "R&D", "Security" ]
+tags: [ "Blender", "C", "C++", "DirectX", "FFmpeg", "Ogre", "OpenGL", "Python" ]
 images_copyright: "MULTITEL"
 images:
 - src: "dubai.jpg"
@@ -45,7 +45,7 @@ Additionally to the main projects, I was assigned several smaller tasks, providi
 <ul>
 <li>3D scenes modeling for algorithms testing and validation, supporting projects focused on fenced perimeter surveillance in Kuwait and Dubai.</li>
 <li>Debugging and enhancement of an Ogre 3D mesh exporter script written in Python.</li>
-<li>Porting of the in-house MultiVision software suite from Linux to Windows.</li>
+<li>Porting of the in-house MultiVision software suite written in C and C++ from Linux to Windows.</li>
 <li>Rewriting of parts of the image compression algorithms in assembly language (ASM).</li>
 <li>Design of the the logo for the MORYNE project under the European FP6 program.</li>
 </ul>

@@ -2,8 +2,8 @@
 title: "Value Added Service (VAS)"
 subtitle: "Embedded survey and advertising for YOMANI payment terminals"
 small_image: "yomani.jpg"
-categories: [ "Banking", "Data Exchange", "Embedded", "Network", "Security" ]
-tags: [ "C", "Network Protocols", "Python", "Scripting" ]
+categories: [ "Banking", "Data Exchange", "Embedded", "GUI", "Management", "Web" ]
+tags: [ "Bash", "C", "Python", "Scripting" ]
 images:
 - src: "jade-i-survey.jpg"
   title: "Jade-I Survey"

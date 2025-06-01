@@ -3,7 +3,7 @@ title: "OpenPype"
 subtitle: "OpenPype VFX Pipeline with ftrack"
 small_image: "logos/openpype.png"
 small_url: "https://openpype.ynput.io/"
-categories: [ "VFX" ]
+categories: [ "Data Exchange", "DB", "GUI", "Management", "PLM", "R&D", "Support", "VFX", "Web" ]
 tags: [ "ftrack", "OpenPype", "Python", "Qt", "Scripting", "VB" ]
 images_copyright: "Bad Clay Studio"
 images:

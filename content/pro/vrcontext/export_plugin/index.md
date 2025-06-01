@@ -1,8 +1,9 @@
 ---
 title: "3ds Max WalkInside Exporter Plugin"
 subtitle: "Development of file export plugin"
-categories: [ "3D", "Security", "VR" ]
-tags: [ "3ds Max", "MAXScript", "C++", "Scripting" ]
+small_image: "3dsmax.png"
+categories: [ "3D", "Gaming", "Security", "VR/AR" ]
+tags: [ "3ds Max", "C++", "MAXScript", "Scripting" ]
 images:
 - src: "3d.jpg"
   title: "Imported 3D Model"
@@ -29,7 +30,7 @@ Develop a file export plugin to enable the use of 3ds Max models in the company'
 <br>
 
 <h3>ROLE</h3>
-As a Tools Developer, in charge of writing the 3ds Max file export plugin.<br>
+As a Tools Developer, in charge of writing the 3ds Max file export plugin combining C++ and MAXScript.<br>
 <br>
 <br>
 * The WalkInside software and all the images and logos on this page are property of Siemens.<br>

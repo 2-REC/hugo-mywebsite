@@ -2,8 +2,8 @@
 title: "Data Exchange Tools"
 subtitle: "Data Exchange Maintenane & Updates"
 small_image: "arrows.jpg"
-categories: [ "3D", "Aerospace", "CAD", "Data Exchange", "Network", "Supply Chain", "Support" ]
-tags: [ "C++", "CAA RADE", "CATIA V5", "DB", "SAP", "SQL", "Scripting", "VPM" ]
+categories: [ "3D", "Aerospace", "CAD", "Data Exchange", "DB", "PLM", "SCM", "Support", "Web" ]
+tags: [ "Bash", "C++", "CAA RADE", "CATIA V5", "Scripting", "SQL" ]
 images_copyright: "DASSAULT SYSTEMES"
 resources:
 - src: "logos/1-sonaca-small.jpg"

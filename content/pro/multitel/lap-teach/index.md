@@ -3,8 +3,8 @@ title: "LapTeach"
 subtitle: "Tele-Scope-Mentoring for LapMan"
 small_image: "logos/1-medsys.png"
 small_url: "https://www.medsys.be/"
-categories: [ "Medical", "Network", "Video" ]
-tags: [ "C", "C++", "Java", "OpenGL", "FFmpeg", "Gimp", "Codecs", "Network Protocols" ]
+categories: [ "Gaming", "GUI", "Image Processing", "Medical", "Web" ]
+tags: [ "C", "C++", "FFmpeg", "Java", "OpenGL" ]
 images_copyright: "MEDSYS"
 images:
 - src: "lapremote.jpg"
@@ -41,4 +41,4 @@ The server's role was to receive video streams, encode them, and transmit them t
 In addition to video, it also handled data streams containing user-generated 2D geometric shapes, which were overlaid on the video in real-time on the client side.<br>
 I also contributed to the client-side development, focusing on the user interface and visual overlays.<br>
 <br>
-The server-side was developed in C++ using the FFmpeg library for encoding and decoding, while the client-side was built in Java, using the Java OpenGL binding API for the 2D overlays.<br>
+The server-side was developed in C and C++ using the FFmpeg libraries for encoding and decoding, while the client-side was built in Java and Swing, using the Java OpenGL binding API for the 2D overlays.<br>

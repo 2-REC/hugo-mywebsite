@@ -5,8 +5,8 @@ small_image: "oculus.jpg"
 image: "images/0_lab.jpg"
 image_copyright: "RMIT"
 weight: 2
-categories: [ "Gaming", "R&D", "VR" ]
-tags: [ "Android", "C#", "JavaScript", "Unity" ]
+categories: [ "3D", "Computer Vision", "Embedded", "Gaming", "GUI", "R&D", "VR/AR", "Web" ]
+tags: [ "Android", "Blender", "C#", "CSS", "HTML", "JavaScript", "OpenCV", "Unity" ]
 images_copyright: "RMIT"
 images:
 - src: "0_lab.jpg"

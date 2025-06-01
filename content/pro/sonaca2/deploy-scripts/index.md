@@ -2,8 +2,8 @@
 title: "Automation Scripts"
 subtitle: "Compilation & Deployment Scripts"
 small_image: "catia.jpg"
-categories: [ "Aerospace", "Network", "Project Management" ]
-tags: [ "CAA RADE", "CATIA V5", "Scripting" ]
+categories: [ "Aerospace", "CAD", "DB", "Web" ]
+tags: [ "Bash", "CAA RADE", "CATIA V5", "Scripting", "VB" ]
 images:
 - src: "comp1.png"
   title: "Excel Configuration Interface"

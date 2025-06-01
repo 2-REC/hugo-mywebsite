@@ -3,8 +3,8 @@ title: "Hiero Pipeline Integration"
 subtitle: "I/O Pipeline Tools in Hiero"
 small_image: "logos/hiero.png"
 weight: 1
-categories: [ "VFX" ]
-tags: [ "Hiero", "Python", "Qt", "SG/Flow" ]
+categories: [ "DB", "GUI", "VFX", "Web" ]
+tags: [ "CSS", "Flask", "Flow/SG", "Hiero", "HTML", "JavaScript", "Nuke", "Python", "Qt" ]
 images_copyright: "UFX STUDIOS"
 images:
 - src: "1-import-ref.png"

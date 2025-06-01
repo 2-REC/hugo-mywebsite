@@ -2,8 +2,8 @@
 title: "Pipeline Utilities"
 subtitle: "Utility Scripts for VFX"
 small_image: "terminal-solid.png"
-categories: [ "VFX" ]
-tags: [ "3ds Max", "Maya", "Python", "Scripting" ]
+categories: [ "3D", "Data Exchange", "VFX" ]
+tags: [ "3ds Max", "MAXScript", "Maya", "MEL", "Python", "Scripting" ]
 weight: 5
 ---
 

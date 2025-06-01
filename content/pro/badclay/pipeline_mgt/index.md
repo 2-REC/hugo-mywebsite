@@ -2,8 +2,8 @@
 title: "Pipeline Management"
 subtitle: "VFX Pipeline Development & Maintenance"
 small_image: "maintenance.png"
-categories: [ "VFX" ]
-tags: [ "ftrack", "Maya", "Nuke", "OpenPype", "Python", "Scripting" ]
+categories: [ "3D", "Data Exchange", "DB", "Management", "PLM", "R&D", "VFX", "Web" ]
+tags: [ "3ds Max", "Blender", "ftrack", "Maya", "Nuke", "OpenPype", "Python", "Qt", "Scripting" ]
 weight: 8
 ---
 
@@ -32,7 +32,7 @@ In addition to ensuring that everything functioned smoothly, I was consistently 
 My role required actively listening to feedback from supervisors, production teams, and artists, balancing the time and cost of building new solutions against leveraging existing tools.<br>
 It required me to keep researching, testing and evaluating with target users for additional tools and libraries across various stages of production.<br>
 <br>
-I explored plugins and tools for the main DCCs used at the studio (Maya, 3ds Max, Nuke, and Houdini), as well as standalone tools like:
+I explored plugins and tools for the main DCCs used at the studio (Maya, 3ds Max, Blender, Nuke, and Houdini), as well as standalone tools like:
 <ul>
 <li>Gaffer (look development)</li>
 <li>Deadline, CGRU, and OpenCue (render farm management)</li>

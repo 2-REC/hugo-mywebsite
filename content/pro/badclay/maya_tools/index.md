@@ -2,8 +2,8 @@
 title: "Maya Advanced Tools"
 subtitle: "LookDev & Animation Tools "
 small_image: "logos/maya.png"
-categories: [ "VFX" ]
-tags: [ "Maya", "Python", "Qt" ]
+categories: [ "3D", "GUI", "VFX" ]
+tags: [ "Maya", "MEL", "Python", "Qt" ]
 images_copyright: "Bad Clay Studio"
 images:
 - src: "01_lazy_main.png"

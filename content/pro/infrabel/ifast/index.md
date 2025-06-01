@@ -4,8 +4,8 @@ subtitle: "INFRABEL's Field Automated Shelter Testing"
 image: "head.jpg"
 image_copyright: "TUC RAIL"
 small_image: "ifast.png"
-categories: [ "Embedded", "Railway", "Security" ]
-tags: [ "CSS", "HTML", "Java", "JavaFX", "JavaScript" ]
+categories: [ "DB", "Embedded", "GUI", "Mentoring", "Railway", "Security", "Web" ]
+tags: [ "CSS", "HTML", "Java", "JavaScript" ]
 images_copyright: "INFRABEL"
 images:
 - src: "ifast.jpg"
@@ -36,12 +36,15 @@ resources:
 <h3>DESCRIPTION</h3>
 The IFAST application, part of the global Testing Tools Shelter project (TTS), aims at assisting the testing of the PLP modules in the shelter in a digital semi-automatic manner. Previously, the process was done by manually filling test sheets (NT22).<br>
 <br>
-Thanks to the IFAST project, the testing and filling of the NT22 can now be done digitally on a tablet device, through the user interface of the IFAST-GUI. It takes an IFAST project file produced by the IFAST-Prep tool as input and generates the filled in NT22 sheets as output.<br>
+Thanks to the IFAST project, the testing and filling of the NT22 can now be done digitally on a Windows tablet device, through the user interface of the IFAST-GUI. It takes an IFAST project file produced by the IFAST-Prep tool as input and generates the filled in NT22 sheets as output.<br>
 <br>
 The IFAST poject thus greatly eases and accelerates the process of PLP shelter testing. It also ensures no tests are forgotten and that the testing results are valid.<br>
 <br>
 
 <h3>ROLE</h3>
-As part of the development team, I was mostly responsible for the implementation of the sheet management system, allowing to display and edit the sheets in the application, as well as being able to print them in a format identical to the original paper forms.<br>
+As part of a 3 members development team, I led the implementation of the sheet management system, enabling users to view, edit, and print digital sheets with layouts closely matching the original paper forms.<br>
+The system dynamically generated HTML pages based on a custom set of UI components and layout rules, styled with CSS to faithfully replicate the printed forms. User interaction was handled through JavaScript, providing a responsive and intuitive experience.<br>
 <br>
-I was also in charge of developing most of the UI for the tablet application.<br>
+I also developed parts of the tablet application's user interface using JavaFX. Its cross-platform capabilities and UI toolkit streamlined development and ensured seamless integration of the application different components.<br>
+<br>
+Throughout the project, we provided guidance and support to a junior team member, helping him in his first full-scale professional development experience.<br>
