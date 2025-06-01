@@ -1,7 +1,7 @@
 ---
 title: "Drawing Comparison Tool - Proof-Of-Concept"
 subtitle: "Proof-Of-Concept Prototype Tool for TME Drawing Comparison Tool"
-small_image: "toyota.jpg"
+small_image: "toyota.png"
 categories: [ "Automotive", "CAD", "Computer Vision", "GUI", "Image Processing", "Management", "Mentoring", "R&D", "Web" ]
 tags: [ "C++", "CSS", "HTML", "JavaScript", "OpenCV", "Qt" ]
 images_copyright: "AKKA"

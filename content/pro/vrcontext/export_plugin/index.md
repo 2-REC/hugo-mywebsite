@@ -1,6 +1,7 @@
 ---
 title: "3ds Max WalkInside Exporter Plugin"
 subtitle: "Development of file export plugin"
+small_image: "3dsmax.png"
 categories: [ "3D", "Gaming", "Security", "VR/AR" ]
 tags: [ "3ds Max", "C++", "MAXScript", "Scripting" ]
 images:

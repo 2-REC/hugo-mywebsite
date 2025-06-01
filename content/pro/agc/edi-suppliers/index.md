@@ -1,6 +1,7 @@
 ---
 title: "EDI with Suppliers"
 subtitle: "First EDI implementation with Suppliers"
+small_image: "arrows.jpg"
 categories: [ "Automotive", "Data Exchange", "DB", "Management", "SCM" ]
 tags: [ "Scripting" ]
 images:

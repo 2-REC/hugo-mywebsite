@@ -3,6 +3,7 @@ title: "Various Tools"
 subtitle: "Data Exchange, Archiving and Other Tools"
 image: "hall.jpg"
 image_copyright: "SONACA"
+small_image: "logos/1-sonaca-small.jpg"
 categories: [ "3D", "Aerospace", "CAD", "Data Exchange", "DB", "GUI", "Management", "PLM", "SCM" ]
 tags: [ "Bash", "C#", "C++", "CAA RADE", "CATIA V5", "CSS", "HTML", "Scripting", "SQL", "VB" ]
 images_copyright: "SONACA"

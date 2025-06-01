@@ -1,6 +1,7 @@
 ---
 title: "Drawing Comparison Tool"
 subtitle: "Drawing Revisions Automated Comparison Tool"
+small_image: "toyota.png"
 categories: [ "Automotive", "CAD", "Computer Vision", "GUI", "Image Processing", "Management", "Mentoring", "R&D", "Web" ]
 tags: [ "CSS", "Flask", "HTML", "JavaScript", "OpenCV", "Python" ]
 images_copyright: "TOYOTA MOTOR EUROPE"

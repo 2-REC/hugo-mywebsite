@@ -1,9 +1,7 @@
 ---
 title: "3D Human Characters Modelisation"
 subtitle: "Creation of animated 3D human models"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
-#small_url: "<URL>"
+small_image: "3dsmax.png"
 categories: [ "3D", "Gaming", "Security", "VR/AR" ]
 tags: [ "3ds Max" ]
 images:
