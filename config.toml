@@ -4,7 +4,7 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseURL = "https://2-rec.github.io/it-portfolio/"
+baseURL = "https://derekseverin.com/"
 languageCode = "en-us"
 title = "Derek Severin IT Portfolio"
 theme = "myportfolio"
