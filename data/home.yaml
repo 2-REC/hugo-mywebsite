@@ -3,9 +3,9 @@
 title: "Derek SEVERIN"
 subtitle: "Software Design & Engineering"
 button_image: "images/arrow_down.png"
-background: "door.png"
+background: "door.jpg"
 #background_opacity: 50%
-background_hidden: "door_light.png"
+background_hidden: "door_light.jpg"
 background_hidden_speed: 1
 #background_video: ""
 text: >
