@@ -3,12 +3,11 @@ title: "SERVICES"
 background_image: "wall.jpg"
 
 # List of services.
-# Optional "text", "icon_pack" & "list"
+# Optional "text" & "list"
 services:
 - name: "Tool Crafting"
   text: "Tailored to specific needs."
-  icon: "fa-toolbox"
-  icon_pack: "fas"
+  icon: "toolbox-solid"
   list: [
     "VFX, CAD, gaming, etc.",
     "Standalone or integrated",
@@ -17,8 +16,7 @@ services:
   ]
 - name: "Gamedev"
   text: "From prototype to final product."
-  icon: "fa-gamepad"
-  icon_pack: "fas"
+  icon: "gamepad-solid"
   list: [
     "2D, 3D, VR/AR",
     "Unity, Unreal, others",
@@ -27,8 +25,7 @@ services:
   ]
 - name: "Collaboration"
   text: "Work with the team."
-  icon: "fa-handshake"
-  icon_pack: "fas"
+  icon: "handshake-simple-solid"
   list: [
     "Analysis",
     "Design",
@@ -37,8 +34,7 @@ services:
   ]
 - name: "Support"
   text: "Bring knowledge and expertise."
-  icon: "fa-chalkboard-teacher"
-  icon_pack: "fas"
+  icon: "chalkboard-teacher-solid"
   list: [
     "Consulting",
     "Training",

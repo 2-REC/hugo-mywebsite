@@ -84,8 +84,9 @@
                             {{ $nb_left = sub $nb_left 1 }}
                             <div class="{{ $col_layout }} text-center">
                                 <div class="service-box anim-wrapper">
-                                    {{ $pack := or .icon_pack "fa" }}
-                                    <i class="{{ $pack }} {{ .icon }} anim zoomIn icon-x4"></i>
+                                    {{ with .icon }}
+                                    <span class="anim zoomIn icon icon-x6" style="mask-image: url({{ printf "/icons/%s.svg" . }});"></span>
+                                    {{ end }}
                                     <h3>{{ .name }}</h3>
                                     {{ with .text }}
                                         <p>{{ . }}</p>
