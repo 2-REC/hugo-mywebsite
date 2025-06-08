@@ -15,6 +15,5 @@ download:
   button_text: "RESUME"
   # The file must be in "static/files"
   filename: "DerekSeverin_CV.pdf"
-  icon: "fa-download"
-  icon-pack: "fas"
+  icon: "download-solid"
 ---

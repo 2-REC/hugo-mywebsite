@@ -11,19 +11,15 @@ description: >
 email:
   address: "severinderek@gmail.com"
   link: true
-  icon: "fa-envelope"
-  icon-pack: "fas"
+  icon: "envelope-solid"
 
 social:
-- icon: "fa-linkedin"
-  icon_pack: "fab"
+- icon: "linkedin-brands-solid"
   link: "//linkedin.com/in/derekseverin"
 
-- icon: "fa-github"
-  icon_pack: "fab"
+- icon: "github-brands-solid"
   link: "//github.com/2-REC"
 
-- icon: "fa-gitlab"
-  icon_pack: "fab"
+- icon: "gitlab-brands-solid"
   link: "//gitlab.com/2-REC"
 ---

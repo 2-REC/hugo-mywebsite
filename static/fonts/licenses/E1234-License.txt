@@ -1,4 +1,4 @@
-﻿Copyright © 2020 GGBot, with Reserved Font Name "E1234".
+﻿Copyright © 2020-2024 GGBotNet (https://ggbot.net), with Reserved Font Name "E1234".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
