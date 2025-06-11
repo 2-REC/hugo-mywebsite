@@ -1,9 +1,0 @@
-@font-face { font-family: "Inter"; font-style: normal; src: url("../fonts/Inter-Regular.woff2") format("woff2"); }
-@font-face { font-family: "Montserrat Bold"; font-style: normal; src: url("../fonts/Montserrat-Bold.woff2"); }
-@font-face { font-family: "Roboto Bold"; font-style: normal; src: url("../fonts/Roboto-Bold.woff2"); }
-
-:root{
-    --FONT-1: "Inter", sans-serif;
-    --FONT-2: "Montserrat Bold", sans-serif;
-    --FONT-3: "Roboto Bold", sans-serif;
-}

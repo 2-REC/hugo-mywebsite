@@ -13,13 +13,6 @@
     top: 100vh;
 }
 
-@font-face {
-    font-family: "E1234";
-    src: url("../fonts/E1234-Italic.woff2");
-    font-weight: normal;
-    font-style: normal;
-}
-
 #particles_counter {
     position: absolute;
     /* When changing this, also need to adapt in JS 'updateCursor' (particles.js) */
