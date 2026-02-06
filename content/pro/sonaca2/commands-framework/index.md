@@ -2,8 +2,8 @@
 title: "CAA Commands Framework"
 subtitle: "CAA Commands & Toolbars Generator"
 small_image: "catia.jpg"
-categories: [ "3D", "Aerospace", "CAD", "Data Exchange", "Management", "PLM", "R&D" ]
-tags: [ "C++", "CAA RADE", "CATIA V5", "GUI" ]
+categories: [ "3D", "Aerospace", "CAD", "Data Exchange", "GUI", "Management", "PLM", "R&D" ]
+tags: [ "C++", "CAA RADE", "CATIA V5" ]
 images_copyright: "SONACA"
 images:
 - src: "1-saa-command.png"

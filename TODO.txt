@@ -1,0 +1,131 @@
+
+TODO:
+- check if warning "NS_BINDING_ABORTED" is important (in firefox, on reloading page when already in cache)
+
+?- [ ] Fonts
+	- [ ] Add 'display-display: swap;' in font-face definition
+	- [ ] Add 'weight' in font options
+	- [ ] Could add option to specify 'range': common | home page | other pages
+		=> When defining font, check if home page or not
+
+- [ ] Should preload JS files?
+
+- [ ] CSS
+	- [ ] Check/clean/uniformize CSS...
+	- [ ] Check with PurifyCSS:
+	https://github.com/purifycss/purifycss
+
+--------
+
+SEO:
+
+Check:
+https://hugo-mini-course.netlify.app/sections/optimizing/seo/
+
+
+---------------------------------------------
+SERVICES SECTION
+
+- add button next to counter when reaches 0 (+tooltip)
+    => open new tab with other game(s)
+    https://2-rec.github.io/js-particles/
+
+---------------------------------------------
+LOGOS:
+! => add tools? or remove everywhere... (uniformize)
+
+- vr context
+	all:
+		3ds Max
+- multitel
+	antwerp:
+		blender
+	etc...
+- BCS:
+	- utilities
+		maya, 3dsmax, shell?, ...?
+	- small images!
+		rnd
+		...
+
+- check all images sizes...
+	- logos
+	- small_images
+
+
+
+---------------------------------------------
+POSTS (single)
+
+- projects thumbnails (small_image)
+	- make all with transparent bkg or not (white)
+
+- check all links (internal + external)
+
+- check all layouts
+	- spaces between paragraphs, lists, etc.
+	- change list to ul+li (instead of '-')
+
+- CHANGE ALL TEXTS TO 'US'
+	(NO MIX UK/US!)
+
+
+==========================================================================
+LATER
+==========================================================================
+
+THEME - hugo-myportfolio-theme
+
+- README
+	- add details about config.toml for each section... (+common/other stuff?)
+		(or add more details in the file itself)
+
+- TODO
+	- check/update
+
+- CSS
+	- check all CSS vars, + consistent naming...
+
+- exampleSite
+	- CHECK + UPDATE!
+	- see if can be viewed on hugo themes site
+
+==========================================================================
+
+SITE - it-portfolio
+
+- update README + TODO (+CHECK!)
+	- details/infos?
+
+- POSTS
+	- add more details to each projects... (technical/implementation)
+
+- Deployment (github pages)
+	- every page
+		Error:
+		"Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'."
+		GitHub pages bug? Can ignore?
+			https://github.com/orgs/community/discussions/160040
+
+- ABOUT
+	- add link to "personal" when ready:
+	    <a class="page-jump" href="#projects_perso">personal projects</a>
+	(+ in CONTCT: add links for:
+		Unity, itch.io etc.
+		... upwork, (fiver), etc?
+	)
+
+- SERVICES
+	- link to other/better game...
+        	(red & black, avoid reds, pick as many blacks as possible)
+	    (+ add link in "personal")
+
+- CONTACT
+	- add links for:
+		Unity, itch.io etc.
+		... upwork, (fiver), etc?
+	- add interactivity?
+		with robot?
+
+- FOOTER
+	- add more?

@@ -62,7 +62,7 @@ The project served as a research initiative to explore the potential of mixed re
 <br>
 The resulting proof-of-concept prototype also demonstrates how simple gameplay mechanics combined with immersive AR/VR technology can create an engaging and entertaining experience.<br>
 <br>
-The project is available as a <a href="https://gitlab.com/2-REC/rad" target="_blank">GitLab repository</a>.<br>
+The project is available as a <a href="https://gitlab.com/derek-public/gamedev/unity/rad" target="_blank">GitLab repository</a>.<br>
 <br>
 
 <h4>Gameplay</h4>
